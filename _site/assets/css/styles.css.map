@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";",
+		"body {\n  font-family: Garamond, serif;\n  margin: auto;\n  padding: 18px;\n  max-width: 600px;\n  font-size: 18px;\n  text-align: left;\n  background-color: #FAF9F6;\n  position: relative;\n}\n\nnav a {\n  margin: 0px 5px;\n  color: #7575FF;\n}"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,IAAI,CAAC,EACH,WAAW,EAAE,eAAe,EAC5B,MAAM,EAAE,IAAI,EACZ,OAAO,EAAE,IAAI,EACb,SAAS,EAAE,KAAK,EAChB,SAAS,EAAE,IAAI,EACf,UAAU,EAAE,IAAI,EAChB,gBAAgB,EAAE,OAAO,EACzB,QAAQ,EAAE,QAAQ,GACnB;;AAED,AAAA,GAAG,CAAC,CAAC,CAAC,EACJ,MAAM,EAAE,OAAO,EACf,KAAK,EAAE,OAAO,GACf"
+}
