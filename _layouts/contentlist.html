@@ -7,8 +7,7 @@ layout: default
   {% for post in site.posts %}
     {% if post.categories contains page.category %}
         <li>
-          <h2><a href="{{ post.url }}">Temp-Project-{{forloop.index}}: {{ post.title }}</a></h2>
-          {{ post.excerpt }}
+          <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
         </li>
     {% endif %}
   {% endfor %}

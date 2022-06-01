@@ -41,7 +41,7 @@ Now, with that out of the way. I had a few criteria I wanted this framework to m
 
 The reason I chose to use a framework at all is I simply don't trust myself to maintain a folder full of html files and hope it all works out -- I know myself too well to play into that game. 
 
-So, one of my temp projects (which I will document and add to the site at some point), was a startup idea that was built with the Django framework. It worked great and was definitely a contender when deciding what to use here.
+So, one of my temp projects (which I will document and add to the site at some point), was a startup idea that was built with the Django framework. It worked great and was definitely a contender when deciding what to use here, however I opted not to because it actually had too much functionality for what I wanted and it seemed too over the top. 
 
 Along the journey, I discovered this idea of ["the Jamstack"](https://jamstack.org/), and quickly read a new phrase that looked interesting: "Site Generator". So, of course, I clicked it.
 
@@ -57,7 +57,7 @@ I followed Jekyll's[step-by-step tutorial](https://jekyllrb.com/docs/step-by-ste
 
 So, I wrote the "Hello World", made the same posts about a bunch of fruit, and was satisfied at how it worked. 
 
-With the simple website completed and looking like it works, I pushed the code to the repo I will be using for my Github Pages. I tried to follow the tutorial from Github, but found that it didn't matter -- a simple push to the repo after the Jekyll step-by-step worked great! (Side note: I hate any and all Github documentation, or Microsoft for that matter, it's so overly verbose and confusing to navigate for me.)
+With the simple website completed and looking like it works, I pushed the code to the repo I will be using for my Github Pages. I tried to follow the tutorial from Github, but found that it didn't matter -- a simple push to the repo after the Jekyll step-by-step worked great! (Side note: I dislike any and all Github documentation, or Microsoft documentation for that matter, it's so overly verbose and confusing to navigate for me. But that's a rant for another time.)
 
 Last was to add my custom domain. I first needed to add the apex domain redirect, so I followed the[Github tutorial](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain)on that. After that, I needed to add the `www` subdomain, so I followed the[instructions](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain-and-the-www-subdomain-variant)on that one.
 
