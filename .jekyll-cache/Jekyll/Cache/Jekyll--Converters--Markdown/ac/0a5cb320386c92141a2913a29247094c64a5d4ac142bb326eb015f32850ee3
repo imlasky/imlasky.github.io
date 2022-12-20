@@ -1,4 +1,4 @@
-I"�<p>Here’s my first post of the website. I figured the first project I should try to tackle is actually creating a home base for all of my other projects – so here I am.</p>
+I"<p>Here’s my first post of the website. I figured the first project I should try to tackle is actually creating a home base for all of my other projects – so here I am.</p>
 
 <p>For a little bit of background, I was inspired by, and inadvertently took the minimalist look of, the website<a href="tinyprojects.dev">tinyprojects.dev</a>. If you haven’t checked out that site, I highly recommend it – he’s got something fun going on.</p>
 
@@ -46,7 +46,7 @@
 
 <p>Along the journey, I discovered this idea of <a href="https://jamstack.org/">“the Jamstack”</a>, and quickly read a new phrase that looked interesting: “Site Generator”. So, of course, I clicked it.</p>
 
-<p>First up on the list of generators was Next.js. I sort of already discounted it for my purposes simply because of the .js part, but I checked it out anyways. Upon first look, it immediately made sense why websites have <em>felt</em> like they all look the same nowadays – big, bold, sans-serif font to pull together a simple, clean, look. I perused the documentation, and concluded it was indeed overkill.</p>
+<p>First up on the list of generators was Next.js. I sort of already discounted it for my purposes simply because of the .js part, but I checked it out anyways. Upon first look, it immediately made sense why websites have <em>felt</em> like they all look the same nowadays – big, bold, sans-serif font to pull together a simple, clean, look. I perused the documentation, and concluded it was indeed overkill. <a href="#1">[1]</a></p>
 
 <p>I went down the list, after having similar experiences looking into Hugo and Gatsby, until I hit Jekyll. Granted, I didn’t know jack about ruby or gems or anything like that, but the idea that it worked really well with Github Pages and I didn’t have to go through the hassle of figuring out deployments or whatnot again, made it a really nice sell.</p>
 
@@ -63,4 +63,8 @@
 <p>Last was to add my custom domain. I first needed to add the apex domain redirect, so I followed the<a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain">Github tutorial</a>on that. After that, I needed to add the <code class="language-plaintext highlighter-rouge">www</code> subdomain, so I followed the<a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain-and-the-www-subdomain-variant">instructions</a>on that one.</p>
 
 <p>After a bit of refreshing, I was successfully able to navigate to a page with my domain that said “Hello Worl” becuase I forgot to type “d” – felt like a great beginning.</p>
+
+<hr />
+
+<p>[1]<a name="1"></a> I have since learned much more about these tools since my initial writing and understand that CSS is a defining characteristic of the look and feel of these pages. I talk a bit more about what I learned in a <a href="">later blog post</a></p>
 :ET

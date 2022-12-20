@@ -45,7 +45,7 @@ So, one of my temp projects (which I will document and add to the site at some p
 
 Along the journey, I discovered this idea of ["the Jamstack"](https://jamstack.org/), and quickly read a new phrase that looked interesting: "Site Generator". So, of course, I clicked it.
 
-First up on the list of generators was Next.js. I sort of already discounted it for my purposes simply because of the .js part, but I checked it out anyways. Upon first look, it immediately made sense why websites have *felt* like they all look the same nowadays -- big, bold, sans-serif font to pull together a simple, clean, look. I perused the documentation, and concluded it was indeed overkill. 
+First up on the list of generators was Next.js. I sort of already discounted it for my purposes simply because of the .js part, but I checked it out anyways. Upon first look, it immediately made sense why websites have *felt* like they all look the same nowadays -- big, bold, sans-serif font to pull together a simple, clean, look. I perused the documentation, and concluded it was indeed overkill. [[1]](#1)
 
 I went down the list, after having similar experiences looking into Hugo and Gatsby, until I hit Jekyll. Granted, I didn't know jack about ruby or gems or anything like that, but the idea that it worked really well with Github Pages and I didn't have to go through the hassle of figuring out deployments or whatnot again, made it a really nice sell. 
 
@@ -62,3 +62,7 @@ With the simple website completed and looking like it works, I pushed the code t
 Last was to add my custom domain. I first needed to add the apex domain redirect, so I followed the[Github tutorial](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain)on that. After that, I needed to add the `www` subdomain, so I followed the[instructions](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain-and-the-www-subdomain-variant)on that one.
 
 After a bit of refreshing, I was successfully able to navigate to a page with my domain that said "Hello Worl" becuase I forgot to type "d" -- felt like a great beginning.  
+
+---
+
+[1]<a name="1"></a> I have since learned much more about these tools since my initial writing and understand that CSS is a defining characteristic of the look and feel of these pages. I talk a bit more about what I learned in a [later blog post]()

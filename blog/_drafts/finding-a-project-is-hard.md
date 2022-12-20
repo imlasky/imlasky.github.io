@@ -16,4 +16,6 @@ For instance, there are a few in my pipeline that I think are good ideas.
 * A drag-and-drop platform for data analysis
 * An idea to simplify returns (like a reverse last-mile logistics sort of thing)
 
-All of them have great intentions
+I think there is potential in all of them (some more than others), but yet I find I am just *blah* about all of them when I get down to it. 
+
+If I had to wager a guess, I 
