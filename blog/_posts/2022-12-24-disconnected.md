@@ -2,4 +2,4 @@
 layout: post
 ---
 
-Disconnected in a [Getaway](https://getaway.house/).
+Disconnected in a[Getaway](https://getaway.house/).
