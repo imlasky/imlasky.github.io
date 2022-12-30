@@ -2,7 +2,7 @@
 layout: post
 ---
 
-I've been making dumplings at home more recently (pork dumplings, to be exact, but that's not really important). And I've been finding them to be a wondrous joy to make. Taking the time to experiment, practice making the "perfect" dumpling, and using my hands to make something tangible with an immediate pay-off culminates in a rich, human experience. 
+I've been making dumplings at home more recently (pork dumplings, to be exact, but that's neither here nor there). And I've been finding them to be a wondrous joy to make. Taking the time to experiment, practice making the "perfect" dumpling, and using my hands to make something tangible with an immediate pay-off culminates in a rich, human experience. 
 
 I've started to become aware of brands of wrappers that are better than others because they can't be pinched as easily, have a little too much flour, or aren't as stretchy as others. 
 
