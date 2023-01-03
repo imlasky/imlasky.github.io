@@ -2,7 +2,7 @@
 layout: post
 ---
 
-As I have been learning Elixir, it was only natural that I discovered the[Phoenix Framework](phoenixframework.org) along with it. 
+As I have been learning Elixir, it was only natural that I discovered the[Phoenix Framework](https://phoenixframework.org) along with it. 
 
 At first glance, it seems sort of similar to Django with a MVC framework (or a MVT, or MVCT - you get it), but with the added benefit of being built on top of a much more concurrent language, Elixir (which, in turn, is built upon Erlang). This means that channels and presence essentially fall out of the framework - this is awesome. 
 
