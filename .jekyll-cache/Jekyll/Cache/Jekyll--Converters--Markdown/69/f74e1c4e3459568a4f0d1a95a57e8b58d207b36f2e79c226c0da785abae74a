@@ -1,0 +1,8 @@
+I"ò<p>As I have been learning Elixir, it was only natural that I discovered the<a href="phoenixframework.org">Phoenix Framework</a> along with it.</p>
+
+<p>At first glance, it seems sort of similar to Django with a MVC framework (or a MVT, or MVCT - you get it), but with the added benefit of being built on top of a much more concurrent language, Elixir. This means that channels and presence essentially fall out of the framework - this is awesome.</p>
+
+<p>I previously read through the blog by Uku Taht of Plausible on his<a href="https://plausible.io/blog/technology-choices">technology choices</a> and he also went with Phoenix and Elixir for similar reasons. Given that Plausible is open-source, I plan to take a look through the codebase to learn a bit more.</p>
+
+<p>In addition, I am using Elixir to make a new project, Indie Comp Jobs. It might seem a <em>bit</em> overkill for such an idea, but I definitely want to dip my toes into this technology as I can already see it becoming huge across the industry. Also, it looks like a PaaS, Fly.io, is built on-top of Phoenix with extensive support. So, once I become more familiar with the language &amp; framework, it would not only be easier to make performant web apps, but deploying them will be a breeze.</p>
+:ET
