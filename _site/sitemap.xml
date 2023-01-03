@@ -81,10 +81,6 @@
 <lastmod>2022-12-27T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/projects/2022/12/27/indiecompjobs.html</loc>
-<lastmod>2022-12-27T16:29:59-05:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/blog/2022/12/28/learning-elixir.html</loc>
 <lastmod>2022-12-28T00:00:00-05:00</lastmod>
 </url>
@@ -105,8 +101,12 @@
 <lastmod>2023-01-01T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/blog/2023/01/02/elixir-phoenix.html</loc>
+<loc>http://localhost:4000/blog/2023/01/02/elixir-and-phoenix.html</loc>
 <lastmod>2023-01-02T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/projects/2023/01/02/indiecompjobs.html</loc>
+<lastmod>2023-01-02T21:04:47-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog.html</loc>
