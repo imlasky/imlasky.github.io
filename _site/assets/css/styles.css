@@ -6,6 +6,6 @@ h1, h2, h3 { color: #343231; }
 
 a { margin: 0px 5px; color: #48cbf0; }
 
-img { max-width: 600px; }
+img { max-width: 100%; }
 
 /*# sourceMappingURL=styles.css.map */

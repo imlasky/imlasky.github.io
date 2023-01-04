@@ -1,4 +1,4 @@
-I"�<h3 id="motivation-and-hypothesis">Motivation and hypothesis</h3>
+I"�<h3 id="motivation-and-hypothesis">Motivation and hypothesis</h3>
 <p>The idea came from me looking for a job myself. I became disenchanted trying to find a job from a non-VC-backed company. It was (and still is) legitimately difficult to do so. So, I thought: what if there was a way to find private companies that are profitable and looking to grow? None of that magical, profitability-will-come-later business that is so frequent with VC-backed startups.</p>
 
 <p>I tried myself to find these companies - I started on Indie Hackers, actually. I went to the Product Page and started just drilling down on each of the products. But it was a slog. Going through each one was just a tremendous effort, and frequently they are not hiring, which makes sense, since they don’t <em>need</em> to unless it really hurts.</p>
@@ -13,7 +13,7 @@
 
 <p>I plan to built it using<a href="https://phoenixproject.org">Phoenix.</a> It is, in part, a way to learn more about Elixir and Phoenix, but also to incorporate some little “hey, that’s kinda cool” effects along the way that I know would be a pain in the ass otherwise.</p>
 
-<p>I’m taking inspiration from<a href="https://japan-dev.com">Japan Dev</a> and<a href="https://remoteok.com">Remote | OK</a>, borrowing a from each. Namely, I like Remoteok’s idea of first finding jobs to populate and become, essentially, a link aggregator initially to build the job-seeker side of the market. But I also like Japan Dev’s idea of being paid <em>after</em> the applicant gets the job, making it lower-stakes for the companies to post.</p>
+<p>I’m taking inspiration from<a href="https://japan-dev.com">Japan Dev</a> and<a href="https://remoteok.com">Remote | OK</a>, borrowing a bit from each. Namely, I like Remoteok’s idea of first finding jobs to populate and become, essentially, a link aggregator initially to build the job-seeker side of the market. But I also like Japan Dev’s idea of being paid <em>after</em> the applicant gets the job, making it lower-stakes for the companies to post.</p>
 
 <p>As for monetization, I want to eventually rely solely on companies posting their jobs, and maybe some add-on services like visibility boosts. But I’m not worried about that right now. I just want people using it.</p>
 
