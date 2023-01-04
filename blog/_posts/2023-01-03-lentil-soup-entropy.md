@@ -1,0 +1,5 @@
+---
+layout: post
+---
+
+Today, I made some delicious lentil soup. I added a bit of heavy cream into it and watched the vortices within the soup as I moved my ladle through it. It made me think back to the show[Devs](https://www.imdb.com/title/tt8134186/) and what it would take to simulate such entropy. There must be millions of people making soup a day, all with their own little vortices. How many FLOPS would it take to reverse everyone's soup that day? I feel like we are not even close to the computing power to simulate that.  

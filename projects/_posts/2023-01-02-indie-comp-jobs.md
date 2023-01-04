@@ -28,3 +28,18 @@ I'm giving myself a month to try to flesh out a working prototype, source the jo
 ## Updates
 
 I'll be adding updates here as I continue to build. Here we go!
+
+##### Jan 3
+
+I spent the majority of today trying to get my head around Phoenix. It's pretty much like drinking from a firehose, I'll admit. So, I decided, that for at least this first project, I want to focus on figuring out how to push it out fast and get people using it. 
+
+So, I switched back to SvelteKit (which just reached 1.0!), and make a quick mock-up of functionality. Took about 45 minutes or so. 
+
+![Indie Comp Screenshot](/assets/images/indiecompjobs/screenshot-2023-01-03.png)
+
+I linked it up with a new (to me) ORM,[Prisma](https://www.prisma.io), to get some initial data flow, and it works like a charm. I can add to the database as I need, collect emails and do what I need with them. 
+
+The thing I want to tackle tomorrow is dealing with a bit of authentication, since I don't want just anyone being able to post to the job board. 
+
+I also found some sources to find independent companies, or bootstrapped companies on [dealroom.co](https://dealroom.co). Their suite and jobs leave a lot to be desired and it is difficult to navigate to the point I was actually able to see the bootstrap companies. I'll continue searching for other ways to find these companies and start creating a list of them to look for jobs (both for myself and the board).
+
