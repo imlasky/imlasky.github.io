@@ -15,7 +15,7 @@ So, my hypothesis is that in this two-sided marketplace, there are these charact
 
 I plan to built it using[Phoenix.](https://phoenixproject.org) It is, in part, a way to learn more about Elixir and Phoenix, but also to incorporate some little "hey, that's kinda cool" effects along the way that I know would be a pain in the ass otherwise. 
 
-I'm taking inspiration from[Japan Dev](https://japan-dev.com) and[Remote \| OK](https://remoteok.com), borrowing a from each. Namely, I like Remoteok's idea of first finding jobs to populate and become, essentially, a link aggregator initially to build the job-seeker side of the market. But I also like Japan Dev's idea of being paid _after_ the applicant gets the job, making it lower-stakes for the companies to post. 
+I'm taking inspiration from[Japan Dev](https://japan-dev.com) and[Remote \| OK](https://remoteok.com), borrowing a bit from each. Namely, I like Remoteok's idea of first finding jobs to populate and become, essentially, a link aggregator initially to build the job-seeker side of the market. But I also like Japan Dev's idea of being paid _after_ the applicant gets the job, making it lower-stakes for the companies to post. 
 
 As for monetization, I want to eventually rely solely on companies posting their jobs, and maybe some add-on services like visibility boosts. But I'm not worried about that right now. I just want people using it. 
 
