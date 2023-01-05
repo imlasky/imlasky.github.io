@@ -43,3 +43,21 @@ The thing I want to tackle tomorrow is dealing with a bit of authentication, sin
 
 I also found some sources to find independent companies, or bootstrapped companies on [dealroom.co](https://dealroom.co). Their suite and jobs leave a lot to be desired and it is difficult to navigate to the point I was actually able to see the bootstrap companies. I'll continue searching for other ways to find these companies and start creating a list of them to look for jobs (both for myself and the board).
 
+##### Jan 4
+
+Well, it is deployed! (Kind of) 
+
+As a summary, today I:
+* Did a visual overhaul (seen below)
+* Added in filter functionality for tags
+* Added in some nice little visual cues for where to click (like on the apply button, for instance)
+* Set up a CockroachDB
+* Deployed to Vercel
+
+Overall, the deployment was relatively easy - but it was a bit of a learning curve still. I have deployed other projects before (which were much harder), so this was easy in comparison. I feel like there should still be an easier way to do it, but I don't really know enough about it yet for how I'd go about doing it. 
+
+I did some more visual adjustments - I find these to be the most enjoyable of all. I can't paint, but figuring out how to get things to look exactly as I want them is as close as I will get to being a good painter. However, it still feels as thought it is missing _something_ - some zhuzh. I think the blank white (or off-white) is really throwing me. I'll keep hacking at it. 
+
+![New HomePage](/assets/images/indiecompjobs/screenshot-2023-01-04.png)
+
+For tomorrow, my plan is to finish up the looks and start populating with actual data. I already know it will take some time to do this (currently only able to really do it via the Prisma studio), so maybe I'll make a page to create posts (both for me and as well as for future employers).
