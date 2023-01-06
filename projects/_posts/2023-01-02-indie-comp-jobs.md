@@ -61,3 +61,11 @@ I did some more visual adjustments - I find these to be the most enjoyable of al
 ![New HomePage](/assets/images/indiecompjobs/screenshot-2023-01-04.png)
 
 For tomorrow, my plan is to finish up the looks and start populating with actual data. I already know it will take some time to do this (currently only able to really do it via the Prisma studio), so maybe I'll make a page to create posts (both for me and as well as for future employers).
+
+##### January 5
+
+Today was a bit uneventful. Rearranged how the svelte files look. Also been debating going for a pure minimalism kind of feel. Something along the lines of[Bearblog](https://bearblog.dev/). 
+
+I want it to be solely focused on the job, the company, and the position. Nothing else, no fluff. So, maybe I'll try to whip up something similar tomorrow. Maybe I'll go back to Django for this? Thinking down the line, authentication is a bit underdeveloped within the SvelteKit community (although I still need to give[SvelteKit Auth](https://vercel.com/blog/announcing-sveltekit-auth) a try). 
+
+Let's see if I can really bare-bones the site tomorrow. I want it crisp and minimal, but not unpolished (if that makes sense).
