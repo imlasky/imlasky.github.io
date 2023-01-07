@@ -1,46 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Indie Comp Jobs | Temp Project</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" />
-    <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Indie Comp Jobs</title>
-<meta name="generator" content="Jekyll v4.2.2" />
-<meta property="og:title" content="Indie Comp Jobs" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Motivation and hypothesis The idea came from me looking for a job myself. I became disenchanted trying to find a job from a non-VC-backed company. It was (and still is) legitimately difficult to do so. So, I thought: what if there was a way to find private companies that are profitable and looking to grow? None of that magical, profitability-will-come-later business that is so frequent with VC-backed startups." />
-<meta property="og:description" content="Motivation and hypothesis The idea came from me looking for a job myself. I became disenchanted trying to find a job from a non-VC-backed company. It was (and still is) legitimately difficult to do so. So, I thought: what if there was a way to find private companies that are profitable and looking to grow? None of that magical, profitability-will-come-later business that is so frequent with VC-backed startups." />
-<link rel="canonical" href="http://localhost:4000/projects/2023/01/02/indie-comp-jobs.html" />
-<meta property="og:url" content="http://localhost:4000/projects/2023/01/02/indie-comp-jobs.html" />
-<meta property="og:type" content="article" />
-<meta property="article:published_time" content="2023-01-02T00:00:00-05:00" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Indie Comp Jobs" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-01-02T00:00:00-05:00","datePublished":"2023-01-02T00:00:00-05:00","description":"Motivation and hypothesis The idea came from me looking for a job myself. I became disenchanted trying to find a job from a non-VC-backed company. It was (and still is) legitimately difficult to do so. So, I thought: what if there was a way to find private companies that are profitable and looking to grow? None of that magical, profitability-will-come-later business that is so frequent with VC-backed startups.","headline":"Indie Comp Jobs","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/projects/2023/01/02/indie-comp-jobs.html"},"url":"http://localhost:4000/projects/2023/01/02/indie-comp-jobs.html"}</script>
-<!-- End Jekyll SEO tag -->
-
-  </head>
-  <body>
-    <nav>
-  
-  <a href="/">Home</a>
-  
-  <a href="/projects.html">Projects</a>
-  
-  <a href="/blog.html">Blog</a>
-  
-  <a href="/books.html">Books</a>
-  
-</nav>
-
-    <h1>Indie Comp Jobs</h1>
-<p>02 Jan 2023</p>
-
-<h3 id="motivation-and-hypothesis">Motivation and hypothesis</h3>
+I"�<h3 id="motivation-and-hypothesis">Motivation and hypothesis</h3>
 <p>The idea came from me looking for a job myself. I became disenchanted trying to find a job from a non-VC-backed company. It was (and still is) legitimately difficult to do so. So, I thought: what if there was a way to find private companies that are profitable and looking to grow? None of that magical, profitability-will-come-later business that is so frequent with VC-backed startups.</p>
 
 <p>I tried myself to find these companies - I started on Indie Hackers, actually. I went to the Product Page and started just drilling down on each of the products. But it was a slog. Going through each one was just a tremendous effort, and frequently they are not hiring, which makes sense, since they don’t <em>need</em> to unless it really hurts.</p>
@@ -125,6 +83,4 @@
 <p>Still trying to figure out the best way to transition from posting things myself to setting up payment, but I suppose that is putting the cart before the horse. Anyways, glad I got it to this stage (again) today.</p>
 
 <p>It’s live at https://indiecompjobs.com, too.</p>
-
-  </body>
-</html>
+:ET

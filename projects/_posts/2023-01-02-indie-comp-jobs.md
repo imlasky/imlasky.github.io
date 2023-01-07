@@ -29,7 +29,7 @@ I'm giving myself a month to try to flesh out a working prototype, source the jo
 
 I'll be adding updates here as I continue to build. Here we go!
 
-##### Jan 3
+### Jan 3
 
 I spent the majority of today trying to get my head around Phoenix. It's pretty much like drinking from a firehose, I'll admit. So, I decided, that for at least this first project, I want to focus on figuring out how to push it out fast and get people using it. 
 
@@ -43,7 +43,7 @@ The thing I want to tackle tomorrow is dealing with a bit of authentication, sin
 
 I also found some sources to find independent companies, or bootstrapped companies on [dealroom.co](https://dealroom.co). Their suite and jobs leave a lot to be desired and it is difficult to navigate to the point I was actually able to see the bootstrap companies. I'll continue searching for other ways to find these companies and start creating a list of them to look for jobs (both for myself and the board).
 
-##### Jan 4
+### Jan 4
 
 Well, it is deployed! (Kind of) 
 
@@ -62,10 +62,24 @@ I did some more visual adjustments - I find these to be the most enjoyable of al
 
 For tomorrow, my plan is to finish up the looks and start populating with actual data. I already know it will take some time to do this (currently only able to really do it via the Prisma studio), so maybe I'll make a page to create posts (both for me and as well as for future employers).
 
-##### January 5
+### January 5
 
 Today was a bit uneventful. Rearranged how the svelte files look. Also been debating going for a pure minimalism kind of feel. Something along the lines of[Bearblog](https://bearblog.dev/). 
 
 I want it to be solely focused on the job, the company, and the position. Nothing else, no fluff. So, maybe I'll try to whip up something similar tomorrow. Maybe I'll go back to Django for this? Thinking down the line, authentication is a bit underdeveloped within the SvelteKit community (although I still need to give[SvelteKit Auth](https://vercel.com/blog/announcing-sveltekit-auth) a try). 
 
 Let's see if I can really bare-bones the site tomorrow. I want it crisp and minimal, but not unpolished (if that makes sense).
+
+### January 6
+
+Okay - so, I know I restarted this project like 3 times now, all with different frameworks, but I redid it again with Django. Just all django. Really simply. I borrowed a lot of inspiration from Bear blog, like I mentioned yesterday, and frankly, I am a huge fan of how it is looking. I mean just look at this:
+
+![Minimalist screen shot](/assets/images/indiecompjobs/screenshot-2023-01-06.png)
+
+The other one - before, felt...cheap? Like a site I would accidentally get redirected to while trying to find a movie for free and I click on the wrong play button. But this, just the simple html (even with a dark mode), feels, for lack of a better term, pure. (I know, I kinda got nauseous writing that too.)
+
+Anyways, the benefit of this is that Django's auth is all batteries included. I have Sendgrid set up, emails working great, and able to use Django's admin panel to add things manually to start. 
+
+Still trying to figure out the best way to transition from posting things myself to setting up payment, but I suppose that is putting the cart before the horse. Anyways, glad I got it to this stage (again) today. 
+
+It's live at https://indiecompjobs.com, too. 

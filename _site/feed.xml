@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-04T23:10:20-05:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Barley Tea</title><link href="http://localhost:4000/blog/2023/01/04/barley-tea.html" rel="alternate" type="text/html" title="Barley Tea" /><published>2023-01-04T23:10:20-05:00</published><updated>2023-01-04T23:10:20-05:00</updated><id>http://localhost:4000/blog/2023/01/04/barley-tea</id><content type="html" xml:base="http://localhost:4000/blog/2023/01/04/barley-tea.html"><![CDATA[<p>Barley tea has been a relatively new discovery for myself. It is exactly what it sounds like: barley boiled in hot water.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-06T22:09:40-05:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Sick, Inside, and Taking it Easy</title><link href="http://localhost:4000/blog/2023/01/06/sick-inside-and-taking-it-easy.html" rel="alternate" type="text/html" title="Sick, Inside, and Taking it Easy" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/01/06/sick-inside-and-taking-it-easy</id><content type="html" xml:base="http://localhost:4000/blog/2023/01/06/sick-inside-and-taking-it-easy.html"><![CDATA[<p>Today was a bit of a blah day.</p>
+
+<p>A day I woke up sick, checked myself for covid (negative), and proceeded to just lounge about for a while working on <a href="/projects/2023/01/02/indie-comp-jobs.html">Indie Comp Jobs</a>.</p>
+
+<p>Lots of cough drops.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Today was a bit of a blah day.]]></summary></entry><entry><title type="html">Writing Improvement</title><link href="http://localhost:4000/blog/2023/01/05/writing-improvement.html" rel="alternate" type="text/html" title="Writing Improvement" /><published>2023-01-05T00:00:00-05:00</published><updated>2023-01-05T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/01/05/writing-improvement</id><content type="html" xml:base="http://localhost:4000/blog/2023/01/05/writing-improvement.html"><![CDATA[<p>Today is the 17th day in a row that I have written something and placed it out into the world, regardless if someone is reading it.</p>
+
+<p>And I have to say, that I feel like my voice is starting to really come through in my writing; I am becoming bolder, making the words flow a bit nicer, and developing a tone of my own.</p>
+
+<p>As I have been writing more, I’ve noticed a few new traits I exhibit:</p>
+<ul>
+  <li>I like to write things in threes. There’s a certain completeness of threes, a rhythm, a “hey those two previous things were nice, but here’s an excellent number 3.” I dunno, just going to go with it - it seems natural.</li>
+  <li>Hyphens are my way, and I suppose a lot of people’s way, of just getting to the point of the sentence. No more long winded essays - I just get to the point. Just like that. They’re snappy and immediate.</li>
+  <li>Here’s a third bullet. See bullet 1.</li>
+</ul>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Today is the 17th day in a row that I have written something and placed it out into the world, regardless if someone is reading it.]]></summary></entry><entry><title type="html">Barley Tea</title><link href="http://localhost:4000/blog/2023/01/04/barley-tea.html" rel="alternate" type="text/html" title="Barley Tea" /><published>2023-01-04T00:00:00-05:00</published><updated>2023-01-04T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/01/04/barley-tea</id><content type="html" xml:base="http://localhost:4000/blog/2023/01/04/barley-tea.html"><![CDATA[<p>Barley tea has been a relatively new discovery for myself. It is exactly what it sounds like: barley boiled in hot water.</p>
 
 <p>But I find myself basically chugging it now.</p>
 
@@ -39,7 +52,7 @@
 
 <p>I’ll be adding updates here as I continue to build. Here we go!</p>
 
-<h5 id="jan-3">Jan 3</h5>
+<h3 id="jan-3">Jan 3</h3>
 
 <p>I spent the majority of today trying to get my head around Phoenix. It’s pretty much like drinking from a firehose, I’ll admit. So, I decided, that for at least this first project, I want to focus on figuring out how to push it out fast and get people using it.</p>
 
@@ -53,7 +66,7 @@
 
 <p>I also found some sources to find independent companies, or bootstrapped companies on <a href="https://dealroom.co">dealroom.co</a>. Their suite and jobs leave a lot to be desired and it is difficult to navigate to the point I was actually able to see the bootstrap companies. I’ll continue searching for other ways to find these companies and start creating a list of them to look for jobs (both for myself and the board).</p>
 
-<h5 id="jan-4">Jan 4</h5>
+<h3 id="jan-4">Jan 4</h3>
 
 <p>Well, it is deployed! (Kind of)</p>
 
@@ -72,7 +85,29 @@
 
 <p><img src="/assets/images/indiecompjobs/screenshot-2023-01-04.png" alt="New HomePage" /></p>
 
-<p>For tomorrow, my plan is to finish up the looks and start populating with actual data. I already know it will take some time to do this (currently only able to really do it via the Prisma studio), so maybe I’ll make a page to create posts (both for me and as well as for future employers).</p>]]></content><author><name></name></author><category term="projects" /><summary type="html"><![CDATA[Motivation and hypothesis The idea came from me looking for a job myself. I became disenchanted trying to find a job from a non-VC-backed company. It was (and still is) legitimately difficult to do so. So, I thought: what if there was a way to find private companies that are profitable and looking to grow? None of that magical, profitability-will-come-later business that is so frequent with VC-backed startups.]]></summary></entry><entry><title type="html">Year Of Simplicity</title><link href="http://localhost:4000/blog/2023/01/01/year-of-simplicity.html" rel="alternate" type="text/html" title="Year Of Simplicity" /><published>2023-01-01T00:00:00-05:00</published><updated>2023-01-01T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/01/01/year-of-simplicity</id><content type="html" xml:base="http://localhost:4000/blog/2023/01/01/year-of-simplicity.html"><![CDATA[<p>I walked along the water today and took time to look ahead to the new year. It was uncharacteristically warm for this time of year, but because of the wind, I wore a coat anyways.</p>
+<p>For tomorrow, my plan is to finish up the looks and start populating with actual data. I already know it will take some time to do this (currently only able to really do it via the Prisma studio), so maybe I’ll make a page to create posts (both for me and as well as for future employers).</p>
+
+<h3 id="january-5">January 5</h3>
+
+<p>Today was a bit uneventful. Rearranged how the svelte files look. Also been debating going for a pure minimalism kind of feel. Something along the lines of<a href="https://bearblog.dev/">Bearblog</a>.</p>
+
+<p>I want it to be solely focused on the job, the company, and the position. Nothing else, no fluff. So, maybe I’ll try to whip up something similar tomorrow. Maybe I’ll go back to Django for this? Thinking down the line, authentication is a bit underdeveloped within the SvelteKit community (although I still need to give<a href="https://vercel.com/blog/announcing-sveltekit-auth">SvelteKit Auth</a> a try).</p>
+
+<p>Let’s see if I can really bare-bones the site tomorrow. I want it crisp and minimal, but not unpolished (if that makes sense).</p>
+
+<h3 id="january-6">January 6</h3>
+
+<p>Okay - so, I know I restarted this project like 3 times now, all with different frameworks, but I redid it again with Django. Just all django. Really simply. I borrowed a lot of inspiration from Bear blog, like I mentioned yesterday, and frankly, I am a huge fan of how it is looking. I mean just look at this:</p>
+
+<p><img src="/assets/images/indiecompjobs/screenshot-2023-01-06.png" alt="Minimalist screen shot" /></p>
+
+<p>The other one - before, felt…cheap? Like a site I would accidentally get redirected to while trying to find a movie for free and I click on the wrong play button. But this, just the simple html (even with a dark mode), feels, for lack of a better term, pure. (I know, I kinda got nauseous writing that too.)</p>
+
+<p>Anyways, the benefit of this is that Django’s auth is all batteries included. I have Sendgrid set up, emails working great, and able to use Django’s admin panel to add things manually to start.</p>
+
+<p>Still trying to figure out the best way to transition from posting things myself to setting up payment, but I suppose that is putting the cart before the horse. Anyways, glad I got it to this stage (again) today.</p>
+
+<p>It’s live at https://indiecompjobs.com, too.</p>]]></content><author><name></name></author><category term="projects" /><summary type="html"><![CDATA[Motivation and hypothesis The idea came from me looking for a job myself. I became disenchanted trying to find a job from a non-VC-backed company. It was (and still is) legitimately difficult to do so. So, I thought: what if there was a way to find private companies that are profitable and looking to grow? None of that magical, profitability-will-come-later business that is so frequent with VC-backed startups.]]></summary></entry><entry><title type="html">Year Of Simplicity</title><link href="http://localhost:4000/blog/2023/01/01/year-of-simplicity.html" rel="alternate" type="text/html" title="Year Of Simplicity" /><published>2023-01-01T00:00:00-05:00</published><updated>2023-01-01T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/01/01/year-of-simplicity</id><content type="html" xml:base="http://localhost:4000/blog/2023/01/01/year-of-simplicity.html"><![CDATA[<p>I walked along the water today and took time to look ahead to the new year. It was uncharacteristically warm for this time of year, but because of the wind, I wore a coat anyways.</p>
 
 <p>During the walk, I had a realization of how deeply my physical health is linked to my mental health. “Duh”, you might being saying, and it’s true I knew it is intricately linked as well, but I had somehow forgotten that connection existed.</p>
 
@@ -128,26 +163,4 @@
 
 <p>I’ve even started to figure out how to make them a bit more decorative with folds.</p>
 
-<p>Granted, these dumplings are not as pretty as the ones you find in a restaurant, <strong><em>but they’re mine</em></strong> - and that makes all the difference.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[I’ve been making dumplings at home more recently (pork dumplings, to be exact, but that’s neither here nor there). And I’ve been finding them to be a wondrous joy to make. Taking the time to experiment, practice making the “perfect” dumpling, and using my hands to make something tangible with an immediate pay-off culminates in a rich, human experience.]]></summary></entry><entry><title type="html">Learning Elixir</title><link href="http://localhost:4000/blog/2022/12/28/learning-elixir.html" rel="alternate" type="text/html" title="Learning Elixir" /><published>2022-12-28T00:00:00-05:00</published><updated>2022-12-28T00:00:00-05:00</updated><id>http://localhost:4000/blog/2022/12/28/learning-elixir</id><content type="html" xml:base="http://localhost:4000/blog/2022/12/28/learning-elixir.html"><![CDATA[<p>Started to learn a bit of Elixir today. I was going through the book “Elixir in Action” and found myself doing the same thing I always do: think the material is easy, go too far ahead to where it looks new, and then become confused because I don’t know the syntax whatsoever.</p>
-
-<p>I caught myself early this time, though, and decided to do it a bit differently. Instead of reading from the book, I’ll learn by directly applying and working through the struggle. So, I am going to try to complete Advent of Code 2022 all in Elixir to see how it goes. It took me nearly <strong><em>2 hours</em></strong> to solve the first puzzle - I felt like I was back in CS 101.</p>
-
-<p>I like the language, though. I have also been interested in getting more acquainted with a functional programming language. It is elegant in its syntax. From peeking a bit ahead in the book, it also feels very powerful being built on top of Erlang and getting all the processing capability from there too.</p>
-
-<p>The first step at being good at something is being bad at something.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Started to learn a bit of Elixir today. I was going through the book “Elixir in Action” and found myself doing the same thing I always do: think the material is easy, go too far ahead to where it looks new, and then become confused because I don’t know the syntax whatsoever.]]></summary></entry><entry><title type="html">Organic Technology</title><link href="http://localhost:4000/blog/2022/12/27/organic-technology.html" rel="alternate" type="text/html" title="Organic Technology" /><published>2022-12-27T00:00:00-05:00</published><updated>2022-12-27T00:00:00-05:00</updated><id>http://localhost:4000/blog/2022/12/27/organic-technology</id><content type="html" xml:base="http://localhost:4000/blog/2022/12/27/organic-technology.html"><![CDATA[<p>All of my experiences over the past few days have been centered around creating a separation and balance of technology in my world. Where is the right balance for me? Realistically, it is somewhere between throwing away my phone and living in the woods and never removing a VR headset.</p>
-
-<p>While at my Getaway, I read through the founders’ book “How to Get Away”, and it described how to balance technology: create no phone zones, no phones at dinner, pare down tech until it is what you need. I’ve implemented a few of these techniques and already they have been helpful - I’ve noticed a marked difference in how I view myself in the mirror, in how I walk, and my awareness of my surroundings in the city and how intrusive the constant sirens, honks, talking, and footsteps really can be.</p>
-
-<p>On my walk today, though, I had a thought: is there a way to bridge the gap between life and technology? Can technology feel a little more <strong><em>organic</em></strong>?</p>
-
-<p>By organic, I mean can we develop technology into a means that augments the natural world and how we interact with it? For instance, it is well-known that the blue light emitted from screens changes how we sleep, and so blue-light filters were created. This is a simple example, but one that starts to open the door towards what organic technology could look like.</p>
-
-<p>We have these devices on us at all times, basically tethering us to a whole host of distractions: emails, slack, YouTube, Googling random thoughts, TikTok - attention, attention, attention. Engagement, engagement, engagement. Share, share, share. Grow, grow, grow.</p>
-
-<p>What would these devices and services look like if the first thought was: “how can we make this experience augment their current life rather than consume it?” Ads monetization would most likely be out of the question. They profit off eyeballs on the screen, on user interaction metrics, on optimizing the ever-loving-fuck out of knowing where your mouse is at all times and making sure that there is something under it that keeps you there.</p>
-
-<p>It would most likely go to a subscription model for everything. Rare are one-off technology purchases now, and for good reason. Ongoing payment is security for the developer and a sort of contract that there can be ongoing support for the software for the user. The incentive structure for the company is also in line with the user. As its sole revenue stream, the company must continue to develop software that fills the need of the user.</p>
-
-<p>So, bringing it back to organic technology, these “if it’s free, you’re the product” companies, if converted into monthly subscriptions, would allow some to feel as though they are paying for something that adds value to their lives, rather than having just the knowledge that everything they do is being tracked, optimized, and churned for profit on the back side.</p>
-
-<p>But broader than that, these technologies should be something that broadens the human experience and fits into the nature we have developed over thousands of years - not something that targets our most vulnerable tendencies.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[All of my experiences over the past few days have been centered around creating a separation and balance of technology in my world. Where is the right balance for me? Realistically, it is somewhere between throwing away my phone and living in the woods and never removing a VR headset.]]></summary></entry></feed>
+<p>Granted, these dumplings are not as pretty as the ones you find in a restaurant, <strong><em>but they’re mine</em></strong> - and that makes all the difference.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[I’ve been making dumplings at home more recently (pork dumplings, to be exact, but that’s neither here nor there). And I’ve been finding them to be a wondrous joy to make. Taking the time to experiment, practice making the “perfect” dumpling, and using my hands to make something tangible with an immediate pay-off culminates in a rich, human experience.]]></summary></entry></feed>
