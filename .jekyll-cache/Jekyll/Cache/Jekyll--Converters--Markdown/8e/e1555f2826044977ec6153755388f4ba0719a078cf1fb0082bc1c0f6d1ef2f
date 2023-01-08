@@ -1,4 +1,4 @@
-I"�<h3 id="motivation-and-hypothesis">Motivation and hypothesis</h3>
+I"O$<h3 id="motivation-and-hypothesis">Motivation and hypothesis</h3>
 <p>The idea came from me looking for a job myself. I became disenchanted trying to find a job from a non-VC-backed company. It was (and still is) legitimately difficult to do so. So, I thought: what if there was a way to find private companies that are profitable and looking to grow? None of that magical, profitability-will-come-later business that is so frequent with VC-backed startups.</p>
 
 <p>I tried myself to find these companies - I started on Indie Hackers, actually. I went to the Product Page and started just drilling down on each of the products. But it was a slog. Going through each one was just a tremendous effort, and frequently they are not hiring, which makes sense, since they don’t <em>need</em> to unless it really hurts.</p>
@@ -83,4 +83,26 @@
 <p>Still trying to figure out the best way to transition from posting things myself to setting up payment, but I suppose that is putting the cart before the horse. Anyways, glad I got it to this stage (again) today.</p>
 
 <p>It’s live at https://indiecompjobs.com, too.</p>
+
+<h3 id="january-7">January 7</h3>
+
+<p>I fleshed out the website a bit more today. I added the ability to remove the job from your dashboard, as well as implemented a hotness metric to rank the jobs based upon the posting date and how many people applied.</p>
+
+<p>I used the following equation to calculate hotness, which is pretty generic. If I feel the need to modify it in the future, I will.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>order = math.log10(max(self.num_apply, 1))
+seconds = self.created_at.timestamp() - 1673063024
+hours = 12.5
+hotness = round(order + seconds / (hours * 3600), 15)  
+</code></pre></div></div>
+
+<p>I removed the ability to post a job for the meantime, as I want to focus on adding jobs manually and getting people to check it out.</p>
+
+<p>Additionally, I added some lightweight metrics from<a href="https://goatcounter.com">Goat Counter</a>, which are GDPR compliant, free for light traffic, and lightweight. Seemed like I should give them a shot.</p>
+
+<p>Anyways, on to figuring out how to find all these jobs, both for me to apply to, and figure out how to source.</p>
+
+<p>One interesting thing that has come out of it is that I can find these companies, but they don’t have RSS feeds for their jobs sites. So, keeping track of them can be a bit difficult. There are some sites that can make RSS feeds out of websites, but none seem to quite work the way I want.</p>
+
+<p>Potentially I can just add them to a list of companies and get an RSS feed of the giants like indeed.com or something and just filter based on those companies. Not sure yet what the winning strategy is, but will keep plugging.</p>
 :ET

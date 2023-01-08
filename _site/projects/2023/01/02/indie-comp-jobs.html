@@ -126,5 +126,27 @@
 
 <p>It’s live at https://indiecompjobs.com, too.</p>
 
+<h3 id="january-7">January 7</h3>
+
+<p>I fleshed out the website a bit more today. I added the ability to remove the job from your dashboard, as well as implemented a hotness metric to rank the jobs based upon the posting date and how many people applied.</p>
+
+<p>I used the following equation to calculate hotness, which is pretty generic. If I feel the need to modify it in the future, I will.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>order = math.log10(max(self.num_apply, 1))
+seconds = self.created_at.timestamp() - 1673063024
+hours = 12.5
+hotness = round(order + seconds / (hours * 3600), 15)  
+</code></pre></div></div>
+
+<p>I removed the ability to post a job for the meantime, as I want to focus on adding jobs manually and getting people to check it out.</p>
+
+<p>Additionally, I added some lightweight metrics from<a href="https://goatcounter.com">Goat Counter</a>, which are GDPR compliant, free for light traffic, and lightweight. Seemed like I should give them a shot.</p>
+
+<p>Anyways, on to figuring out how to find all these jobs, both for me to apply to, and figure out how to source.</p>
+
+<p>One interesting thing that has come out of it is that I can find these companies, but they don’t have RSS feeds for their jobs sites. So, keeping track of them can be a bit difficult. There are some sites that can make RSS feeds out of websites, but none seem to quite work the way I want.</p>
+
+<p>Potentially I can just add them to a list of companies and get an RSS feed of the giants like indeed.com or something and just filter based on those companies. Not sure yet what the winning strategy is, but will keep plugging.</p>
+
   </body>
 </html>

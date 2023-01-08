@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-06T22:09:40-05:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Sick, Inside, and Taking it Easy</title><link href="http://localhost:4000/blog/2023/01/06/sick-inside-and-taking-it-easy.html" rel="alternate" type="text/html" title="Sick, Inside, and Taking it Easy" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/01/06/sick-inside-and-taking-it-easy</id><content type="html" xml:base="http://localhost:4000/blog/2023/01/06/sick-inside-and-taking-it-easy.html"><![CDATA[<p>Today was a bit of a blah day.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-08T10:02:03-05:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Sick, Inside, and Taking it Easy</title><link href="http://localhost:4000/blog/2023/01/06/sick-inside-and-taking-it-easy.html" rel="alternate" type="text/html" title="Sick, Inside, and Taking it Easy" /><published>2023-01-06T00:00:00-05:00</published><updated>2023-01-06T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/01/06/sick-inside-and-taking-it-easy</id><content type="html" xml:base="http://localhost:4000/blog/2023/01/06/sick-inside-and-taking-it-easy.html"><![CDATA[<p>Today was a bit of a blah day.</p>
 
 <p>A day I woke up sick, checked myself for covid (negative), and proceeded to just lounge about for a while working on <a href="/projects/2023/01/02/indie-comp-jobs.html">Indie Comp Jobs</a>.</p>
 
@@ -107,7 +107,29 @@
 
 <p>Still trying to figure out the best way to transition from posting things myself to setting up payment, but I suppose that is putting the cart before the horse. Anyways, glad I got it to this stage (again) today.</p>
 
-<p>It’s live at https://indiecompjobs.com, too.</p>]]></content><author><name></name></author><category term="projects" /><summary type="html"><![CDATA[Motivation and hypothesis The idea came from me looking for a job myself. I became disenchanted trying to find a job from a non-VC-backed company. It was (and still is) legitimately difficult to do so. So, I thought: what if there was a way to find private companies that are profitable and looking to grow? None of that magical, profitability-will-come-later business that is so frequent with VC-backed startups.]]></summary></entry><entry><title type="html">Year Of Simplicity</title><link href="http://localhost:4000/blog/2023/01/01/year-of-simplicity.html" rel="alternate" type="text/html" title="Year Of Simplicity" /><published>2023-01-01T00:00:00-05:00</published><updated>2023-01-01T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/01/01/year-of-simplicity</id><content type="html" xml:base="http://localhost:4000/blog/2023/01/01/year-of-simplicity.html"><![CDATA[<p>I walked along the water today and took time to look ahead to the new year. It was uncharacteristically warm for this time of year, but because of the wind, I wore a coat anyways.</p>
+<p>It’s live at https://indiecompjobs.com, too.</p>
+
+<h3 id="january-7">January 7</h3>
+
+<p>I fleshed out the website a bit more today. I added the ability to remove the job from your dashboard, as well as implemented a hotness metric to rank the jobs based upon the posting date and how many people applied.</p>
+
+<p>I used the following equation to calculate hotness, which is pretty generic. If I feel the need to modify it in the future, I will.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>order = math.log10(max(self.num_apply, 1))
+seconds = self.created_at.timestamp() - 1673063024
+hours = 12.5
+hotness = round(order + seconds / (hours * 3600), 15)  
+</code></pre></div></div>
+
+<p>I removed the ability to post a job for the meantime, as I want to focus on adding jobs manually and getting people to check it out.</p>
+
+<p>Additionally, I added some lightweight metrics from<a href="https://goatcounter.com">Goat Counter</a>, which are GDPR compliant, free for light traffic, and lightweight. Seemed like I should give them a shot.</p>
+
+<p>Anyways, on to figuring out how to find all these jobs, both for me to apply to, and figure out how to source.</p>
+
+<p>One interesting thing that has come out of it is that I can find these companies, but they don’t have RSS feeds for their jobs sites. So, keeping track of them can be a bit difficult. There are some sites that can make RSS feeds out of websites, but none seem to quite work the way I want.</p>
+
+<p>Potentially I can just add them to a list of companies and get an RSS feed of the giants like indeed.com or something and just filter based on those companies. Not sure yet what the winning strategy is, but will keep plugging.</p>]]></content><author><name></name></author><category term="projects" /><summary type="html"><![CDATA[Motivation and hypothesis The idea came from me looking for a job myself. I became disenchanted trying to find a job from a non-VC-backed company. It was (and still is) legitimately difficult to do so. So, I thought: what if there was a way to find private companies that are profitable and looking to grow? None of that magical, profitability-will-come-later business that is so frequent with VC-backed startups.]]></summary></entry><entry><title type="html">Year Of Simplicity</title><link href="http://localhost:4000/blog/2023/01/01/year-of-simplicity.html" rel="alternate" type="text/html" title="Year Of Simplicity" /><published>2023-01-01T00:00:00-05:00</published><updated>2023-01-01T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/01/01/year-of-simplicity</id><content type="html" xml:base="http://localhost:4000/blog/2023/01/01/year-of-simplicity.html"><![CDATA[<p>I walked along the water today and took time to look ahead to the new year. It was uncharacteristically warm for this time of year, but because of the wind, I wore a coat anyways.</p>
 
 <p>During the walk, I had a realization of how deeply my physical health is linked to my mental health. “Duh”, you might being saying, and it’s true I knew it is intricately linked as well, but I had somehow forgotten that connection existed.</p>
 

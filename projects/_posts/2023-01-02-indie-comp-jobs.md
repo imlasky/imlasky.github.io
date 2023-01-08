@@ -83,3 +83,24 @@ Anyways, the benefit of this is that Django's auth is all batteries included. I 
 Still trying to figure out the best way to transition from posting things myself to setting up payment, but I suppose that is putting the cart before the horse. Anyways, glad I got it to this stage (again) today. 
 
 It's live at https://indiecompjobs.com, too. 
+
+### January 7
+
+I fleshed out the website a bit more today. I added the ability to remove the job from your dashboard, as well as implemented a hotness metric to rank the jobs based upon the posting date and how many people applied. 
+
+I used the following equation to calculate hotness, which is pretty generic. If I feel the need to modify it in the future, I will. 
+
+    order = math.log10(max(self.num_apply, 1))
+    seconds = self.created_at.timestamp() - 1673063024
+    hours = 12.5
+    hotness = round(order + seconds / (hours * 3600), 15)  
+
+I removed the ability to post a job for the meantime, as I want to focus on adding jobs manually and getting people to check it out. 
+
+Additionally, I added some lightweight metrics from[Goat Counter](https://goatcounter.com), which are GDPR compliant, free for light traffic, and lightweight. Seemed like I should give them a shot. 
+
+Anyways, on to figuring out how to find all these jobs, both for me to apply to, and figure out how to source.
+
+One interesting thing that has come out of it is that I can find these companies, but they don't have RSS feeds for their jobs sites. So, keeping track of them can be a bit difficult. There are some sites that can make RSS feeds out of websites, but none seem to quite work the way I want. 
+
+Potentially I can just add them to a list of companies and get an RSS feed of the giants like indeed.com or something and just filter based on those companies. Not sure yet what the winning strategy is, but will keep plugging. 
