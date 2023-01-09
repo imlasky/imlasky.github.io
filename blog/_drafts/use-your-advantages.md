@@ -1,0 +1,13 @@
+---
+layout: post
+---
+
+So, I have been learning violin for a bit more than 2 years now. I've purchased myself a respectable violin and bow, have weekly tutor sessions, and try to practice as often as I can (daily if possible). 
+
+Somehow, the teachings in my lessons always seem to translate to more than just the violin. Quite frequently, my teacher tells me to relax, sometimes forcing me to put the violin down and shake out the day from my arms. "You're stiff, so you tense up, and your playing shows it." I've taken this lesson to other aspects of my life, for example when I try to force things when I know they just aren't working or becoming stressed over small ideas. 
+
+Today I had another lesson. 
+
+On the violin, sometimes you need to switch between strings with the same finger, for example, playing D and going down to G, I can use my third finger and roll it from one string to another without picking it up. In this piece, I needed to do something similar, but my tutor said that I should use the "pudginess" of my fingers to my advantage: they can touch both strings at the same time with almost no effort. It shouldn't always be done like that, but in this case it was advantageous. 
+
+I immediately began to think about what other sorts of advantages do I possess in life and how can I best utilize them to improve my life and help others. In hindsight, using the "pudginess" of my fingers to touch both strings is obvious, but not at the moment. So too would be the advantages I discover now that I am actively thinking of them. 
