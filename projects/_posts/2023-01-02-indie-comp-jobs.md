@@ -113,3 +113,10 @@ I did some initial looking at other job posting sites to find jobs, and I think 
 
 Will be setting up some scripts to listen to the RSS feeds tomorrow as well. 
 
+### January 10
+
+Finished the approve/reject functionality. Set up some scripts to listen to RSS feeds from Indeed. Still TBD on how best to format them for the site, but I am able to pull relevant jobs. 
+
+There are a lot of different types of jobs (duh), and I could in theory do an RSS feed for ALL jobs, but that seems a bit overkill. So, I limiting it to tech jobs for now, as I think HN might be the best place to post for now (and it is obviously tech-oriented). 
+
+Might do a bit more tonight, but want to actually get jobs on the page, post, and see some people actually use it. 
