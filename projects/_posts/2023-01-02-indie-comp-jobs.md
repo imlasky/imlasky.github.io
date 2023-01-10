@@ -104,3 +104,12 @@ Anyways, on to figuring out how to find all these jobs, both for me to apply to,
 One interesting thing that has come out of it is that I can find these companies, but they don't have RSS feeds for their jobs sites. So, keeping track of them can be a bit difficult. There are some sites that can make RSS feeds out of websites, but none seem to quite work the way I want. 
 
 Potentially I can just add them to a list of companies and get an RSS feed of the giants like indeed.com or something and just filter based on those companies. Not sure yet what the winning strategy is, but will keep plugging. 
+
+### January 9
+
+Took a bit of a break yesterday, but progressed a bit more today. I added in some functionality to approve/reject the jobs that people post and plan to have the ability to post a job done tomorrow. 
+
+I did some initial looking at other job posting sites to find jobs, and I think the initial verification will have to be through Crunchbase or something like that and maybe reaching out to the companies personally. 
+
+Will be setting up some scripts to listen to the RSS feeds tomorrow as well. 
+
