@@ -120,3 +120,18 @@ Finished the approve/reject functionality. Set up some scripts to listen to RSS 
 There are a lot of different types of jobs (duh), and I could in theory do an RSS feed for ALL jobs, but that seems a bit overkill. So, I limiting it to tech jobs for now, as I think HN might be the best place to post for now (and it is obviously tech-oriented). 
 
 Might do a bit more tonight, but want to actually get jobs on the page, post, and see some people actually use it. 
+
+### January 11
+
+Got it pretty much all working today! Today, I:
+
+* Set up celery workers to pull from the RSS feed every 15 minutes
+* Created a page to approve or reject companies and their respective jobs
+
+There's a snag, though. I am pulling jobs from indeed and, frankly, I'm getting firehosed here. There's just so many. And I can't keep up with approving or rejecting companies. 
+
+It also isn't an exact science on finding whether a company is funded either. Do I consider PPP loans funding? Do I consider government contracts funding? What about grants? 
+
+Also, the time it takes to look up each company is not nothing, and each time, there is basically 30 new companies. It's so much. I need to figure out a way to automate this task a bit more. 
+
+I had another idea to look at language-specific or more niche job boards. For example, https://elixirjobs.net/. It is a simple site, obviously dedicated to just elixir, and it has an RSS feed. If I accumulate all these together, maybe it can give a good mix of niches. I'd have to write a parser for each of them, though. But that's okay. 
