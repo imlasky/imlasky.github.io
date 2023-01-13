@@ -25,7 +25,7 @@ For the first connection, language, the obvious is the _language barrier_. Diffe
 * Speech to Speech Translation
 * Real-time audio translation
 
-But it's still not quite there, is it? I can't go to Korea and put in my AirPods and instantly understand everything around me. So, there is still work to be done there. This is not to say that I don't think learning a language is valuable in its own right. In fact, I'm learning Korean right now because there are certain phrases there that just don't have an English translation.
+But it's still not quite there, is it? I can't go to Korea and put in my AirPods and instantly understand everything around me. So, there is still work to be done. This is not to say that I don't think learning a language is valuable in its own right. In fact, I'm learning Korean right now because there are certain phrases there that just don't have an English translation.
 
 Let's take a look at the second type of connection: being in close proximity to each other. Airplanes, cars, trains, boats, bicycles, and buses have certainly made this more feasible to connect over time. But there are still instances where being in close proximity just isn't feasible. The pandemic made this especially clear, and so a new wave of remote friendly companies aimed at making it _feel_ like you're close have popped up. But they don't feel like anything. They feel like yet another app. Another set of lights on the screen. 
 
