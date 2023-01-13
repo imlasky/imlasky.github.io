@@ -6,9 +6,7 @@ I've been thinking of connections lately and the various forms they can take. I'
 
 ***Connection*** (n): a relationship in which a person, thing, or idea is linked or associated with something else.
 
-Okay, so there is a relationship between people, things, or ideas. That makes sense. 
-
-But now the question comes up: how do we connect people, things, or ideas?
+Okay, so there is a relationship between people, things, or ideas. That makes sense. But now the question comes up: how do we connect people, things, or ideas?
 
 Language could be one answer.
 
@@ -16,7 +14,7 @@ Being in close physical proximity is another.
 
 So is being in the same place as someone in the past. 
 
-There are infinitely many more types of connections, but I wanted to illustrate it with these first. 
+Of course, there are infinitely many more types of connections, but I wanted to illustrate it with these first. 
 
 If we take each dimension of connection one at a time, we can start to find interesting limitations to each, with respective opportunities as well. 
 
