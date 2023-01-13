@@ -4,7 +4,7 @@ layout: post
 
 I've been thinking of connections lately and the various forms they can take. I'm going to start with a definition of connection and work from there:
 
-***Connection*** (n): a relationship in which a person, thing, or idea is linked or associated with something else.
+***Connection*** (n): _a relationship in which a person, thing, or idea is linked or associated with something else._
 
 Okay, so there is a relationship between people, things, or ideas. That makes sense. But now the question comes up: how do we connect people, things, or ideas?
 
