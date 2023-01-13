@@ -135,3 +135,17 @@ It also isn't an exact science on finding whether a company is funded either. Do
 Also, the time it takes to look up each company is not nothing, and each time, there is basically 30 new companies. It's so much. I need to figure out a way to automate this task a bit more. 
 
 I had another idea to look at language-specific or more niche job boards. For example, https://elixirjobs.net/. It is a simple site, obviously dedicated to just elixir, and it has an RSS feed. If I accumulate all these together, maybe it can give a good mix of niches. I'd have to write a parser for each of them, though. But that's okay. 
+
+### January 12
+
+A question popped into my head today that sort of halted this project: why am I not using it? I have applied to a few jobs over the past couple of days, but I have not found an interest in any of the jobs here. Why not?
+
+One explanation is that the kinds of jobs and companies I am finding for Indie Comp Jobs are just not that exciting. 
+
+Another is that they aren't as proud of the independence, at least not outwardly. 
+
+A lot of this started with reading Rework written by the founder of 37 Signals. It is extremely opinionated, and I love that. 
+
+I love opinionated companies. Companies that are out there and say "This is us. If you don't like us, that's okay. But we are who we are." Obviously within limits, but not just covered in legalese and trying to say the safest thing all the time. 
+
+How do I find ***those*** companies? I'll continue to noodle on it, but it seems rather haphazard.
