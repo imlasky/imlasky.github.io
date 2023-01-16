@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "Wrong Stop; Good Trip"
 ---
 
 In Boston, every weekend we have $10 all-you-can-ride tickets for the trains. It's a great, inexpensive way to get out of the city. Today's activity was to take the T, head south a bit, and then go for a hike, maybe something with a bit of a view. 
