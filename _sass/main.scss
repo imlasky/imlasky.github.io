@@ -30,3 +30,18 @@ img {
 mark {
   background-color: #FCD299;
 }
+
+@media (prefers-color-scheme: dark) {
+
+  body {
+    background-color: #343231;
+  }
+
+  p {
+    color: #FAF9F6
+  }
+
+  h1, h2, h3 {
+    color: #FAF9F6
+  }
+}
