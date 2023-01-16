@@ -3,7 +3,7 @@ layout: post
 title: "Wrong Stop; Good Trip"
 ---
 
-In Boston, every weekend we have $10 all-you-can-ride tickets for the trains. It's a great, inexpensive way to get out of the city. Today's activity was to take the T, head south a bit, and then go for a hike, maybe something with a bit of a view. 
+In Boston, every weekend we have $10 all-you-can-ride tickets for the commuter trains. It's a great, inexpensive way to get out of the city. Today's activity was to take the T, head south a bit, and then go for a hike, maybe something with a bit of a view. 
 
 We got off the train to find ourselves in a sort of cookie-cutter town on the Boston outskirts. You know the kind - the [5-over-1 apartments](https://en.wikipedia.org/wiki/5-over-1), with the single grocery store, a few generic restaurants, a Michael's, and a Yankee Candle. 
 
