@@ -149,3 +149,7 @@ A lot of this started with reading Rework written by the founder of 37 Signals. 
 I love opinionated companies. Companies that are out there and say "This is us. If you don't like us, that's okay. But we are who we are." Obviously within limits, but not just covered in legalese and trying to say the safest thing all the time. 
 
 How do I find ***those*** companies? I'll continue to noodle on it, but it seems rather haphazard.
+
+### January 17
+
+I think I decided to kill this project. I am not using it myself and have found that company culture seems to be the overriding factor of anything. The project works as expected, though. I can source jobs and apply to them from indeed, or any other source, and do it that way.
