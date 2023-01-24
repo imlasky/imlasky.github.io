@@ -1,0 +1,16 @@
+---
+layout: post
+---
+
+I love walking. Like, absolutely can walk for hours and hours on end. Walking helps me in two ways:
+
+1. Improves physical and mental health
+2. Makes me literally step away from food for a few hours
+
+I have found a negative correlation between how much I walk and my weight. That is, the more I walk, the more weight I lose. 
+
+When I initially came to Boston, it was a couple months before the pandemic. I was still getting used to the area, and so I walked around. Once the pandemic hit, of course, everyone was inside. However, once things became a little more steady state, I started walking. A lot. Like 12-15 miles per day, going up and down every street. My legs felt great, I was losing weight, I felt great.
+
+But then I started to walk a little less, and the weight climbed up again. 
+
+So, I have to get back to walking. Maybe not the 12-15 miles per day, but definitely more than I am now. I usually do around 10,000-12,000 steps. But I want to do more. 
