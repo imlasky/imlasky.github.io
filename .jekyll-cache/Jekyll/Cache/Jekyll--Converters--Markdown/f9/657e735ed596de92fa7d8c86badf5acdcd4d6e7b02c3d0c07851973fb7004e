@@ -1,0 +1,92 @@
+I")<h3 id="motivation-and-hypothesis">Motivation and hypothesis</h3>
+<p>I’ve been recently appreciating the brilliant design and delivery of<a href="https://pudding.cool">The Pudding</a>. And after watching a video series of how they made just <em>one</em> of their posts, it got me thinking of a way to make this form of data journalism more accessible.</p>
+
+<p><a href="https://ghost.org">Ghost</a> has been around for a bit, and I <strong>love</strong> the philosophy behind it: open-source and writer-centric. I want to bring the same sort of accessibility as Ghost, and Substack, and Medium to data journalism. Easy to pick up, powerful underneath, lets you monetize, track subscribers, readers, send emails - all of it.</p>
+
+<p>As of right now, writers need to write their articles and develop their plots, diagrams, and visuals separately. Sure, they can mess around with D3 a bunch, but then you create super bespoke code just for that article.</p>
+
+<p>What if there was a way to make it simpler and repeatable but without sacrificing how customizable it can be for the power user?</p>
+
+<p>I’m calling it, temporarily, Journata (Journal + Data, I know it’s corny.)</p>
+
+<h3 id="how-i-plan-to-build-it">How I plan to build it</h3>
+
+<p>I was tossing back and forth on whether to do this in SvelteKit or try Phoenix + Elixir again, but I settled on Svelte for a few reasons:</p>
+<ol>
+  <li>It just hit 1.0 last month, so it is much more stable</li>
+  <li>It brings a bunch of nice features to the table like transitions and tweened</li>
+  <li>I don’t <em>really</em> have a need for real-time information, other than maybe a real-time dashboard</li>
+  <li>I’ll most likely be doing a bunch of JS anyways</li>
+</ol>
+
+<p>The absolute goal for this project is simplicity, like the last one. I want this project to be almost comically simple on the frontend, but with powerful functionality.</p>
+
+<p>I’ve been looking into D3, and I think it’ll be helpful, but after reading through<a href="https://www.connorrothschild.com/post/svelte-scrollytelling#step-0a-understand-russells-ltscrolly-gt">this blog post</a>, it frankly looks like just doing it with Svelte components will work and allow me to leverage the power of Svelte.</p>
+
+<p>That means, I will basically need to build a plotting library for SvelteKit.</p>
+
+<p>(Why do I do this)</p>
+
+<p>Soooo….here goes nothing.</p>
+
+<hr />
+
+<h3 id="updates">Updates</h3>
+
+<h3 id="february-1">February 1</h3>
+
+<p>I have fleshed out the basics of the site. I have a text editor that uses markdown thanks to the<a href="https://www.npmjs.com/package/svelte-markdown">svelte-markdown</a> package.</p>
+
+<p>A basic upload/drag a picture onto the page functionality is also in.</p>
+
+<p>Verrrrryyy preliminary plotting is in. I’m talking points, scatter plot, and lines with some animations.</p>
+
+<p>I should really draw out a diagram of how the data structures should look before I go too far - otherwise it’ll be spaghetti soon and linking all these components to scroll triggers will be difficult.</p>
+
+<p>I do quite like the ability in svelte for all of the properties to be part of the component. That means that each of those will be accessible through a properties menu I will make where I can specify triggers for changes to that element and how to change it (e.g., change color, size, shape, location).</p>
+
+<p>Overall, seems good so far!</p>
+
+<p>One thing that is currently unknown is how to transport all this data to a backend - how do I serialize all of these objects and transitions, etc, in an intelligible way.</p>
+
+<p>And how do I publish these sites? That is, how do I make it so the components are fixed in how they will appear, show, move, etc. without other people adjusting them? Maybe copying it and setting all the objects to be locked? Not sure.</p>
+
+<h3 id="february-2">February 2</h3>
+
+<p>Today I was basically trying to figure out how to get a scrollytelling element placed in. There was a svelte component someone made for scrollytelling, so I imported it.</p>
+
+<p>However, I think I am going at this at the wrong direction.</p>
+
+<p>I <strong>first</strong> need to get the visualizations working - get the property panel in place in order to adjust the visuals.</p>
+
+<p>I looked around at visualization libraries, but what is sort of frustrating is that I still have to go in and adjust them to bake in the transitions and scrolly elements, or the plotting libraries are shipped so readily with their own CSS that it basically breaks the site.</p>
+
+<p>So, what I am thinking is that I need to take inspiration from an existing library, add in scrolly and transition options to them, and see how it works.</p>
+
+<p>That is, for each element on the page, there should be options for how to introduce them into the flow of scrolling. For instance, say there was a point - I should be able to say, without code: “this point should start to appear when I scroll <strong>here</strong> and it should appear using the “fly” transition, with a duration of 1 second.”</p>
+
+<p>I suppose what I have in my head is similar to the timeline transition functionality that is present within powerpoint - the OG of visualization.</p>
+
+<p>Tomorrow will be starting from this point and seeing where it takes me.</p>
+
+<h3 id="february-5">February 5</h3>
+
+<p>So, yesterday, I found<a href="https://layercake.graphics/">Layer Cake</a>. It’s a svelte graphics framework, and I think it is exactly what I need. It doesn’t just spit out plots like the others, but allows me the flexibility of what I want to do.</p>
+
+<p>I managed to get a rough working example of a scrolly element with transitions for a plot - the kind of thing you’d see on some blogging platforms, maybe.</p>
+
+<p><img src="/assets/images/journata/scrolly.gif" alt="Scrolly demo" /></p>
+
+<p>Although the gif is rather unimpressive at first glance, it’s actually a great proof of concept. I was able to:</p>
+<ul>
+  <li>Control the color of the line and area</li>
+  <li>X and Y axis scales and limits</li>
+  <li>Tick mark locations</li>
+  <li>Transition type, speed, and delay</li>
+  <li>Scroll triggers</li>
+</ul>
+
+<p>In essence, I was able to control just about everything about this plot almost for free. The next step will be including a property pane that exposes all of this functionality to me, letting me mess around with it without coding.</p>
+
+<p>I can see it coming together already!</p>
+:ET

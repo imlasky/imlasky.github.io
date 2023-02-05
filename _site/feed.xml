@@ -1,128 +1,129 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-17T22:06:03-05:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Cooking</title><link href="http://localhost:4000/blog/2023/01/17/cooking.html" rel="alternate" type="text/html" title="Cooking" /><published>2023-01-17T00:00:00-05:00</published><updated>2023-01-17T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/01/17/cooking</id><content type="html" xml:base="http://localhost:4000/blog/2023/01/17/cooking.html"><![CDATA[<p>I <em>love</em> food.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-05T14:43:05-05:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Lagging</title><link href="http://localhost:4000/blog/2023/02/04/lagging.html" rel="alternate" type="text/html" title="Lagging" /><published>2023-02-04T00:00:00-05:00</published><updated>2023-02-04T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/02/04/lagging</id><content type="html" xml:base="http://localhost:4000/blog/2023/02/04/lagging.html"><![CDATA[<p>Been finding I have been a day behind on each of these posts, usually writing what I had wanted to write the day before. But somehow, I still find it on the level and not quite cheating, because I’m still writing.</p>
 
-<p>And with it, I love cooking.</p>
+<p>However, I will dedicate more time to it than I have been.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Been finding I have been a day behind on each of these posts, usually writing what I had wanted to write the day before. But somehow, I still find it on the level and not quite cheating, because I’m still writing.]]></summary></entry><entry><title type="html">A Good Busy Day</title><link href="http://localhost:4000/blog/2023/02/03/a-good-busy-day.html" rel="alternate" type="text/html" title="A Good Busy Day" /><published>2023-02-03T00:00:00-05:00</published><updated>2023-02-03T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/02/03/a-good-busy-day</id><content type="html" xml:base="http://localhost:4000/blog/2023/02/03/a-good-busy-day.html"><![CDATA[<p>Was a bit of a busy day - worked on some things, applied to some jobs, went to a party.</p>
 
-<p>I know that I can add cream, cheese, basil, tomatoes, and chicken stock to a pan and make a great sauce for salmon.</p>
+<p>Good busy.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Was a bit of a busy day - worked on some things, applied to some jobs, went to a party.]]></summary></entry><entry><title type="html">Open Source Goldilocks</title><link href="http://localhost:4000/blog/2023/02/02/open-source-goldilocks.html" rel="alternate" type="text/html" title="Open Source Goldilocks" /><published>2023-02-02T00:00:00-05:00</published><updated>2023-02-02T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/02/02/open-source-goldilocks</id><content type="html" xml:base="http://localhost:4000/blog/2023/02/02/open-source-goldilocks.html"><![CDATA[<p>I’ve become convinced that there will always be an elusive perfect library in the open source community. That is, for the purposes I’m trying to use something, all packages out there miss the mark <em>just</em> enough, that I need to go write it on my own. I know that sounds super privileged, and I fully support the OSS community - but just once, it’d be great to find a library that just <em>works</em> for me, ya know?</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[I’ve become convinced that there will always be an elusive perfect library in the open source community. That is, for the purposes I’m trying to use something, all packages out there miss the mark just enough, that I need to go write it on my own. I know that sounds super privileged, and I fully support the OSS community - but just once, it’d be great to find a library that just works for me, ya know?]]></summary></entry><entry><title type="html">Wine Night</title><link href="http://localhost:4000/blog/2023/02/01/wine-night.html" rel="alternate" type="text/html" title="Wine Night" /><published>2023-02-01T00:00:00-05:00</published><updated>2023-02-01T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/02/01/wine-night</id><content type="html" xml:base="http://localhost:4000/blog/2023/02/01/wine-night.html"><![CDATA[<p>Tonight’s wine of choice: 2015 Satellite Pinot Noir.</p>
 
-<p>I know that I can put avocados, tomatoes, onion, lime, cumin, salt, and pepper together to make good guacamole.</p>
+<p>Glasses finished: 0.6</p>
 
-<p>I know that I can slowly brown onions, add wine and beef broth to make some tasty onion soup.</p>
+<p>Glasses intended: 2?</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Tonight’s wine of choice: 2015 Satellite Pinot Noir.]]></summary></entry><entry><title type="html">Journata</title><link href="http://localhost:4000/projects/2023/02/01/journata.html" rel="alternate" type="text/html" title="Journata" /><published>2023-02-01T00:00:00-05:00</published><updated>2023-02-01T00:00:00-05:00</updated><id>http://localhost:4000/projects/2023/02/01/journata</id><content type="html" xml:base="http://localhost:4000/projects/2023/02/01/journata.html"><![CDATA[<h3 id="motivation-and-hypothesis">Motivation and hypothesis</h3>
+<p>I’ve been recently appreciating the brilliant design and delivery of<a href="https://pudding.cool">The Pudding</a>. And after watching a video series of how they made just <em>one</em> of their posts, it got me thinking of a way to make this form of data journalism more accessible.</p>
 
-<p>It’s all replicable and I can zhuzh it up however I want. Not just salt to taste, but modify to taste.</p>
+<p><a href="https://ghost.org">Ghost</a> has been around for a bit, and I <strong>love</strong> the philosophy behind it: open-source and writer-centric. I want to bring the same sort of accessibility as Ghost, and Substack, and Medium to data journalism. Easy to pick up, powerful underneath, lets you monetize, track subscribers, readers, send emails - all of it.</p>
 
-<p>I’m not a painter or a sculptor; I can’t draw or do photography - but I can cook.</p>
+<p>As of right now, writers need to write their articles and develop their plots, diagrams, and visuals separately. Sure, they can mess around with D3 a bunch, but then you create super bespoke code just for that article.</p>
 
-<p>It’s a transient art.</p>
+<p>What if there was a way to make it simpler and repeatable but without sacrificing how customizable it can be for the power user?</p>
 
-<p>One that doesn’t last forever but is to be experienced.</p>
+<p>I’m calling it, temporarily, Journata (Journal + Data, I know it’s corny.)</p>
 
-<p>It can be reproduced, but it won’t be the same meal.</p>
+<h3 id="how-i-plan-to-build-it">How I plan to build it</h3>
 
-<p>Artful transience. Here for a brief moment to be enjoyed, and then gone.</p>
+<p>I was tossing back and forth on whether to do this in SvelteKit or try Phoenix + Elixir again, but I settled on Svelte for a few reasons:</p>
+<ol>
+  <li>It just hit 1.0 last month, so it is much more stable</li>
+  <li>It brings a bunch of nice features to the table like transitions and tweened</li>
+  <li>I don’t <em>really</em> have a need for real-time information, other than maybe a real-time dashboard</li>
+  <li>I’ll most likely be doing a bunch of JS anyways</li>
+</ol>
 
-<p>The same kind of ethereal nature as the sand mandalas created by monks.</p>
+<p>The absolute goal for this project is simplicity, like the last one. I want this project to be almost comically simple on the frontend, but with powerful functionality.</p>
 
-<p>The art is the doing, rather than the end result.</p>
+<p>I’ve been looking into D3, and I think it’ll be helpful, but after reading through<a href="https://www.connorrothschild.com/post/svelte-scrollytelling#step-0a-understand-russells-ltscrolly-gt">this blog post</a>, it frankly looks like just doing it with Svelte components will work and allow me to leverage the power of Svelte.</p>
 
-<p>In the same way that those mandalas are swept away at the end of their creation, so too are my meals.</p>
+<p>That means, I will basically need to build a plotting library for SvelteKit.</p>
 
-<p>I enjoy dismantling my art.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[I love food.]]></summary></entry><entry><title type="html">When Breath Becomes Air</title><link href="http://localhost:4000/books/2023/01/16/when-breath-becomes-air.html" rel="alternate" type="text/html" title="When Breath Becomes Air" /><published>2023-01-16T16:21:50-05:00</published><updated>2023-01-16T16:21:50-05:00</updated><id>http://localhost:4000/books/2023/01/16/when-breath-becomes-air</id><content type="html" xml:base="http://localhost:4000/books/2023/01/16/when-breath-becomes-air.html"><![CDATA[<p>When Breath Becomes Air is the story of a neurosurgeon who, right near the end of his residency, was diagnosed with lung cancer.</p>]]></content><author><name></name></author><category term="books" /><summary type="html"><![CDATA[When Breath Becomes Air is the story of a neurosurgeon who, right near the end of his residency, was diagnosed with lung cancer.]]></summary></entry><entry><title type="html">Simple Play</title><link href="http://localhost:4000/blog/2023/01/16/simple-play.html" rel="alternate" type="text/html" title="Simple Play" /><published>2023-01-16T00:00:00-05:00</published><updated>2023-01-16T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/01/16/simple-play</id><content type="html" xml:base="http://localhost:4000/blog/2023/01/16/simple-play.html"><![CDATA[<p>This morning was the first morning of winter that we had a proper snow. The snow was the perfect snow for snowballs and snowmen.</p>
+<p>(Why do I do this)</p>
 
-<p>So, this morning, I went outside, and started rolling snow around. Slowly gathering it at first, but then more gradually until I had a ball that was probably hundreds of pounds. It was a proper workout near the end; essentially needing to do dead lifts to roll the damn thing.</p>
+<p>Soooo….here goes nothing.</p>
 
-<p>But it was fun.</p>
+<hr />
 
-<p>A pure kind of fun.</p>
+<h3 id="updates">Updates</h3>
 
-<p>The kind of fun that I yearn for when I reminisce about my childhood.</p>
+<h3 id="february-1">February 1</h3>
 
-<p>It was simple: roll the ball of snow until I become tired. Maybe stack another on top to make it taller because taller snow is better snow and looks cool.</p>
+<p>I have fleshed out the basics of the site. I have a text editor that uses markdown thanks to the<a href="https://www.npmjs.com/package/svelte-markdown">svelte-markdown</a> package.</p>
 
-<p>Why does anything need to be more complicated?</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[This morning was the first morning of winter that we had a proper snow. The snow was the perfect snow for snowballs and snowmen.]]></summary></entry><entry><title type="html">Wrong Stop; Good Trip</title><link href="http://localhost:4000/blog/2023/01/15/wrong-stop-good-trip.html" rel="alternate" type="text/html" title="Wrong Stop; Good Trip" /><published>2023-01-15T00:00:00-05:00</published><updated>2023-01-15T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/01/15/wrong-stop-good-trip</id><content type="html" xml:base="http://localhost:4000/blog/2023/01/15/wrong-stop-good-trip.html"><![CDATA[<p>In Boston, every weekend we have $10 all-you-can-ride tickets for the commuter trains. It’s a great, inexpensive way to get out of the city. Today’s activity was to take the train, head south a bit, and then go for a hike, maybe something with a bit of a view.</p>
+<p>A basic upload/drag a picture onto the page functionality is also in.</p>
 
-<p>We got off the train to find ourselves in a sort of cookie-cutter town on the Boston outskirts. You know the kind - the <a href="https://en.wikipedia.org/wiki/5-over-1">5-over-1 apartments</a>, with the single grocery store, a few generic restaurants, a Michael’s, and a Yankee Candle.</p>
+<p>Verrrrryyy preliminary plotting is in. I’m talking points, scatter plot, and lines with some animations.</p>
 
-<p>Walking just the expanse of this single parking lot is close to half a mile - pure American bigness, eh? We wanted to grab a quick snack before heading off to hike.</p>
+<p>I should really draw out a diagram of how the data structures should look before I go too far - otherwise it’ll be spaghetti soon and linking all these components to scroll triggers will be difficult.</p>
 
-<p>But it turns out, we couldn’t cross the interstate to get to the park. We’d either have to take an Uber, or walk nearly 4 hours. So, we decided to just try a smaller park around - but there was construction.</p>
+<p>I do quite like the ability in svelte for all of the properties to be part of the component. That means that each of those will be accessible through a properties menu I will make where I can specify triggers for changes to that element and how to change it (e.g., change color, size, shape, location).</p>
 
-<p>So, there we were, getting whipped by the cold wind, in an industrial park, in a town I can confuse with hundreds of others, and we decided to just call it a day.</p>
+<p>Overall, seems good so far!</p>
 
-<p>On the way back, we grabbed a pair of WoodWick candles from that single Yankee Candle ‘cause they were half-off (the bergamot and basil is quite delightful).</p>
+<p>One thing that is currently unknown is how to transport all this data to a backend - how do I serialize all of these objects and transitions, etc, in an intelligible way.</p>
 
-<p>Anyways, it was a good trip anyways because it was memorable.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[In Boston, every weekend we have $10 all-you-can-ride tickets for the commuter trains. It’s a great, inexpensive way to get out of the city. Today’s activity was to take the train, head south a bit, and then go for a hike, maybe something with a bit of a view.]]></summary></entry><entry><title type="html">The Marrow of Life</title><link href="http://localhost:4000/blog/2023/01/14/the-marrow-of-life.html" rel="alternate" type="text/html" title="The Marrow of Life" /><published>2023-01-14T00:00:00-05:00</published><updated>2023-01-14T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/01/14/the-marrow-of-life</id><content type="html" xml:base="http://localhost:4000/blog/2023/01/14/the-marrow-of-life.html"><![CDATA[<blockquote>
-  <p>“I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived. I did not wish to live what was not life, living is so dear; nor did I wish to practice resignation, unless it was quite necessary. I wanted to live deep and suck out all the marrow of life, to live so sturdily and Spartan-like as to put to rout all that was not life, to cut a broad swath and shave close, to drive life into a corner, and reduce it to its lowest terms, and, if it proved to be mean, why then to get the whole and genuine meanness of it, and publish its meanness to the world; or if it were sublime, to know it by experience, and be able to give a true account of it in my next excursion.”</p>
-</blockquote>
+<p>And how do I publish these sites? That is, how do I make it so the components are fixed in how they will appear, show, move, etc. without other people adjusting them? Maybe copying it and setting all the objects to be locked? Not sure.</p>
 
-<p>Henry David Thoreau, Walden</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[“I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived. I did not wish to live what was not life, living is so dear; nor did I wish to practice resignation, unless it was quite necessary. I wanted to live deep and suck out all the marrow of life, to live so sturdily and Spartan-like as to put to rout all that was not life, to cut a broad swath and shave close, to drive life into a corner, and reduce it to its lowest terms, and, if it proved to be mean, why then to get the whole and genuine meanness of it, and publish its meanness to the world; or if it were sublime, to know it by experience, and be able to give a true account of it in my next excursion.”]]></summary></entry><entry><title type="html">Letting The Domain Lead The Way</title><link href="http://localhost:4000/blog/2023/01/13/letting-the-domain-lead-the-way.html" rel="alternate" type="text/html" title="Letting The Domain Lead The Way" /><published>2023-01-13T00:00:00-05:00</published><updated>2023-01-13T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/01/13/letting-the-domain-lead-the-way</id><content type="html" xml:base="http://localhost:4000/blog/2023/01/13/letting-the-domain-lead-the-way.html"><![CDATA[<p>I saw a post a while ago titled <a href="https://www.deepsouthventures.com/i-sell-onions-on-the-internet/">“I sell onions on the internet”</a> and I have been thinking about it a lot lately. In short, the author, Peter, lets domains lead the way for his businesses. One day he purchased the domain VidaliaOnions.com and dived into the world of Vidalia onions, creating a great business for himself selling those onions directly to consumers and partnering with farms.</p>
+<h3 id="february-2">February 2</h3>
 
-<p>I love this story.</p>
+<p>Today I was basically trying to figure out how to get a scrollytelling element placed in. There was a svelte component someone made for scrollytelling, so I imported it.</p>
 
-<p>It shows the kind of power that technology can have on everyday people, on everyday things, and how even niche things, like Vidalia onions, have a borderline overenthusiastic crowd associated with them.</p>
+<p>However, I think I am going at this at the wrong direction.</p>
 
-<p>I’d love to give this a go, so I am going to keep an eye out for the domain auctions and see what interesting names pop up. Maybe I might just strike it lucky as well and let the domain lead the way.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[I saw a post a while ago titled “I sell onions on the internet” and I have been thinking about it a lot lately. In short, the author, Peter, lets domains lead the way for his businesses. One day he purchased the domain VidaliaOnions.com and dived into the world of Vidalia onions, creating a great business for himself selling those onions directly to consumers and partnering with farms.]]></summary></entry><entry><title type="html">Connections</title><link href="http://localhost:4000/blog/2023/01/12/connections.html" rel="alternate" type="text/html" title="Connections" /><published>2023-01-12T00:00:00-05:00</published><updated>2023-01-12T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/01/12/connections</id><content type="html" xml:base="http://localhost:4000/blog/2023/01/12/connections.html"><![CDATA[<p>I’ve been thinking of connections lately and the various forms they can take. I’m going to start with a definition of connection and work from there:</p>
+<p>I <strong>first</strong> need to get the visualizations working - get the property panel in place in order to adjust the visuals.</p>
 
-<p><strong><em>Connection</em></strong> (n): <em>a relationship in which a person, thing, or idea is linked or associated with something else.</em></p>
+<p>I looked around at visualization libraries, but what is sort of frustrating is that I still have to go in and adjust them to bake in the transitions and scrolly elements, or the plotting libraries are shipped so readily with their own CSS that it basically breaks the site.</p>
 
-<p>Okay, so there is a relationship between people, things, or ideas. That makes sense. But now the question comes up: how do we connect people, things, or ideas?</p>
+<p>So, what I am thinking is that I need to take inspiration from an existing library, add in scrolly and transition options to them, and see how it works.</p>
 
-<p>Language could be one answer.</p>
+<p>That is, for each element on the page, there should be options for how to introduce them into the flow of scrolling. For instance, say there was a point - I should be able to say, without code: “this point should start to appear when I scroll <strong>here</strong> and it should appear using the “fly” transition, with a duration of 1 second.”</p>
 
-<p>Being in close physical proximity is another.</p>
+<p>I suppose what I have in my head is similar to the timeline transition functionality that is present within powerpoint - the OG of visualization.</p>
 
-<p>So is being in the same place as someone in the past.</p>
+<p>Tomorrow will be starting from this point and seeing where it takes me.</p>
 
-<p>Of course, there are infinitely many more types of connections, but I wanted to illustrate it with these first.</p>
+<h3 id="february-5">February 5</h3>
 
-<p>If we take each dimension of connection one at a time, we can start to find interesting limitations to each, with respective opportunities as well.</p>
+<p>So, yesterday, I found<a href="https://layercake.graphics/">Layer Cake</a>. It’s a svelte graphics framework, and I think it is exactly what I need. It doesn’t just spit out plots like the others, but allows me the flexibility of what I want to do.</p>
 
-<p>For the first connection, language, the obvious is the <em>language barrier</em>. Different languages, different cultures, maybe enough to say “hello” to each other but not much else. What is being done within the language barrier space?</p>
+<p>I managed to get a rough working example of a scrolly element with transitions for a plot - the kind of thing you’d see on some blogging platforms, maybe.</p>
 
+<p><img src="/assets/images/journata/scrolly.gif" alt="Scrolly demo" /></p>
+
+<p>Although the gif is rather unimpressive at first glance, it’s actually a great proof of concept. I was able to:</p>
 <ul>
-  <li>Language learning apps</li>
-  <li>Text to Speech Translation</li>
-  <li>Speech to Speech Translation</li>
-  <li>Real-time audio translation</li>
+  <li>Control the color of the line and area</li>
+  <li>X and Y axis scales and limits</li>
+  <li>Tick mark locations</li>
+  <li>Transition type, speed, and delay</li>
+  <li>Scroll triggers</li>
 </ul>
 
-<p>But it’s still not quite there, is it? I can’t go to Korea and put in my AirPods and instantly understand everything around me. So, there is still work to be done. This is not to say that I don’t think learning a language is valuable in its own right. In fact, I’m learning Korean right now because there are certain phrases there that just don’t have an English translation.</p>
+<p>In essence, I was able to control just about everything about this plot almost for free. The next step will be including a property pane that exposes all of this functionality to me, letting me mess around with it without coding.</p>
 
-<p>Let’s take a look at the second type of connection: being in close proximity to each other. Airplanes, cars, trains, boats, bicycles, and buses have certainly made this more feasible to connect over time. But there are still instances where being in close proximity just isn’t feasible. The pandemic made this especially clear, and so a new wave of remote friendly companies aimed at making it <em>feel</em> like you’re close have popped up. But they don’t feel like anything. They feel like yet another app. Another set of lights on the screen.</p>
+<p>I can see it coming together already!</p>]]></content><author><name></name></author><category term="projects" /><summary type="html"><![CDATA[Motivation and hypothesis I’ve been recently appreciating the brilliant design and delivery ofThe Pudding. And after watching a video series of how they made just one of their posts, it got me thinking of a way to make this form of data journalism more accessible.]]></summary></entry><entry><title type="html">Forgot Again</title><link href="http://localhost:4000/blog/2023/01/31/forgot-again.html" rel="alternate" type="text/html" title="Forgot Again" /><published>2023-01-31T00:00:00-05:00</published><updated>2023-01-31T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/01/31/forgot-again</id><content type="html" xml:base="http://localhost:4000/blog/2023/01/31/forgot-again.html"><![CDATA[<p>Forgot this day, but got a disco ball and put it in my living room.</p>
 
-<p>So, what are we to do? Well, AR/VR certainly have progressed, but until they are not so damn goofy, they will not be mainstream. This is clearly a big area of investment as companies have poured billions into figuring out how to make remote work not completely wreck their “culture”.</p>
+<p>Brightest apartment on the block, baby.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Forgot this day, but got a disco ball and put it in my living room.]]></summary></entry><entry><title type="html">Finding Inspiration</title><link href="http://localhost:4000/blog/2023/01/30/finding-inspiration.html" rel="alternate" type="text/html" title="Finding Inspiration" /><published>2023-01-30T00:00:00-05:00</published><updated>2023-01-30T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/01/30/finding-inspiration</id><content type="html" xml:base="http://localhost:4000/blog/2023/01/30/finding-inspiration.html"><![CDATA[<p>Inspiration is probably the most elusive of experiences. I eagerly hope that it hits me, become defeated when it doesn’t, then when I am not looking for it, it comes to me.</p>
 
-<p>Lastly, being in the same place as someone in the past can be an interesting connection. One of the first thoughts I had was about how cave drawings from millennia prior are still on the walls. Some of the earliest paintings were just our hands with paint. The hands look the same. They’re still human. But somehow we feel connected to them, standing where they stood when they made those paintings.</p>
+<p>It’s like the saying “a watched pot never boils”.</p>
 
-<p>There have been <em>some</em> developments in this space, but I feel it is more open than the others. Most of it is about overlaying historic images on a scene, the same way some ruins have a glass pane you can look through to see the monument as it once stood. But can I see the people passing by? Can I hear the sounds of people during the day?</p>
+<p>Somehow, inspiration is like repelling magnets. I turn to the idea, push towards it, but there is this invisible force pushing back, resisting me.</p>
 
-<p>I think there are <strong><em>a lot</em></strong> of interesting concepts than can erupt from mulling over the various dimensions of connection, their limitations, and how we are progressing in overcoming them.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[I’ve been thinking of connections lately and the various forms they can take. I’m going to start with a definition of connection and work from there:]]></summary></entry><entry><title type="html">Got My Violin Back</title><link href="http://localhost:4000/blog/2023/01/11/got-my-violin-back.html" rel="alternate" type="text/html" title="Got My Violin Back" /><published>2023-01-11T00:00:00-05:00</published><updated>2023-01-11T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/01/11/got-my-violin-back</id><content type="html" xml:base="http://localhost:4000/blog/2023/01/11/got-my-violin-back.html"><![CDATA[<p>My violin was in the shop for a bit due to a split seam and for needing a bridge adjustment. I got it back today and, after practicing on the loaner instrument, reminded myself why I invested into getting a good instrument.</p>
+<p>Only once I turn away, have the opposite regard towards inspiration, does it finally come to me.</p>
 
-<p>It <em>wants</em> to be played well. Its resonance guides my fingers to the right position as if there was a small indentation and going to either side of it pushes me back the right direction.</p>
+<p>Is it as simple as just being aloof more often?</p>
 
-<p>I’m always amazed by the sheer simplicity of the instrument and how, from its simplicity, masterpieces and virtuosos have emerged.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[My violin was in the shop for a bit due to a split seam and for needing a bridge adjustment. I got it back today and, after practicing on the loaner instrument, reminded myself why I invested into getting a good instrument.]]></summary></entry><entry><title type="html">My Abstract Expressionism</title><link href="http://localhost:4000/blog/2023/01/10/my-abstract-expressionism.html" rel="alternate" type="text/html" title="My Abstract Expressionism" /><published>2023-01-10T00:00:00-05:00</published><updated>2023-01-10T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/01/10/my-abstract-expressionism</id><content type="html" xml:base="http://localhost:4000/blog/2023/01/10/my-abstract-expressionism.html"><![CDATA[<p>There’s been this idea swirling in my head, where I can’t quite see the full shapes just yet. The raw colors are there, but the subject, the meat of the thing still escapes me - like it is some piece of abstract expressionism.</p>
+<p>Or creating more activities in my life where I don’t have to think about problems / making something?</p>
 
-<p>It’s reaching out from my bones.</p>
+<p>Maybe that’s the same reason that I fall asleep and wake up with answers, as others do as well. It gives me time to turn my magnet around and focus on something else.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Inspiration is probably the most elusive of experiences. I eagerly hope that it hits me, become defeated when it doesn’t, then when I am not looking for it, it comes to me.]]></summary></entry><entry><title type="html">Lunar New Year</title><link href="http://localhost:4000/blog/2023/01/29/lunar-new-year.html" rel="alternate" type="text/html" title="Lunar New Year" /><published>2023-01-29T00:00:00-05:00</published><updated>2023-01-29T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/01/29/lunar-new-year</id><content type="html" xml:base="http://localhost:4000/blog/2023/01/29/lunar-new-year.html"><![CDATA[<p>Today I went to a hotpot place in Chinatown. Nevermind the blaring drums I heard, I was in the mood for some hotpot and went.</p>
 
-<p>I feel it during my walks in the city.</p>
+<p>When I went there, the lunar new year festival was ongoing, with its brilliant red and yellow dragons, crackling fireworks, and crowds of onlookers.</p>
 
-<p>With every time I look at my phone.</p>
+<p>I made my way inside the restaurant, only to be followed moments after by what was outside - the drums and dragons.</p>
 
-<p>Every time I wish to both connect and disconnect.</p>
+<p>They danced around the restaurant, tossing lettuce out of their mouths, and quite frankly was one of the more unique experiences I have had in a while.</p>
 
-<p>Every time I wish to do something more with my hands, be more human, make use of the fact that I am a product of evolution and be reminded of the fact that the technology we have is not fully evolved for <em>me</em>.</p>
+<p>The hotpot was good too.</p>
 
-<p>Why can’t using technology be as calming as breathing in the fresh air near a still lake?</p>
+<p>I got the tonkotsu broth.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Today I went to a hotpot place in Chinatown. Nevermind the blaring drums I heard, I was in the mood for some hotpot and went.]]></summary></entry><entry><title type="html">Transience</title><link href="http://localhost:4000/blog/2023/01/28/transience.html" rel="alternate" type="text/html" title="Transience" /><published>2023-01-28T00:00:00-05:00</published><updated>2023-01-28T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/01/28/transience</id><content type="html" xml:base="http://localhost:4000/blog/2023/01/28/transience.html"><![CDATA[<p>Boston has a certain kind of transience. The concentration of schools lends itself for people to go to school here, get hired locally, and then maybe after a few years leave.</p>
 
-<p>Why can’t using technology be as comforting as eating the first warm bowl of soup when you have a cold?</p>
+<p>Is it like this everywhere? Is life just transient like that or am I missing something?</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Boston has a certain kind of transience. The concentration of schools lends itself for people to go to school here, get hired locally, and then maybe after a few years leave.]]></summary></entry><entry><title type="html">Emotionally Tired</title><link href="http://localhost:4000/blog/2023/01/27/emotionally-tired.html" rel="alternate" type="text/html" title="Emotionally Tired" /><published>2023-01-27T00:00:00-05:00</published><updated>2023-01-27T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/01/27/emotionally-tired</id><content type="html" xml:base="http://localhost:4000/blog/2023/01/27/emotionally-tired.html"><![CDATA[<p>Sometimes there are days that are just <em>days</em>, you know? Conversations are a little more weary, speaking becomes more effortful, and you’d like to just stop it all, get under the covers, and let tomorrow come already.</p>
 
-<p>Why can’t using technology be as uplifting like getting hit by the first rays of sun in Spring?</p>
+<p>That’s where I’m at now.</p>
 
-<p>Why has it become that I need to <em>escape</em> from technology? Did we ever need to escape from hammers, from cars, from refrigerators?</p>
-
-<p>I’m frustrated.</p>
-
-<p>But I feel like the painting is becoming clearer every day with each new brushstroke.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[There’s been this idea swirling in my head, where I can’t quite see the full shapes just yet. The raw colors are there, but the subject, the meat of the thing still escapes me - like it is some piece of abstract expressionism.]]></summary></entry><entry><title type="html">Vanity Metrics</title><link href="http://localhost:4000/blog/2023/01/09/vanity-metrics.html" rel="alternate" type="text/html" title="Vanity Metrics" /><published>2023-01-09T00:00:00-05:00</published><updated>2023-01-09T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/01/09/vanity-metrics</id><content type="html" xml:base="http://localhost:4000/blog/2023/01/09/vanity-metrics.html"><![CDATA[<p>Yesterday I added some analytics to this blog, since I was already adding some to my project,<a href="/projects/2023/01/02/indie-comp-jobs.html">Indie Comp Jobs</a>.</p>
-
-<p>But then I realized something: I really don’t care about analytics for my blog. I mean, what do I really get out of it? Seeing how many people are reading? Seeing what they like? I’m not writing for them - I’m writing for me.</p>
-
-<p>I’ll add an email in case there is someone out there that actually does ready these posts and wants to chat, but other than that, I swiftly deleted the analytics because fuck metrics.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Yesterday I added some analytics to this blog, since I was already adding some to my project,Indie Comp Jobs.]]></summary></entry></feed>
+<p>I want tomorrow to be here.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Sometimes there are days that are just days, you know? Conversations are a little more weary, speaking becomes more effortful, and you’d like to just stop it all, get under the covers, and let tomorrow come already.]]></summary></entry></feed>
