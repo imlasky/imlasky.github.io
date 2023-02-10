@@ -1,4 +1,4 @@
-I")<h3 id="motivation-and-hypothesis">Motivation and hypothesis</h3>
+I"–<h3 id="motivation-and-hypothesis">Motivation and hypothesis</h3>
 <p>Iâ€™ve been recently appreciating the brilliant design and delivery of<a href="https://pudding.cool">The Pudding</a>. And after watching a video series of how they made just <em>one</em> of their posts, it got me thinking of a way to make this form of data journalism more accessible.</p>
 
 <p><a href="https://ghost.org">Ghost</a> has been around for a bit, and I <strong>love</strong> the philosophy behind it: open-source and writer-centric. I want to bring the same sort of accessibility as Ghost, and Substack, and Medium to data journalism. Easy to pick up, powerful underneath, lets you monetize, track subscribers, readers, send emails - all of it.</p>
@@ -89,4 +89,16 @@
 <p>In essence, I was able to control just about everything about this plot almost for free. The next step will be including a property pane that exposes all of this functionality to me, letting me mess around with it without coding.</p>
 
 <p>I can see it coming together already!</p>
+
+<h3 id="february-7">February 7</h3>
+
+<p>I think I need to really start to embrace the open-source, someone already did that thing, essence. Today, I discovered<a href="https://quilljs.com/">Quill</a>, which seems to be the answer to my prayers for a wide variety of things, mostly the editor.</p>
+
+<p>What I think will need to happen, however, is I will need to extend the functionality a bit to include data visualization objects and their respective data. Not sure how to do that yet, but I will look into it tomorrow.</p>
+
+<h3 id="february-8">February 8</h3>
+
+<p>Decided to take a diversion today and begin to create a professional blog with example data visualizations that I intend to use Journata, or whatever the hell I decide to name it. Hopefully, I will run into plenty of bumps in creating the visualizations to give me good insight for how to better build it out.</p>
+
+<p>So, far, a combination of a CMS and an editor like that of Ghost, would be delightful, like the WYSIWYG editor I found yesterday. Extending that functionality to include scrolly functionality, and plots, and any arbitrary input would be great.</p>
 :ET
