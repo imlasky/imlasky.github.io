@@ -1,0 +1,85 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Flashcards | Temp Project</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" />
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Flashcards</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Flashcards" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Motivation and Hypothesis" />
+<meta property="og:description" content="Motivation and Hypothesis" />
+<link rel="canonical" href="http://localhost:4000/projects/2023/02/21/flashcards.html" />
+<meta property="og:url" content="http://localhost:4000/projects/2023/02/21/flashcards.html" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-02-21T00:00:00-05:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Flashcards" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-02-21T00:00:00-05:00","datePublished":"2023-02-21T00:00:00-05:00","description":"Motivation and Hypothesis","headline":"Flashcards","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/projects/2023/02/21/flashcards.html"},"url":"http://localhost:4000/projects/2023/02/21/flashcards.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+  <body>
+    <nav>
+  
+  <a href="/">Home</a>
+  
+  <a href="/projects.html">Projects</a>
+  
+  <a href="/blog.html">Blog</a>
+  
+  <a href="/books.html">Books</a>
+  
+</nav>
+
+    <h1>Flashcards</h1>
+<p>21 Feb 2023</p>
+
+<h3 id="motivation-and-hypothesis">Motivation and Hypothesis</h3>
+
+<p>I have been learning Korean more seriously lately, and so I have been going through flashcards. I came across the flashcard program, Anki, which uses spaced repetition to help with memorization and learning. There are a few issues I have with it, though.</p>
+
+<p>First, the spacing between cards is driven by an algorithm, namely the SM-2 algorithm (which I go over a bit more<a href="/blog/2023/02/20/language-learning.html">here</a>, only takes my input on the difficulty of the word as a way to calculate the time between cards, no other information is taken into account, namely the content of the card itself.</p>
+
+<p>Second, I want to be able to study the cards forwards and backwards. That is, I find I am better at recognizing Korean words and phrases and translating them back to English, but the opposite direction is much more difficult. Being able to translate in the opposite direction and take that into account would also be helpful.</p>
+
+<p>Third, unless the cards are grouped together by the creator (by the way, shout out to Avita who made the deck I am using), there is no easy way to group cards into topics. Sure, you can add tags, but it doesn’t automatically create groups.</p>
+
+<h3 id="proposed-solution">Proposed Solution</h3>
+
+<p>I want to build a spaced repetition web application that:</p>
+<ol>
+  <li>Takes into account different signals to better determine what the spacing should be for each card</li>
+  <li>Makes me study the cards forwards and backwards, which also adjusts the spacing calculation</li>
+  <li>Groups cards together by content, letting me understand blocks of content at a time instead of a bunch of random phrases pulled together</li>
+</ol>
+
+<p>Starting with the first one, I believe the following features will be important to training a model that will help me learn better by spacing out cards more appropriately:</p>
+<ol>
+  <li>Amount of time it takes me to select an answer</li>
+  <li>Vectorized content of the card</li>
+  <li>Direction of the card (English to Korean or Korean to English)</li>
+  <li>History of previous attempts
+As I continue, this list of features may change, but I think those are good starting points.</li>
+</ol>
+
+<p>For the second one, this ties into point 3 above. It will swap the question and the answer to make sure I am proficient in both directions.</p>
+
+<p>The third point will also tie in to the vectorizing of the content. I can probably do some simple K-means clustering for the content so I can keep the topics relatively similar and study the chunks one at a time.</p>
+
+<p>There will be a few decisions along the way, which I may borrow some from other methods, such as:</p>
+<ul>
+  <li>Number of difficulty options</li>
+  <li>How many new cards per day</li>
+  <li>Probably some more that I can’t think of right now</li>
+</ul>
+
+<p>Anyways, let’s get cracking - I want to build.</p>
+
+  </body>
+</html>

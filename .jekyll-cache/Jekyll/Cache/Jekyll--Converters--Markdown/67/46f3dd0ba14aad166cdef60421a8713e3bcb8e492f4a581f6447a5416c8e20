@@ -1,0 +1,10 @@
+I"ù<h3 id="motivation-and-hypothesis">Motivation and Hypothesis</h3>
+
+<p>I have been learning Korean more seriously lately, and so I have been going through flashcards. I came across the flashcard program, Anki, which uses spaced repetition to help with memorization and learning. There are a few issues I have with it, though.</p>
+
+<p>First, the spacing between cards is driven by an algorithm, namely the SM-2 algorithm (which I go over a bit more<a href="/blog/2023/02/20/language-learning.html">here</a>, only takes my input on the difficulty of the word as a way to calculate the time between cards, no other information is taken into account, namely the content of the card itself.</p>
+
+<p>Second, I want to be able to study the cards forwards and backwards. That is, I find I am better at recognizing Korean words and phrases and translating them back to English, but the opposite direction is much more difficult. Being able to translate in the opposite direction and take that into account would also be helpful.</p>
+
+<p>Third, unless the cards are grouped together by the creator (by the way, shout out to Avita who made the deck I am using), there is no easy way to group cards into topics. Sure, you can add tags, but it doesnâ€™t automatically create groups.</p>
+:ET
