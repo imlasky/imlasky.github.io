@@ -1,0 +1,24 @@
+I"�<p>Today, I have begun to take learning Korean more seriously. I learned about this tool called<a href="https://apps.ankiweb.net/">Anki</a>, which is a program to create flash cards for spaced repetition.</p>
+
+<p>I have heard of spaced repetition before, but I never looked much further into it. When I did, I found it is rich with history and interesting algorithms for calculating the spacing between each of the sessions.</p>
+
+<p>For instance, the algorithm that Anki uses is part of the SM-family of algorithms. SM is an initialism for SuperMemo, another platform for a similar purpose. Specifically, the algorithm Anki uses is based on the SM-2 algorithm (for exact details of the modifications, see: https://faqs.ankiweb.net/what-spaced-repetition-algorithm.html)</p>
+
+<p>Let’s take a deeper look at the SM-2 algorithm.</p>
+
+<p>When presented with a card, a user can grade their response between 0 and 5, where:</p>
+
+<ul>
+  <li>0 - total blackout</li>
+  <li>1 - incorrect response; the correct one remembered</li>
+  <li>2 - incorrect response; where the correct one seemed easy to recall</li>
+  <li>3 - correct response recalled with serious difficulty</li>
+  <li>4 - correct response after hesitation</li>
+  <li>5 - perfect response</li>
+</ul>
+
+<p>The SM-2 algorithm uses this grade, <strong><em>q</em></strong>, to calculate the “easiness factor”, <strong><em>EF</em></strong>, with the following equation:</p>
+
+<p><code class="language-plaintext highlighter-rouge">EF'= EF+(0.1-(5-q)*(0.08+(5-q)*0.02))</code></p>
+
+:ET

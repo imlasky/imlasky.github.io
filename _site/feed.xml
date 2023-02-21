@@ -1,4 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-15T14:55:09-05:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Released The Game</title><link href="http://localhost:4000/blog/2023/02/15/released-the-game.html" rel="alternate" type="text/html" title="Released The Game" /><published>2023-02-15T00:00:00-05:00</published><updated>2023-02-15T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/02/15/released-the-game</id><content type="html" xml:base="http://localhost:4000/blog/2023/02/15/released-the-game.html"><![CDATA[<p>Released the game I made called Rotabulary ( rotate +  vocabulary, get it? ) It’s here: <a href="https://www.lasky.io/projects/rotabulary">Rotabulary</a></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-20T22:37:26-05:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Language Learning</title><link href="http://localhost:4000/blog/2023/02/20/language-learning.html" rel="alternate" type="text/html" title="Language Learning" /><published>2023-02-20T00:00:00-05:00</published><updated>2023-02-20T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/02/20/language-learning</id><content type="html" xml:base="http://localhost:4000/blog/2023/02/20/language-learning.html"><![CDATA[<p>Today, I have begun to take learning Korean more seriously. I learned about this tool called<a href="https://apps.ankiweb.net/">Anki</a>, which is a program to create flash cards for spaced repetition.</p>
+
+<p>I have heard of spaced repetition before, but I never looked much further into it. When I did, I found it is rich with history and interesting algorithms for calculating the spacing between each of the sessions.</p>
+
+<p>For instance, the algorithm that Anki uses is part of the SM-family of algorithms. SM is an initialism for SuperMemo, another platform for a similar purpose. Specifically, the algorithm Anki uses is based on the SM-2 algorithm (for exact details of the modifications, see: https://faqs.ankiweb.net/what-spaced-repetition-algorithm.html)</p>
+
+<p>Let’s take a deeper look at the SM-2 algorithm.</p>
+
+<p>When presented with a card, a user can grade their response between 0 and 5, where:</p>
+
+<ul>
+  <li>0 - total blackout</li>
+  <li>1 - incorrect response; the correct one remembered</li>
+  <li>2 - incorrect response; where the correct one seemed easy to recall</li>
+  <li>3 - correct response recalled with serious difficulty</li>
+  <li>4 - correct response after hesitation</li>
+  <li>5 - perfect response</li>
+</ul>
+
+<p>The SM-2 algorithm uses this grade, <strong><em>q</em></strong>, to calculate the “easiness factor”, <strong><em>EF</em></strong>, with the following equation, where <strong><em>EF</em></strong> equals 2.5 by default:</p>
+
+<p><code class="language-plaintext highlighter-rouge">EF'= EF + (0.1 - (5 - q) * (0.08 + (5 - q) * 0.02))</code></p>
+
+<p>Okay - that’s a bit of a strange equation to come out of nowhere. Let’s unpack it a bit:</p>
+
+<p>If <code class="language-plaintext highlighter-rouge">q=5</code>, then <strong><em>EF</em></strong> is increased by 0.1. When <code class="language-plaintext highlighter-rouge">q=0</code>, then <strong><em>EF</em></strong> decreases by 0.8. Lastly, if <code class="language-plaintext highlighter-rouge">q=4</code>, then <strong><em>EF</em></strong> remains unchanged. If <strong><em>EF</em></strong> falls below 1.3, then it should just be set to 1.3. According to the author, “I noticed that E-Factors should not fall below the value of 1.3. Items having E-Factors lower than 1.3 were repeated annoyingly often and always seemed to have inherent flaws in their formulation (usually they did not conform to the minimum information principle)”.<a href="https://www.supermemo.com/en/blog/application-of-a-computer-to-improve-the-results-obtained-in-working-with-the-supermemo-method">Source</a></p>
+
+<p>Great. So, we have this easiness factor, so what? Well, this easiness factor is going to help determine how long it should be between appearances of this card (in days). It is called the inter-repetition interval: <strong><em>I</em></strong>.</p>
+
+<p>If the user has a correct response, (<code class="language-plaintext highlighter-rouge">q&gt;=3</code>), then <strong><em>I</em></strong> will update according based upon the number of times the card has been successfully recalled, <strong><em>n</em></strong>. That is,</p>
+
+<p><code class="language-plaintext highlighter-rouge">I(n=0) = 1 (first time getting it correct)</code>
+<code class="language-plaintext highlighter-rouge">I(n=1) = 6 (second time getting it correct)</code></p>
+
+<p>For <code class="language-plaintext highlighter-rouge">n&gt;1</code>,</p>
+
+<p><code class="language-plaintext highlighter-rouge">I(n) = I(n-1)*EF</code></p>
+
+<p>If it is an incorrect response, reset <strong><em>I</em></strong> and <strong><em>n</em></strong> to 1 and 0, respectively.</p>
+
+<p>Coming back up from the math, what can we say about this algorithm? Well, the first off is that the coefficients are a tad…squishy. They seem to be the effect of a lot of trial and error, iterated over the course of the author learning over 10,000 english words using this system.</p>
+
+<p>Second, it relatively makes sense: cards that are harder should be brought back to the front of the pile, cards you’re doing well with should exponentially increase in their inter-repetition interval.</p>
+
+<p>Granted, this algorithm was created in 1985, but it has significantly stood the test of time. So props for that!</p>
+
+<p>I will be using Anki myself to test out how effective this is, but I have some ideas for improvements. Namely, there is no adjustment for what is actually on the cards themselves. I tend to hate injecting machine learning when a solution like this might just do fine, but I’m tempted to see if I can add a little zhuzh to it and see if it accelerates my learning.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Today, I have begun to take learning Korean more seriously. I learned about this tool calledAnki, which is a program to create flash cards for spaced repetition.]]></summary></entry><entry><title type="html">Procrastinated</title><link href="http://localhost:4000/blog/2023/02/19/procrastinated.html" rel="alternate" type="text/html" title="Procrastinated" /><published>2023-02-19T00:00:00-05:00</published><updated>2023-02-19T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/02/19/procrastinated</id><content type="html" xml:base="http://localhost:4000/blog/2023/02/19/procrastinated.html"><![CDATA[<p>Procrastinated day 4.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Procrastinated day 4.]]></summary></entry><entry><title type="html">Procrastinated</title><link href="http://localhost:4000/blog/2023/02/18/procrastinated.html" rel="alternate" type="text/html" title="Procrastinated" /><published>2023-02-18T00:00:00-05:00</published><updated>2023-02-18T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/02/18/procrastinated</id><content type="html" xml:base="http://localhost:4000/blog/2023/02/18/procrastinated.html"><![CDATA[<p>Procrastinated day 3</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Procrastinated day 3]]></summary></entry><entry><title type="html">Procrastinated</title><link href="http://localhost:4000/blog/2023/02/17/procrastinated.html" rel="alternate" type="text/html" title="Procrastinated" /><published>2023-02-17T00:00:00-05:00</published><updated>2023-02-17T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/02/17/procrastinated</id><content type="html" xml:base="http://localhost:4000/blog/2023/02/17/procrastinated.html"><![CDATA[<p>Procrastinated day 2</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Procrastinated day 2]]></summary></entry><entry><title type="html">Procrastinated</title><link href="http://localhost:4000/blog/2023/02/16/procrastinated.html" rel="alternate" type="text/html" title="Procrastinated" /><published>2023-02-16T00:00:00-05:00</published><updated>2023-02-16T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/02/16/procrastinated</id><content type="html" xml:base="http://localhost:4000/blog/2023/02/16/procrastinated.html"><![CDATA[<p>Procrastinated day 1</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Procrastinated day 1]]></summary></entry><entry><title type="html">Released The Game</title><link href="http://localhost:4000/blog/2023/02/15/released-the-game.html" rel="alternate" type="text/html" title="Released The Game" /><published>2023-02-15T00:00:00-05:00</published><updated>2023-02-15T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/02/15/released-the-game</id><content type="html" xml:base="http://localhost:4000/blog/2023/02/15/released-the-game.html"><![CDATA[<p>Released the game I made called Rotabulary ( rotate +  vocabulary, get it? ) It’s here: <a href="https://www.lasky.io/projects/rotabulary">Rotabulary</a></p>
 
 <p>Will make a writeup about some of the interesting aspects of it soon.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Released the game I made called Rotabulary ( rotate + vocabulary, get it? ) It’s here: Rotabulary]]></summary></entry><entry><title type="html">Continued Game</title><link href="http://localhost:4000/blog/2023/02/14/continued-game.html" rel="alternate" type="text/html" title="Continued Game" /><published>2023-02-14T00:00:00-05:00</published><updated>2023-02-14T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/02/14/continued-game</id><content type="html" xml:base="http://localhost:4000/blog/2023/02/14/continued-game.html"><![CDATA[<p>Putting finishing touches on the game.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Putting finishing touches on the game.]]></summary></entry><entry><title type="html">Making A Game</title><link href="http://localhost:4000/blog/2023/02/13/making-a-game.html" rel="alternate" type="text/html" title="Making A Game" /><published>2023-02-13T00:00:00-05:00</published><updated>2023-02-13T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/02/13/making-a-game</id><content type="html" xml:base="http://localhost:4000/blog/2023/02/13/making-a-game.html"><![CDATA[<p>Took the day to make a game</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Took the day to make a game]]></summary></entry><entry><title type="html">Sidetracked</title><link href="http://localhost:4000/blog/2023/02/12/sidetracked.html" rel="alternate" type="text/html" title="Sidetracked" /><published>2023-02-12T00:00:00-05:00</published><updated>2023-02-12T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/02/12/sidetracked</id><content type="html" xml:base="http://localhost:4000/blog/2023/02/12/sidetracked.html"><![CDATA[<p>Sometimes I just get sidetracked and become super focused on a certain thing.</p>
 
@@ -10,76 +56,4 @@
 
 <p>Laozi</p>
 
-<p>That phrase is so corny, but I find myself consistently wanting grand things, accomplishments, and to finish them. Only to realize I need to take it small steps first.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[The journey of a thousand miles begins with a single step.]]></summary></entry><entry><title type="html">Light</title><link href="http://localhost:4000/blog/2023/02/10/light.html" rel="alternate" type="text/html" title="Light" /><published>2023-02-10T00:00:00-05:00</published><updated>2023-02-10T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/02/10/light</id><content type="html" xml:base="http://localhost:4000/blog/2023/02/10/light.html"><![CDATA[<p>Today, I saw ahead. Just a little bit. I felt a path that I had not felt in a while, something that says “that way looks pretty good, let’s take that route”.</p>
-
-<p>I recognized a truth about myself: I like data science, but I don’t love it. What I do really enjoy, and finding myself consistently defaulting to, is the visuals. Data visualization.</p>
-
-<p>And today, I found others. I found others that are the same way. I read a blog post by<a href="https://www.visualcinnamon.com/about/">Nadieh Bremer</a>detailing her journey towards what she does now - and it is damn near identical.</p>
-
-<ol>
-  <li>She studied astronomy (I studied aerospace engineering)</li>
-  <li>Didn’t want to do the Ph.D, but did the master’s (same),</li>
-  <li>Went to consulting at Deloitte as a data scientist (I did consulting and data science at a boutique consulting firm)</li>
-  <li>Became disenchanted with data science</li>
-</ol>
-
-<p>But then she said in her post:</p>
-
-<blockquote>
-  <p>And then I went to a presentation by Mike Freeman. On his title slide it said Data Visualization Specialist. And it was as if I’d been hit by lighting. that’s a thing on its own?! You can specialize in data visualization?!”.</p>
-</blockquote>
-
-<p>And now I am having that same epiphany. I don’t know where it will lead, if I will end up doing it forever, but it is a path, a light, something to give me a good place to place my next step.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Today, I saw ahead. Just a little bit. I felt a path that I had not felt in a while, something that says “that way looks pretty good, let’s take that route”.]]></summary></entry><entry><title type="html">New Guru</title><link href="http://localhost:4000/blog/2023/02/09/new-guru.html" rel="alternate" type="text/html" title="New Guru" /><published>2023-02-09T00:00:00-05:00</published><updated>2023-02-09T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/02/09/new-guru</id><content type="html" xml:base="http://localhost:4000/blog/2023/02/09/new-guru.html"><![CDATA[<blockquote>
-  <p>When there’s wrinkles in your sleeves</p>
-
-  <p>You take off your shirt and you steam it</p>
-
-  <p>When there’s dishes piled high in the sink</p>
-
-  <p>You get out the sponge and you start cleanin’</p>
-
-  <p>Oh, these menial tasks distract from the fact</p>
-
-  <p>There’s a whole in your soul like a wall has a crack</p>
-
-  <p>You put off the repairs, pretend they’re not there</p>
-
-  <p>And you fail to address the mess ‘cause you’re scared</p>
-
-  <p>So you look for a source to carry the weight</p>
-
-  <p>To lighten the load of a soul gone astray</p>
-
-  <p>To wake you up and get you through the day</p>
-
-  <p>To cut through the brush, show you the way</p>
-
-  <p>You’ve got to find you a new, find you another</p>
-
-  <p>Find you a new guru</p>
-</blockquote>
-
-<p>Vulfpeck, Vulf, Antwaun Stanley</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[When there’s wrinkles in your sleeves You take off your shirt and you steam it When there’s dishes piled high in the sink You get out the sponge and you start cleanin’ Oh, these menial tasks distract from the fact There’s a whole in your soul like a wall has a crack You put off the repairs, pretend they’re not there And you fail to address the mess ‘cause you’re scared So you look for a source to carry the weight To lighten the load of a soul gone astray To wake you up and get you through the day To cut through the brush, show you the way You’ve got to find you a new, find you another Find you a new guru]]></summary></entry><entry><title type="html">Alternate Paths</title><link href="http://localhost:4000/blog/2023/02/08/alternate-paths.html" rel="alternate" type="text/html" title="Alternate Paths" /><published>2023-02-08T00:00:00-05:00</published><updated>2023-02-08T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/02/08/alternate-paths</id><content type="html" xml:base="http://localhost:4000/blog/2023/02/08/alternate-paths.html"><![CDATA[<p>I’ve been working on a<a href="/projects/2023/02/01/journata.html">new project</a>, and was basically just building something that I really had no idea what should be in it.</p>
-
-<p>So, instead, I thought I’d take a diversion and actually try to write an article using some of the tools I’d want to make, so that I can find the rough patches and see what I want to build.</p>
-
-<p>Taking the alternate path to get to the same destination.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[I’ve been working on anew project, and was basically just building something that I really had no idea what should be in it.]]></summary></entry><entry><title type="html">Different Measures Of Success</title><link href="http://localhost:4000/blog/2023/02/07/different-measures-of-success.html" rel="alternate" type="text/html" title="Different Measures Of Success" /><published>2023-02-07T00:00:00-05:00</published><updated>2023-02-07T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/02/07/different-measures-of-success</id><content type="html" xml:base="http://localhost:4000/blog/2023/02/07/different-measures-of-success.html"><![CDATA[<p>I’ve struggled with my weight a bunch over the years - with it going up and going down. And it has resulted in an unhealthy relationship with the scale.</p>
-
-<p>I look at the number and I become happy or sad.</p>
-
-<p>That’s not a good way to live.</p>
-
-<p>So, today, the first day back at the gym in a <em>while</em>, I decided I want to measure my progress in other ways. These can include:</p>
-<ul>
-  <li>How I feel that day</li>
-  <li>How my shirts feel on my body</li>
-  <li>How frequently I am out of breath</li>
-  <li>My hunger levels throughout the day</li>
-  <li>Whether I begin to seek more physically-engaging activities</li>
-</ul>
-
-<p>So, in keeping with my simplicity them, I want to really start to listen to my body, feel how it reacts each day, and take better care of it, rather than reducing all of my joy, or ability to experience joy, down to a single number I see in the morning.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[I’ve struggled with my weight a bunch over the years - with it going up and going down. And it has resulted in an unhealthy relationship with the scale.]]></summary></entry><entry><title type="html">Professional Blog</title><link href="http://localhost:4000/blog/2023/02/06/professional-blog.html" rel="alternate" type="text/html" title="Professional Blog" /><published>2023-02-06T00:00:00-05:00</published><updated>2023-02-06T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/02/06/professional-blog</id><content type="html" xml:base="http://localhost:4000/blog/2023/02/06/professional-blog.html"><![CDATA[<p>I’ve been thinking about what this blog has sort of become. And it seems like it is on par of a public journal, of sorts.</p>
-
-<p>So, I think I should probably make a more professional one, and this one can be more of a…I dunno. Should I even have two?</p>
-
-<p>Yeah, might be good to have two. This one can be hosted to my own musings, others can borrow things from here, but mostly professional projects and resume and whatnot.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[I’ve been thinking about what this blog has sort of become. And it seems like it is on par of a public journal, of sorts.]]></summary></entry></feed>
+<p>That phrase is so corny, but I find myself consistently wanting grand things, accomplishments, and to finish them. Only to realize I need to take it small steps first.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[The journey of a thousand miles begins with a single step.]]></summary></entry></feed>

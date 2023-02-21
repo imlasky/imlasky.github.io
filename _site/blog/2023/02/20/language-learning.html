@@ -1,0 +1,93 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Language Learning | Temp Project</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" />
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Language Learning</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Language Learning" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Today, I have begun to take learning Korean more seriously. I learned about this tool calledAnki, which is a program to create flash cards for spaced repetition." />
+<meta property="og:description" content="Today, I have begun to take learning Korean more seriously. I learned about this tool calledAnki, which is a program to create flash cards for spaced repetition." />
+<link rel="canonical" href="http://localhost:4000/blog/2023/02/20/language-learning.html" />
+<meta property="og:url" content="http://localhost:4000/blog/2023/02/20/language-learning.html" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-02-20T00:00:00-05:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Language Learning" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-02-20T00:00:00-05:00","datePublished":"2023-02-20T00:00:00-05:00","description":"Today, I have begun to take learning Korean more seriously. I learned about this tool calledAnki, which is a program to create flash cards for spaced repetition.","headline":"Language Learning","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/blog/2023/02/20/language-learning.html"},"url":"http://localhost:4000/blog/2023/02/20/language-learning.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+  <body>
+    <nav>
+  
+  <a href="/">Home</a>
+  
+  <a href="/projects.html">Projects</a>
+  
+  <a href="/blog.html">Blog</a>
+  
+  <a href="/books.html">Books</a>
+  
+</nav>
+
+    <h1>Language Learning</h1>
+<p>20 Feb 2023</p>
+
+<p>Today, I have begun to take learning Korean more seriously. I learned about this tool called<a href="https://apps.ankiweb.net/">Anki</a>, which is a program to create flash cards for spaced repetition.</p>
+
+<p>I have heard of spaced repetition before, but I never looked much further into it. When I did, I found it is rich with history and interesting algorithms for calculating the spacing between each of the sessions.</p>
+
+<p>For instance, the algorithm that Anki uses is part of the SM-family of algorithms. SM is an initialism for SuperMemo, another platform for a similar purpose. Specifically, the algorithm Anki uses is based on the SM-2 algorithm (for exact details of the modifications, see: https://faqs.ankiweb.net/what-spaced-repetition-algorithm.html)</p>
+
+<p>Let’s take a deeper look at the SM-2 algorithm.</p>
+
+<p>When presented with a card, a user can grade their response between 0 and 5, where:</p>
+
+<ul>
+  <li>0 - total blackout</li>
+  <li>1 - incorrect response; the correct one remembered</li>
+  <li>2 - incorrect response; where the correct one seemed easy to recall</li>
+  <li>3 - correct response recalled with serious difficulty</li>
+  <li>4 - correct response after hesitation</li>
+  <li>5 - perfect response</li>
+</ul>
+
+<p>The SM-2 algorithm uses this grade, <strong><em>q</em></strong>, to calculate the “easiness factor”, <strong><em>EF</em></strong>, with the following equation, where <strong><em>EF</em></strong> equals 2.5 by default:</p>
+
+<p><code class="language-plaintext highlighter-rouge">EF'= EF + (0.1 - (5 - q) * (0.08 + (5 - q) * 0.02))</code></p>
+
+<p>Okay - that’s a bit of a strange equation to come out of nowhere. Let’s unpack it a bit:</p>
+
+<p>If <code class="language-plaintext highlighter-rouge">q=5</code>, then <strong><em>EF</em></strong> is increased by 0.1. When <code class="language-plaintext highlighter-rouge">q=0</code>, then <strong><em>EF</em></strong> decreases by 0.8. Lastly, if <code class="language-plaintext highlighter-rouge">q=4</code>, then <strong><em>EF</em></strong> remains unchanged. If <strong><em>EF</em></strong> falls below 1.3, then it should just be set to 1.3. According to the author, “I noticed that E-Factors should not fall below the value of 1.3. Items having E-Factors lower than 1.3 were repeated annoyingly often and always seemed to have inherent flaws in their formulation (usually they did not conform to the minimum information principle)”.<a href="https://www.supermemo.com/en/blog/application-of-a-computer-to-improve-the-results-obtained-in-working-with-the-supermemo-method">Source</a></p>
+
+<p>Great. So, we have this easiness factor, so what? Well, this easiness factor is going to help determine how long it should be between appearances of this card (in days). It is called the inter-repetition interval: <strong><em>I</em></strong>.</p>
+
+<p>If the user has a correct response, (<code class="language-plaintext highlighter-rouge">q&gt;=3</code>), then <strong><em>I</em></strong> will update according based upon the number of times the card has been successfully recalled, <strong><em>n</em></strong>. That is,</p>
+
+<p><code class="language-plaintext highlighter-rouge">I(n=0) = 1 (first time getting it correct)</code>
+<code class="language-plaintext highlighter-rouge">I(n=1) = 6 (second time getting it correct)</code></p>
+
+<p>For <code class="language-plaintext highlighter-rouge">n&gt;1</code>,</p>
+
+<p><code class="language-plaintext highlighter-rouge">I(n) = I(n-1)*EF</code></p>
+
+<p>If it is an incorrect response, reset <strong><em>I</em></strong> and <strong><em>n</em></strong> to 1 and 0, respectively.</p>
+
+<p>Coming back up from the math, what can we say about this algorithm? Well, the first off is that the coefficients are a tad…squishy. They seem to be the effect of a lot of trial and error, iterated over the course of the author learning over 10,000 english words using this system.</p>
+
+<p>Second, it relatively makes sense: cards that are harder should be brought back to the front of the pile, cards you’re doing well with should exponentially increase in their inter-repetition interval.</p>
+
+<p>Granted, this algorithm was created in 1985, but it has significantly stood the test of time. So props for that!</p>
+
+<p>I will be using Anki myself to test out how effective this is, but I have some ideas for improvements. Namely, there is no adjustment for what is actually on the cards themselves. I tend to hate injecting machine learning when a solution like this might just do fine, but I’m tempted to see if I can add a little zhuzh to it and see if it accelerates my learning.</p>
+
+
+  </body>
+</html>
