@@ -6,7 +6,7 @@ layout: post
 
 I have been learning Korean more seriously lately, and so I have been going through flashcards. I came across the flashcard program, Anki, which uses spaced repetition to help with memorization and learning. There are a few issues I have with it, though. 
 
-First, the spacing between cards is driven by an algorithm, namely the SM-2 algorithm (which I go over a bit more[here]({% post_url /blog/2023-02-20-language-learning %}), only takes my input on the difficulty of the word as a way to calculate the time between cards, no other information is taken into account, namely the content of the card itself. 
+First, the spacing between cards is driven by an algorithm, namely the SM-2 algorithm (which I go over a bit more[here]({% post_url /blog/2023-02-20-language-learning %})), only takes my input on the difficulty of the word as a way to calculate the time between cards, no other information is taken into account, namely the content of the card itself. 
 
 Second, I want to be able to study the cards forwards and backwards. That is, I find I am better at recognizing Korean words and phrases and translating them back to English, but the opposite direction is much more difficult. Being able to translate in the opposite direction and take that into account would also be helpful. 
 
