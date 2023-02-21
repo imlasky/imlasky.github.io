@@ -24,6 +24,7 @@ Starting with the first one, I believe the following features will be important 
 2. Vectorized content of the card
 3. Direction of the card (English to Korean or Korean to English)
 4. History of previous attempts
+
 As I continue, this list of features may change, but I think those are good starting points. 
 
 For the second one, this ties into point 3 above. It will swap the question and the answer to make sure I am proficient in both directions. 
