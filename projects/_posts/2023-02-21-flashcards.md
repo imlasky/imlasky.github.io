@@ -38,6 +38,8 @@ There will be a few decisions along the way, which I may borrow some from other 
 
 Anyways, let's get cracking - I want to build. 
 
+---
+
 ### Feburary 21
 
 Today, I set up the basic functionality of the app. I pulled in all 2500-ish flash cards and their respective audio files into the data base. 
