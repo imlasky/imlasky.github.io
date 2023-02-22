@@ -37,3 +37,25 @@ There will be a few decisions along the way, which I may borrow some from other 
 * Probably some more that I can't think of right now
 
 Anyways, let's get cracking - I want to build. 
+
+### Feburary 21
+
+Today, I set up the basic functionality of the app. I pulled in all 2500-ish flash cards and their respective audio files into the data base. 
+
+Right now, I have the following fields for the words:
+* Original phrase
+* Translated phrase
+* Alternative translation
+* Additional information
+* Next attempt (to be filled)
+* Audio file
+
+I also created an Attempts collection that relates back to the words, with the following fields:
+* Attempt time (how long I was thinking about the answer / pronouncing the word)
+* Review time (how long after I see the answer that I review the word and definition)
+* Direction (whether it is English to Korean or the other way around)
+* Answer ease (a scale of 0-3 for wrong, hard, okay, and easy, respectively)
+
+I can tentatively see that the attempt time and the answer ease might end up being two fields that indicate the same thing, but I'm still going to hold out for if there is some other information in there. However, I think the review time is novel, it would be curious to see if review time has any effect at all on my memory. Sometimes things just click, and other times they don't, you know?
+
+As of this point, I still have to create the embeddings for each of the cards for both languages. Additionally, the next attempt field is the output of the model. So, I have to figure out how to do that in real-time. As of right now, it posts to the database, but I am not sure how to continually update the model with new information. While there isn't much data, maybe I should use a stop-gap measure like relying on the SM-2 algo? Still to be determined. 
