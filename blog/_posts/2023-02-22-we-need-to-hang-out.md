@@ -11,4 +11,6 @@ I have a few acquaintances that I've made that could be good friends to hang out
 
 Thankfully one of them reached out and we did something fun with our significant others tonight. It was a ton of fun, don't get me wrong, but there is something about being with just guys that just hits different. 
 
-I am going to make a more concerted effort towards making, and retaining, friends, I think.
+I am going to make a more concerted effort towards making, and retaining, friends, I think. 
+
+Because I miss just hanging out and being stupid sometimes. 
