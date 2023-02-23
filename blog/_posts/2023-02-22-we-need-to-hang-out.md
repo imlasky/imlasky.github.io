@@ -3,7 +3,7 @@ layout: post
 title: We Need to Hang Out
 ---
 
-I have been re-listening to Billy Baker's book "We Need to Hang Out: A Memoir of Making Friends" after my first listen back in 2020 during the heigh of the pandemic. 
+I have been re-listening to Billy Baker's book "We Need to Hang Out: A Memoir of Making Friends" after my first listen back in 2020 during the height of the pandemic. 
 
 And it still resonates with me more than ever. 
 
