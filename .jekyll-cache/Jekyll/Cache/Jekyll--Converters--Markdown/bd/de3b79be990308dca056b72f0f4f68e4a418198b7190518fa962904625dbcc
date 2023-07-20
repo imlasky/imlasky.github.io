@@ -1,46 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Flashcards | Temp Project</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" />
-    <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Flashcards</title>
-<meta name="generator" content="Jekyll v4.2.2" />
-<meta property="og:title" content="Flashcards" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Motivation and Hypothesis" />
-<meta property="og:description" content="Motivation and Hypothesis" />
-<link rel="canonical" href="http://localhost:4000/projects/2023/02/21/flashcards.html" />
-<meta property="og:url" content="http://localhost:4000/projects/2023/02/21/flashcards.html" />
-<meta property="og:type" content="article" />
-<meta property="article:published_time" content="2023-02-21T00:00:00-05:00" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Flashcards" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-02-21T00:00:00-05:00","datePublished":"2023-02-21T00:00:00-05:00","description":"Motivation and Hypothesis","headline":"Flashcards","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/projects/2023/02/21/flashcards.html"},"url":"http://localhost:4000/projects/2023/02/21/flashcards.html"}</script>
-<!-- End Jekyll SEO tag -->
-
-  </head>
-  <body>
-    <nav>
-  
-  <a href="/">Home</a>
-  
-  <a href="/projects.html">Projects</a>
-  
-  <a href="/blog.html">Blog</a>
-  
-  <a href="/books.html">Books</a>
-  
-</nav>
-
-    <h1>Flashcards</h1>
-<p>21 Feb 2023</p>
-
-<h3 id="motivation-and-hypothesis">Motivation and Hypothesis</h3>
+I"�<h3 id="motivation-and-hypothesis">Motivation and Hypothesis</h3>
 
 <p>I have been learning Korean more seriously lately, and so I have been going through flashcards. I came across the flashcard program, Anki, which uses spaced repetition to help with memorization and learning. There are a few issues I have with it, though.</p>
 
@@ -109,6 +67,4 @@
 <p>I can tentatively see that the attempt time and the answer ease might end up being two fields that indicate the same thing, but I’m still going to hold out for if there is some other information in there. However, I think the review time is novel, it would be curious to see if review time has any effect at all on my memory. Sometimes things just click, and other times they don’t, you know?</p>
 
 <p>As of this point, I still have to create the embeddings for each of the cards for both languages. Additionally, the next attempt field is the output of the model. So, I have to figure out how to do that in real-time. As of right now, it posts to the database, but I am not sure how to continually update the model with new information. While there isn’t much data, maybe I should use a stop-gap measure like relying on the SM-2 algo? Still to be determined.</p>
-
-  </body>
-</html>
+:ET
