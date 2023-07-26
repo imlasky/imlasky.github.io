@@ -1,46 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>We need more whimsical products | Temp Project</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" />
-    <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>We need more whimsical products</title>
-<meta name="generator" content="Jekyll v4.2.2" />
-<meta property="og:title" content="We need more whimsical products" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Have you ever seen Maxim Vengerov play? If not, check out one of my favorite performances of his:" />
-<meta property="og:description" content="Have you ever seen Maxim Vengerov play? If not, check out one of my favorite performances of his:" />
-<link rel="canonical" href="http://localhost:4000/blog/2023/07/26/whimsy.html" />
-<meta property="og:url" content="http://localhost:4000/blog/2023/07/26/whimsy.html" />
-<meta property="og:type" content="article" />
-<meta property="article:published_time" content="2023-07-26T00:00:00-04:00" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="We need more whimsical products" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-07-26T00:00:00-04:00","datePublished":"2023-07-26T00:00:00-04:00","description":"Have you ever seen Maxim Vengerov play? If not, check out one of my favorite performances of his:","headline":"We need more whimsical products","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/blog/2023/07/26/whimsy.html"},"url":"http://localhost:4000/blog/2023/07/26/whimsy.html"}</script>
-<!-- End Jekyll SEO tag -->
-
-  </head>
-  <body>
-    <nav>
-  
-  <a href="/">Home</a>
-  
-  <a href="/projects.html">Projects</a>
-  
-  <a href="/blog.html">Blog</a>
-  
-  <a href="/contact.html">Contact</a>
-  
-</nav>
-
-    <h1>We need more whimsical products</h1>
-<p>26 Jul 2023</p>
-
-<p>Have you ever seen Maxim Vengerov play? If not, check out one of my favorite performances of his:</p>
+I"K<p>Have you ever seen Maxim Vengerov play? If not, check out one of my favorite performances of his:</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bg1NUBLK1tk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
@@ -83,6 +41,4 @@
 
 <p><img src="/assets/images/2023-07-26-whimsy/mmmpage.gif" alt="mmm.page" /></p>
 
-
-  </body>
-</html>
+:ET
