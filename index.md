@@ -23,4 +23,3 @@ First thing is I wanted to get a site of my own - start getting my thoughts on p
 Secondly, I want to create a website that hosts a bunch of these temp projects, potentially motivating me to finish them, or get them to a point where "Yeah, I guess it works" is a satisfying conclusion. If any of them make money, awesome; however, I think I have come around to learn that I need to get through a volume of work before it starts getting any good.[[1]](https://vimeo.com/85040589)
 
 This is my volume. 
-<a rel="me" href="https://mastodon.social/@iml" hidden>Mastodon</a>
