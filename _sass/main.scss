@@ -7,11 +7,11 @@ body {
   text-align: left;
   background-color: #FAF9F6;
   position: relative;
-  line-height: 20pt;
 }
 
-p {
-  color: #343231
+p, li {
+  color: #343231;
+  line-height: 20pt;
 }
 
 h1, h2, h3 {
@@ -47,7 +47,8 @@ blockquote {
   }
 
   h1, h2, h3 {
-    color: #FAF9F6
+    color: #FAF9F6;
+    line-height: 16px;
   }
 
   li {

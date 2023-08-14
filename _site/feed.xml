@@ -1,4 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-08-10T16:10:52-04:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">We need more whimsical products</title><link href="http://localhost:4000/blog/2023/07/26/whimsy.html" rel="alternate" type="text/html" title="We need more whimsical products" /><published>2023-07-26T00:00:00-04:00</published><updated>2023-07-26T00:00:00-04:00</updated><id>http://localhost:4000/blog/2023/07/26/whimsy</id><content type="html" xml:base="http://localhost:4000/blog/2023/07/26/whimsy.html"><![CDATA[<p>Have you ever seen Maxim Vengerov play? If not, check out one of my favorite performances of his:</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-08-14T09:36:23-04:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Resgen</title><link href="http://localhost:4000/projects/2023/08/14/resgen.html" rel="alternate" type="text/html" title="Resgen" /><published>2023-08-14T00:00:00-04:00</published><updated>2023-08-14T00:00:00-04:00</updated><id>http://localhost:4000/projects/2023/08/14/resgen</id><content type="html" xml:base="http://localhost:4000/projects/2023/08/14/resgen.html"><![CDATA[<p>Will do a more formal writeup soon, but the site is here: <a href="https://resgen.app">Resgen</a></p>]]></content><author><name></name></author><category term="projects" /><summary type="html"><![CDATA[Will do a more formal writeup soon, but the site is here: Resgen]]></summary></entry><entry><title type="html">Next steps for your application to tech.ai</title><link href="http://localhost:4000/blog/2023/08/14/your-application.html" rel="alternate" type="text/html" title="Next steps for your application to tech.ai" /><published>2023-08-14T00:00:00-04:00</published><updated>2023-08-14T00:00:00-04:00</updated><id>http://localhost:4000/blog/2023/08/14/your-application</id><content type="html" xml:base="http://localhost:4000/blog/2023/08/14/your-application.html"><![CDATA[<p>Hi there, {applicant}!</p>
+
+<p>We’re so happy that you expressed your interest in joining <strong>tech.ai</strong> — the leading AI company transforming the {industry} industry (and is <em>definitely not</em> just an API call to OpenAI)!</p>
+
+<p>We have received your application and are happy to move you on to the first round which is a take-home assignment which shouldn’t take you more than 2-3 weeks. We hope you have as much fun completing it as we have had designing it! It’s designed to test a variety of skills such as:</p>
+
+<ul>
+  <li>perseverance</li>
+  <li>obedience</li>
+  <li>how much shit you can take</li>
+  <li>your desperation for a job</li>
+  <li>coding!</li>
+</ul>
+
+<p>We’ve attached the prompt for the first round to this email, it’s a quick 22 page read to give you sufficient background into the problem. (Hint: don’t forget the quirk on page 17!).</p>
+
+<p>The expected output is a report document that is expected to contain UML diagrams, Figma wireframes, burndown charts of your progress, a picture of a pony, and a detailed document of your approach and reasoning for each line of code. Additionally, we expect the project to be completed in both python 2.7 and 3.11 - we advise creating a docker image of your project so we can run it on our end.</p>
+
+<p>To give you a peek at the rest of the process - we’ve optimized it for speed since we are <strong>urgently hiring</strong>. So, if you are deemed worthy enough to pass the first stage, the rest of the interview process will look like the following (subject to change):</p>
+
+<ol>
+  <li>Recruiter phone screen to go over your resume [30 min]</li>
+  <li>Live coding and behavioral interview [60 min]</li>
+  <li>Chat with Product Manager [45 min]</li>
+  <li>Second take-home assignment [2-3 weeks]</li>
+  <li>Review of first and second take-home assignments [10 min]</li>
+  <li>Behavioral interview with principal engineer [30 mins]</li>
+  <li>Third take-home assignment [2-3 weeks]</li>
+  <li>Presentation of third take-home to hiring panel [3 hours]</li>
+  <li>Meet and greet with other engineers [60 min]</li>
+  <li>2 month paid working trial [2 months]</li>
+  <li>Chat with CPO [60 mins]</li>
+  <li>Wait 2 weeks while we see if there is someone else [2 weeks]</li>
+  <li>Offer!</li>
+</ol>
+
+<p>We’ve carefully crafted all 13 steps above to help make the process easy and ensure that there is a good fit — the hiring process goes both ways, after all!</p>
+
+<p>Due to the high volume of applicants, we can’t guarantee that we’ll get back to you with detailed feedback of your take-home assignment, but we’ll make sure to maybe skim some of the first page.</p>
+
+<p>Thanks again for your interest in tech.ai! We can’t wait to have you on board.</p>
+
+<p>Sincerely,</p>
+
+<p>{recruiter}</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Hi there, {applicant}!]]></summary></entry><entry><title type="html">We need more whimsical products</title><link href="http://localhost:4000/blog/2023/07/26/whimsy.html" rel="alternate" type="text/html" title="We need more whimsical products" /><published>2023-07-26T00:00:00-04:00</published><updated>2023-07-26T00:00:00-04:00</updated><id>http://localhost:4000/blog/2023/07/26/whimsy</id><content type="html" xml:base="http://localhost:4000/blog/2023/07/26/whimsy.html"><![CDATA[<p>Have you ever seen Maxim Vengerov play? If not, check out one of my favorite performances of his:</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bg1NUBLK1tk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
@@ -99,10 +143,4 @@
 
 <p>I also downloaded his two audio books, The Tools and Coming Alive, written with Barry Michels. I plan to take these tools into practice.</p>
 
-<p>It’ll take a bit of adjustment to the language, which frankly sounds a little loopy. But hey, most ideas sound loopy before you try them. Especially the good ones.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Decided to watch the movie Stutz, which is about Jonah Hill’s therapist, Phil Stutz. He’s a well-known therapist in Hollywood, but that was the first I’ve ever heard of him. And frankly, the ideas presented are going to help me change things.]]></summary></entry><entry><title type="html">Slump</title><link href="http://localhost:4000/blog/2023/02/26/slump.html" rel="alternate" type="text/html" title="Slump" /><published>2023-02-26T00:00:00-05:00</published><updated>2023-02-26T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/02/26/slump</id><content type="html" xml:base="http://localhost:4000/blog/2023/02/26/slump.html"><![CDATA[<p>How do I get out of a slump? I exercise a few times a weak, my eating is kind of bleh, but every time I try I end up back at the same point.</p>
-
-<p>Maybe there are different avenues to the same destination for getting out of the slump.</p>
-
-<p>I was reminded of the 4000 week idea recently, and I feel like I just burned one or two that will never be coming back. How can I treasure the remaining weeks?</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[How do I get out of a slump? I exercise a few times a weak, my eating is kind of bleh, but every time I try I end up back at the same point.]]></summary></entry><entry><title type="html">Sourdough</title><link href="http://localhost:4000/blog/2023/02/25/sourdough.html" rel="alternate" type="text/html" title="Sourdough" /><published>2023-02-25T00:00:00-05:00</published><updated>2023-02-25T00:00:00-05:00</updated><id>http://localhost:4000/blog/2023/02/25/sourdough</id><content type="html" xml:base="http://localhost:4000/blog/2023/02/25/sourdough.html"><![CDATA[<p>I used to make bread. A lot of bread. Baguettes, boules, croissants - you get it.</p>
-
-<p>For a holiday gift exchange at my previous work, I received a packet of sourdough starter and Flour, Water, Salt, Yeast. I know I am very late to the sourdough train, but I figured I will start baking again. Last time I remember doing it, it brought a tremendous joy to my life.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[I used to make bread. A lot of bread. Baguettes, boules, croissants - you get it.]]></summary></entry></feed>
+<p>It’ll take a bit of adjustment to the language, which frankly sounds a little loopy. But hey, most ideas sound loopy before you try them. Especially the good ones.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Decided to watch the movie Stutz, which is about Jonah Hill’s therapist, Phil Stutz. He’s a well-known therapist in Hollywood, but that was the first I’ve ever heard of him. And frankly, the ideas presented are going to help me change things.]]></summary></entry></feed>

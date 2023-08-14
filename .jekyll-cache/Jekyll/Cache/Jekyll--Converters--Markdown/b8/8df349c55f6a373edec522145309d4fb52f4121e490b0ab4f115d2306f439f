@@ -1,0 +1,47 @@
+I"�
+<p>Hi there, {applicant}!</p>
+
+<p>We’re so happy that you expressed your interest in joining <strong>tech.ai</strong> — the leading AI company transforming the {industry} industry (and is <em>definitely not</em> just an API call to OpenAI)!</p>
+
+<p>We have received your application and are happy to move you on to the first round which is a take-home assignment which shouldn’t take you more than 2-3 weeks. We hope you have as much fun completing it as we have had designing it! It’s designed to test a variety of skills such as:</p>
+
+<ul>
+  <li>perseverance</li>
+  <li>obedience</li>
+  <li>how much shit you can take</li>
+  <li>your desperation for a job</li>
+  <li>coding!</li>
+</ul>
+
+<p>We’ve attached the prompt for the first round to this email, it’s a quick 22 page read to give you sufficient background into the problem. (Hint: don’t forget the quirk on page 17!).</p>
+
+<p>The expected output is a report document that is expected to contain UML diagrams, Figma wireframes, burndown charts of your progress, a picture of a pony, and a detailed document of your approach and reasoning for each line of code. Additionally, we expect the project to be completed in both python 2.7 and 3.11 - we advise creating a docker image of your project so we can run it on our end.</p>
+
+<p>To give you a peek at the rest of the process - we’ve optimized it for speed since we are <strong>urgently hiring</strong>. So, if you are deemed worthy enough to pass the first stage, the rest of the interview process will look like the following (subject to change):</p>
+
+<ol>
+  <li>Recruiter phone screen to go over your resume [30 min]</li>
+  <li>Live coding and behavioral interview [60 min]</li>
+  <li>Chat with Product Manager [45 min]</li>
+  <li>Second take-home assignment [2-3 weeks]</li>
+  <li>Review of first and second take-home assignments [10 min]</li>
+  <li>Behavioral interview with principal engineer [30 mins]</li>
+  <li>Third take-home assignment [2-3 weeks]</li>
+  <li>Presentation of third take-home to hiring panel [3 hours]</li>
+  <li>Meet and greet with other engineers [60 min]</li>
+  <li>2 month paid working trial [2 months]</li>
+  <li>Chat with CPO [60 mins]</li>
+  <li>Wait 2 weeks while we see if there is someone else</li>
+  <li>Offer!</li>
+</ol>
+
+<p>We’ve carefully crafted all 13 steps above to help make the process easy and ensure that there is a good fit — the hiring process goes both ways, after all!</p>
+
+<p>Due to the high volume of applicants, we can’t guarantee that we’ll get back to you with detailed feedback of your take-home assignment, but we’ll make sure to maybe skim some of the first page.</p>
+
+<p>Thanks again for your interest in tech.ai! We can’t wait to have you on board.</p>
+
+<p>Sincerely,</p>
+
+<p>Go fuck yourself</p>
+:ET
