@@ -4,7 +4,7 @@ layout: post
 
 I've been reading a book lately called Platonic (shout out to the Boston Public Library's discover section).
 
-There is this part in it that I found rather insightful: the "liking gap". 
+There is this concept in it that I found rather insightful: the "liking gap". 
 
 The "liking gap" is the concept that how much we perceive someone likes us is usually an underestimate of how much they actually do. 
 
