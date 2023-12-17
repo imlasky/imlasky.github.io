@@ -1,6 +1,5 @@
 ---
 layout: post
-title: You just have to listen
 ---
 
 Lately, I've been in a bit of a mental rut that I want to build something, but find myself lost for what to build. I made a little toy project for fun ([snapress](https://snapress.com)), but finished it in a weekend and found myself longing again for something new. 
