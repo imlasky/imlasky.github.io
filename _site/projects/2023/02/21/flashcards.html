@@ -6,6 +6,8 @@
     <link rel="stylesheet" href="/assets/css/styles.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <link rel="me" href="https://mastodon.social/@iml">
+    <link rel="stylesheet" href="http://localhost:5173/highlight.cool.css"> 
+    <script defer src="http://localhost:5173/highlight.cool.js"></script>
     <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" />
     <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>Flashcards</title>
@@ -41,7 +43,9 @@
     <h1>Flashcards</h1>
 <p>21 Feb 2023</p>
 
-<h3 id="motivation-and-hypothesis">Motivation and Hypothesis</h3>
+<div class="highlight-cool">
+    <button id="show-highlights">Show highlights</button>
+    <h3 id="motivation-and-hypothesis">Motivation and Hypothesis</h3>
 
 <p>I have been learning Korean more seriously lately, and so I have been going through flashcards. I came across the flashcard program, Anki, which uses spaced repetition to help with memorization and learning. There are a few issues I have with it, though.</p>
 
@@ -111,5 +115,6 @@
 
 <p>As of this point, I still have to create the embeddings for each of the cards for both languages. Additionally, the next attempt field is the output of the model. So, I have to figure out how to do that in real-time. As of right now, it posts to the database, but I am not sure how to continually update the model with new information. While there isn’t much data, maybe I should use a stop-gap measure like relying on the SM-2 algo? Still to be determined.</p>
 
+</div>
   </body>
 </html>
