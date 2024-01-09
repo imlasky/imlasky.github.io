@@ -4,7 +4,7 @@ layout: default
 <h1>{{ page.title }}</h1>
 <p>{{ page.date | date_to_string }}</p>
 
-<div class="highlight-cool">
-    <button id="show-highlights">Show highlights</button>
-    {{ content }}
-</div>
+{% comment %} <div class="highlight-cool"> {% endcomment %}
+    {% comment %} <button id="show-highlights">Show highlights</button> {% endcomment %}
+{{ content }}
+{% comment %} </div> {% endcomment %}
