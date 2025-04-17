@@ -5,14 +5,38 @@
     <title>{{ page.title }} | Temp Project</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <link rel="me" href="https://mastodon.social/@iml">
-    <link rel="stylesheet" href="https://highlight.cool/public/highlight.cool.css"  type="text/css"> 
-    <script defer data-highlightcool="tempproject.dev" src="https://highlight.cool/public/highlight.cool.js"></script>
+    
     {% feed_meta %}
     {% seo %}
   </head>
   <body>
-    {% include navigation.html %}
-    {{ content }}
+    <div class="container">
+      <header class="site-header">
+        <h1 class="site-title">Temp Project</h1>
+        <p class="site-description blink">Good vibes only</p>
+      </header>
+  
+      <nav class="site-nav">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <!-- <a href="{{ '/projects' | relative_url }}">Projects</a> -->
+        <a href="{{ '/blog' | relative_url }}">Blog</a>
+        <!-- <a href="{{ '/guestbook' | relative_url }}">Guestbook</a> -->
+        <a href="{{ '/about' | relative_url }}">About</a>
+      </nav>
+  
+      <div class="marquee">
+        <div>
+          <span>🚧 Welcome to the Temp Project! Still cooking... 🍳</span>
+          <span>🚧 Welcome to the Temp Project! Still cooking... 🍳</span>
+        </div>
+      </div>
+  
+      <main class="content">
+        {{ content }}
+      </main>
+  
+      
+      
+    </div>
   </body>
 </html>

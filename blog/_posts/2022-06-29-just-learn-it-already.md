@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [development, blah]
 ---
 
 So, in my first project post, I complained a bit about all the different web development frameworks and that, frankly, I was struggling with how intimidating they seemed.[[1]]({% post_url /projects/2022-05-31-temp-project-website%})
