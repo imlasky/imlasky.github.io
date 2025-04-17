@@ -23,4 +23,6 @@ Secondly, I want to create a website that hosts a bunch of these temp projects, 
 
 This is my volume.
 
-[^1]: [This talk really stuck with me.](https://vimeo.com/85040589)
+---
+
+[^1]: [The Gap by Ira Glass](https://vimeo.com/85040589)
