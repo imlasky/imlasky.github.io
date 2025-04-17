@@ -10,33 +10,7 @@
     {% seo %}
   </head>
   <body>
-    <div class="container">
-      <header class="site-header">
-        <h1 class="site-title">Temp Project</h1>
-        <p class="site-description blink">Good vibes only</p>
-      </header>
-  
-      <nav class="site-nav">
-        <a href="{{ '/' | relative_url }}">Home</a>
-        <!-- <a href="{{ '/projects' | relative_url }}">Projects</a> -->
-        <a href="{{ '/blog' | relative_url }}">Blog</a>
-        <!-- <a href="{{ '/guestbook' | relative_url }}">Guestbook</a> -->
-        <a href="{{ '/about' | relative_url }}">About</a>
-      </nav>
-  
-      <div class="marquee">
-        <div>
-          <span>🚧 Welcome to the Temp Project! Still cooking... 🍳</span>
-          <span>🚧 Welcome to the Temp Project! Still cooking... 🍳</span>
-        </div>
-      </div>
-  
-      <main class="content">
-        {{ content }}
-      </main>
-  
-      
-      
-    </div>
+    {% include navigation.html %}
+    {{ content }}
   </body>
 </html>
