@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do they have humans test cars before they build them or what?
-tags: [rant, travel]
+tags: [rant, travel, cars]
 ---
 # Introduction
 Living in the city, I don’t own a car. But I rent one quite a lot if I want to go somewhere for a weekend or do odds and ends. 
