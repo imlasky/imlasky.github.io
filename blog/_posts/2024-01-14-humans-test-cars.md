@@ -98,4 +98,4 @@ This one is quick. Cars that withhold the autoconnect via Bluetooth functionalit
 Also, I'm not going to use your shit-ass maps or media functionality. I immediately hate a car that doesn't have CarPlay.
 
 # Conclusion
-And so concludes my gripes with cars. I'm sure there have been more, but these have been the heavy hitters. Part of me is glad that I have experienced all of these cars because I know that when I need to go purchase a car, it'll be an absolute nightmare."
+And so concludes my gripes with cars. I'm sure there have been more, but these have been the heavy hitters. Part of me is glad that I have experienced all of these cars because I know that when I need to go purchase a car, it'll be an absolute nightmare.

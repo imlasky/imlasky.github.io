@@ -1,4 +1,116 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-17T18:06:30+09:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Do they have humans test cars before they build them or what?</title><link href="http://localhost:4000/blog/2024/01/14/do-they-have-humans-test-cars.html" rel="alternate" type="text/html" title="Do they have humans test cars before they build them or what?" /><published>2024-01-14T00:00:00+09:00</published><updated>2024-01-14T00:00:00+09:00</updated><id>http://localhost:4000/blog/2024/01/14/do-they-have-humans-test-cars</id><content type="html" xml:base="http://localhost:4000/blog/2024/01/14/do-they-have-humans-test-cars.html"><![CDATA[<h1 id="introduction">Introduction</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-17T18:31:09+09:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">“AI-powered” has become a red flag</title><link href="http://localhost:4000/blog/2024/06/27/ai-powered-has-become-a-red-flag.html" rel="alternate" type="text/html" title="“AI-powered” has become a red flag" /><published>2024-06-27T00:00:00+09:00</published><updated>2024-06-27T00:00:00+09:00</updated><id>http://localhost:4000/blog/2024/06/27/ai-powered-has-become-a-red-flag</id><content type="html" xml:base="http://localhost:4000/blog/2024/06/27/ai-powered-has-become-a-red-flag.html"><![CDATA[<p>Since the launch of ChatGPT back in 2022 AI has explod — just kidding. Those lead-ins are getting tiring, right?</p>
+
+<p>But what has become even more irritating is how everything is “AI-powered” all of a sudden.</p>
+
+<p>Let me make it clear up-front that I am not opposed to using AI, whatever that means anymore, for a product. I’ve done it myself and it’s a good way to add value to the product, if it really needs it.</p>
+
+<p>But what truly irks me are the common-day apps which have been <em>just fine</em> without such AI plug-ins and, all of a sudden, they become “AI-powered”. Here are a few things that go through my head when “AI-powered” is advertised up-front:</p>
+
+<ol>
+  <li>How reliable are the outputs / are hallucinations present?</li>
+  <li>Where does my data go? (Probably OpenAI, but not 100% sure)</li>
+  <li>Is the AI-powered going to be a mark-up?</li>
+  <li>What value does the AI-powered actually bring?</li>
+</ol>
+
+<p>Because I’ve become so hung up on your messaging about finally baking in an API call to OpenAI, I’ve stopped giving a shit about what your actual product does and how it can help me. (Side note: the visuals are also so overdone — if I see one more gradient-colored button with ✨ or ⚡️ emojis for the “AI-enhancement” or whatever, I’ll just make a plugin to block that CSS altogether)</p>
+
+<p>Of course, this isn’t a surprise to anyone. AI is hot shit and people want to cash-in on the wave. But that’s what your “AI-powered” marketing signals to me now: “We added AI to cash-in on the wave and stopped giving a shit to what users <em>actually</em> wanted”.</p>
+
+<p>“Sounds like a lot of complaining. What do you suggest instead?”, I can hear you screaming at me.</p>
+
+<p>Well, for starters, AI is a tool like everything else. Do we advertise using a Postgres database or that super-duper new JS framework? No, not really. Because someone looking at your page wants their problem solved. Here’s a good quote from Seth Godin’s This is Marketing to drive it home:</p>
+
+<blockquote>
+  <p>Harvard marketing professor Theodore Levitt famously said, “People don’t want to buy a quarter-inch drill bit. They want a quarter-inch hole.”</p>
+
+  <p>The lesson is that the drill bit is merely a feature, a means to an end, but what people truly want is the hole it makes.</p>
+
+  <p>But that doesn’t go nearly far enough. No one wants a hole.</p>
+
+  <p>What people want is the shelf that will go on the wall once they drill the hole.</p>
+
+  <p>Actually, what they want is how they’ll feel once they see how uncluttered everything is, when they put their stuff on the shelf that went on the wall, now that there’s a quarter-inch hole.</p>
+
+  <p>But wait . . .</p>
+
+  <p>They also want the satisfaction of knowing they did it themselves.</p>
+
+  <p>Or perhaps the increase in status they’ll get when their spouse admires the work.</p>
+
+  <p>Or the peace of mind that comes from knowing that the bedroom isn’t a mess, and that it feels safe and clean.</p>
+
+  <p>“People don’t want to buy a quarter-inch drill bit. They want to feel safe and respected.”</p>
+
+  <p>Bingo.</p>
+</blockquote>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Since the launch of ChatGPT back in 2022 AI has explod — just kidding. Those lead-ins are getting tiring, right?]]></summary></entry><entry><title type="html">Developing film for the first time</title><link href="http://localhost:4000/blog/2024/06/02/developing-film.html" rel="alternate" type="text/html" title="Developing film for the first time" /><published>2024-06-02T00:00:00+09:00</published><updated>2024-06-02T00:00:00+09:00</updated><id>http://localhost:4000/blog/2024/06/02/developing-film</id><content type="html" xml:base="http://localhost:4000/blog/2024/06/02/developing-film.html"><![CDATA[<p>I just got a roll of film developed. It’s my first roll of film I’ve ever gotten developed. I’ve had the my camera, a Canon AE-1, for over 6 years and never developed any roll of film on it. I have about 5-6 rolls of film filled with pictures, but I didn’t know how they looked, or if the camera was even working properly, until two days ago.</p>
+
+<p>Here’s some of the pictures from the roll (they’re in Italy):</p>
+
+<p><img src="/assets/images/2024-06-02-developing-film/alleyway.jpeg" alt="alleyway" />
+<img src="/assets/images/2024-06-02-developing-film/columns.jpeg" alt="columns" />
+<img src="/assets/images/2024-06-02-developing-film/courtyard.jpeg" alt="courtyard" />
+<img src="/assets/images/2024-06-02-developing-film/facade.jpeg" alt="facade" />
+<img src="/assets/images/2024-06-02-developing-film/sunset-wall.jpeg" alt="sunset wall" />
+<img src="/assets/images/2024-06-02-developing-film/wall-with-column.jpeg" alt="wall with column" /></p>
+
+<p>This entire journey with this camera has been one of extreme patience. I forgot which photos I took, and I didn’t get the immediate gratification I would have if I used digital. The pictures are, without a doubt, the most rewarding pictures I have ever taken. And they’re <em>mine</em>.</p>
+
+<p>The pictures possess this intrinsic character that makes me long to return and be entranced by the scene. It has a nostalgia baked into it. Film just has the <em>zhuzh</em> that digital lacks.</p>
+
+<p>Needless to say, I’m gonna keep taking my camera everywhere I go.</p>
+
+<p>Time to get some more film.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[I just got a roll of film developed. It’s my first roll of film I’ve ever gotten developed. I’ve had the my camera, a Canon AE-1, for over 6 years and never developed any roll of film on it. I have about 5-6 rolls of film filled with pictures, but I didn’t know how they looked, or if the camera was even working properly, until two days ago.]]></summary></entry><entry><title type="html">Korea is way ahead: improvements to everyday objects</title><link href="http://localhost:4000/blog/2024/01/31/everyday-objects-korea.html" rel="alternate" type="text/html" title="Korea is way ahead: improvements to everyday objects" /><published>2024-01-31T00:00:00+09:00</published><updated>2024-01-31T00:00:00+09:00</updated><id>http://localhost:4000/blog/2024/01/31/everyday-objects-korea</id><content type="html" xml:base="http://localhost:4000/blog/2024/01/31/everyday-objects-korea.html"><![CDATA[<h2 id="intro">Intro</h2>
+<p>I’m currently in Korea for my first country in my year-long (maybe 2 year?) trip around the world. Almost immediately I’ve noticed there are some quality-of-life improvements to everyday things that seem dead-simple in retrospect, but are absent (or rarely seen) in the US.</p>
+
+<h2 id="door-locks">Door locks</h2>
+<p>Pretty much every door to a home has an electronic key-code entry mechanism. Punch in your code, and the door opens. Close the door and it automatically locks.</p>
+
+<p>I’ve needed to use keys for my entire life to lock the door behind me, so to just close the door and walk away feels…insecure? But after a quick adjustment to these new locks, I’ve concluded that they are simply <strong>better</strong>. Plus, the little jingle when you (un)lock the door is a reassuring piece of feedback that it was closed properly.</p>
+
+<h2 id="lights">Lights</h2>
+<p>Similarly, the lights at the entrance are connected to motion detectors. So, as soon as you enter, or are heading for the door, the lights activate so you can take off, or put on, your shoes. Much better than either having the light on all the time or having to find the switch when you enter the apartment at night.</p>
+
+<h2 id="floors">Floors</h2>
+<p>The US primarily uses heated air to warm the room, leaving you with maybe warm air, but definitely cold floors. Coming out of the warm shower can be a true test of your character some mornings.</p>
+
+<p>However, here in Korea heated floors are the norm and what an absolute delight they are. The heat propagates up through the air and makes the room feel cozy. Sitting &amp; sleeping on the floor is a daily occurrence, so making it more comfortable to do so, rather than the cold floors, makes a ton of sense.</p>
+
+<h2 id="stools">Stools</h2>
+<p>When you go to a barbecue restaurant, the short stools are hollow inside and have a plastic bag. You open the top of the stool, place your coat into the bag, then close the stool.</p>
+
+<p>This is brilliant for two main reasons:</p>
+<ol>
+  <li>You do not have to sit on your coat or have it touch the ground</li>
+  <li>The coat will not soak up any of the BBQ smell or oils while grilling, keeping it clean</li>
+</ol>
+
+<h2 id="utensil-drawers">Utensil drawers</h2>
+<p>Speaking of restaurants, a lot of them have tables with drawers that contain utensils and napkins. The result of this is two-fold:</p>
+<ol>
+  <li>Able to have smaller tables because less area is taken up by utensil and napkin holders</li>
+  <li>No waiting for a server to bring you a new utensil if you drop it</li>
+</ol>
+
+<p>These tables tend to be at more fast-served restaurants, so it makes more sense for them to bring you the food and you can just take out the silverware you need.</p>
+
+<h2 id="showers-and-bathrooms-are-part-of-the-same-space">Showers and bathrooms are part of the same space</h2>
+<p>The shower head is connected to the sink faucet, letting you switch between the sink and the shower head. An immediate effect of having them in the same room is that the entire bathroom is, for all intents and purposes, water-proof. Cleaning the bathroom is as simple as spraying water in the area, and it goes down the drain. Easy.</p>
+
+<p>Also, similar to the tables with drawers, this is an excellent way to make use of space within the bathroom instead of taking up half for the shower and half for the bathroom.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>These have been my main observations here within the first week and I’m sure I’ll discover more. But suffice it to say, I’m loving having these improvements around me.</p>
+
+<h4 id="update-feb-2-2024">Update Feb 2 2024</h4>
+<h2 id="compressed-air-stations">Compressed air stations</h2>
+<p>At the start/end of hiking trails and beaches are compressed air stations that allow you to blast off any dirt or sand.</p>
+
+<p>Just this morning I decided to run barefoot into the East Sea and so I had a whole bunch of sand all over my feet and shoes. A quick blast later and it’s all clean. Marvelous.</p>
+
+<h4 id="update-feb-2-2024-part-2">Update Feb 2 2024 part 2</h4>
+<h2 id="elevators">Elevators</h2>
+<p>Elevator buttons are cancellable. I repeat: elevator buttons are cancellable. You press the wrong floor — no worries, just press the button again and it’s cancelled.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Intro I’m currently in Korea for my first country in my year-long (maybe 2 year?) trip around the world. Almost immediately I’ve noticed there are some quality-of-life improvements to everyday things that seem dead-simple in retrospect, but are absent (or rarely seen) in the US.]]></summary></entry><entry><title type="html">Do they have humans test cars before they build them or what?</title><link href="http://localhost:4000/blog/2024/01/14/humans-test-cars.html" rel="alternate" type="text/html" title="Do they have humans test cars before they build them or what?" /><published>2024-01-14T00:00:00+09:00</published><updated>2024-01-14T00:00:00+09:00</updated><id>http://localhost:4000/blog/2024/01/14/humans-test-cars</id><content type="html" xml:base="http://localhost:4000/blog/2024/01/14/humans-test-cars.html"><![CDATA[<h1 id="introduction">Introduction</h1>
 <p>Living in the city, I don’t own a car. But I rent one quite a lot if I want to go somewhere for a weekend or do odds and ends.</p>
 
 <p>The result is I’ve driven a fair number of cars over the past two years. Probably close to 70 or so.  As a side effect, I have a lot of comparison points of features I like, feel indifferent about, and hate with a passion of 1,000 suns.</p>
@@ -120,7 +232,7 @@
 <p>Also, I’m not going to use your shit-ass maps or media functionality. I immediately hate a car that doesn’t have CarPlay.</p>
 
 <h1 id="conclusion">Conclusion</h1>
-<p>And so concludes my gripes with cars. I’m sure there have been more, but these have been the heavy hitters. Part of me is glad that I have experienced all of these cars because I know that when I need to go purchase a car, it’ll be an absolute nightmare.”</p>]]></content><author><name></name></author><category term="blog" /><category term="rant" /><category term="travel" /><category term="cars" /><summary type="html"><![CDATA[Introduction Living in the city, I don’t own a car. But I rent one quite a lot if I want to go somewhere for a weekend or do odds and ends.]]></summary></entry><entry><title type="html">You Just Have To Listen</title><link href="http://localhost:4000/blog/2023/12/17/you-just-have-to-listen.html" rel="alternate" type="text/html" title="You Just Have To Listen" /><published>2023-12-17T00:00:00+09:00</published><updated>2023-12-17T00:00:00+09:00</updated><id>http://localhost:4000/blog/2023/12/17/you-just-have-to-listen</id><content type="html" xml:base="http://localhost:4000/blog/2023/12/17/you-just-have-to-listen.html"><![CDATA[<p>Lately, I’ve been in a bit of a mental rut that I want to build something, but find myself lost for what to build. I made a little toy project for fun (<a href="https://snapress.com">snapress</a>), but finished it in a weekend and found myself longing again for something new.</p>
+<p>And so concludes my gripes with cars. I’m sure there have been more, but these have been the heavy hitters. Part of me is glad that I have experienced all of these cars because I know that when I need to go purchase a car, it’ll be an absolute nightmare.</p>]]></content><author><name></name></author><category term="blog" /><category term="rant" /><category term="travel" /><category term="cars" /><summary type="html"><![CDATA[Introduction Living in the city, I don’t own a car. But I rent one quite a lot if I want to go somewhere for a weekend or do odds and ends.]]></summary></entry><entry><title type="html">You Just Have To Listen</title><link href="http://localhost:4000/blog/2023/12/17/you-just-have-to-listen.html" rel="alternate" type="text/html" title="You Just Have To Listen" /><published>2023-12-17T00:00:00+09:00</published><updated>2023-12-17T00:00:00+09:00</updated><id>http://localhost:4000/blog/2023/12/17/you-just-have-to-listen</id><content type="html" xml:base="http://localhost:4000/blog/2023/12/17/you-just-have-to-listen.html"><![CDATA[<p>Lately, I’ve been in a bit of a mental rut that I want to build something, but find myself lost for what to build. I made a little toy project for fun (<a href="https://snapress.com">snapress</a>), but finished it in a weekend and found myself longing again for something new.</p>
 
 <p>I went to sleep last night, and maybe it was a combination of being in this longing state as well as doing a fast that day, but it was the first time in my life that I had a dream give me advice.</p>
 
@@ -193,25 +305,7 @@ I’m only doing that which makes me feel alive</p>
 
 <p>I felt good about getting it out of the house and would rather toss it out than put it in my body anymore.</p>
 
-<p>It was a good step forward for me and felt like a stake in the ground that I have had enough of how I’m eating.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Last Friday we hosted a Halloween party. As expected, all of our friends brought food, in addition to the food that we bought for the party: cupcakes, Oreos, chips, pretzels, candy, candy corn, and a ton of booze.]]></summary></entry><entry><title type="html">The Liking Gap</title><link href="http://localhost:4000/blog/2023/10/27/the-liking-gap.html" rel="alternate" type="text/html" title="The Liking Gap" /><published>2023-10-27T00:00:00+09:00</published><updated>2023-10-27T00:00:00+09:00</updated><id>http://localhost:4000/blog/2023/10/27/the-liking-gap</id><content type="html" xml:base="http://localhost:4000/blog/2023/10/27/the-liking-gap.html"><![CDATA[<p>I’ve been reading a book lately called Platonic (shout out to the Boston Public Library’s discover section).</p>
-
-<p>There is this concept in it that I found rather insightful: the “liking gap”.</p>
-
-<p>The “liking gap” is the concept that how much we perceive someone likes us is usually an underestimate of how much they actually do.</p>
-
-<p>This can be translated into a number of scenarios.</p>
-
-<p>For me, I’ve used this when chatting to people at events – I assume they’d like to chat and are open to connection.</p>
-
-<p>I approach them, say hello and introduce myself, and ask a question.</p>
-
-<p>Most recently I was at a Bahamas concert and noticed a few people next to me.</p>
-
-<p>They weren’t initiating, so I remembered what I read about the liking gap. So, I initiated and we connected over our love of the band and chatted about their new album – it was a great connection!</p>
-
-<p>Another recent connection is a friend I’ve been emailing back and forth with after finding their blog. I was interested in their story, and felt I could maybe offer some advice for their situation. It’s been fun so far to encourage them to start a project and to also reflect on how much I’ve grown with my technical knowledge from my own projects.</p>
-
-<p>The best part of all this is that it is <em>repeatable</em> and <em>practicable</em>. I can do it whenever, wherever, make new connections, meet new people, learn about them and their world and maybe, just maybe, foster a new friendship.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[I’ve been reading a book lately called Platonic (shout out to the Boston Public Library’s discover section).]]></summary></entry><entry><title type="html">Guava</title><link href="http://localhost:4000/projects/2023/10/27/guava.html" rel="alternate" type="text/html" title="Guava" /><published>2023-10-27T00:00:00+09:00</published><updated>2023-10-27T00:00:00+09:00</updated><id>http://localhost:4000/projects/2023/10/27/guava</id><content type="html" xml:base="http://localhost:4000/projects/2023/10/27/guava.html"><![CDATA[<p>I’m traveling soon. World travels. Maybe for a year or two. And, as one does, I’m going to make a blog.</p>
+<p>It was a good step forward for me and felt like a stake in the ground that I have had enough of how I’m eating.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Last Friday we hosted a Halloween party. As expected, all of our friends brought food, in addition to the food that we bought for the party: cupcakes, Oreos, chips, pretzels, candy, candy corn, and a ton of booze.]]></summary></entry><entry><title type="html">Guava</title><link href="http://localhost:4000/projects/2023/10/27/guava.html" rel="alternate" type="text/html" title="Guava" /><published>2023-10-27T00:00:00+09:00</published><updated>2023-10-27T00:00:00+09:00</updated><id>http://localhost:4000/projects/2023/10/27/guava</id><content type="html" xml:base="http://localhost:4000/projects/2023/10/27/guava.html"><![CDATA[<p>I’m traveling soon. World travels. Maybe for a year or two. And, as one does, I’m going to make a blog.</p>
 
 <p>While Jekyll has been good to me for this blog, what I want is something that is more flexible, and something I don’t have to write in markdown in VSCode and push changes.</p>
 
@@ -240,62 +334,22 @@ I’m only doing that which makes me feel alive</p>
 
 <p>Things like copy/paste, delete, resize, and drag to position are also in.</p>
 
-<p>The main challenge right now is getting the elements to look right on both desktop and mobile. The idea is be able to specify where I’d want the element to be on the desktop and where I want it on mobile, if at all. Something like visual breakpoints for each element. By default, it would be a fixed element that, as the screen size shrinks, it goes off the page if outside the bounds.</p>]]></content><author><name></name></author><category term="projects" /><summary type="html"><![CDATA[I’m traveling soon. World travels. Maybe for a year or two. And, as one does, I’m going to make a blog.]]></summary></entry><entry><title type="html">Ikigai</title><link href="http://localhost:4000/blog/2023/09/01/ikigai.html" rel="alternate" type="text/html" title="Ikigai" /><published>2023-09-01T00:00:00+09:00</published><updated>2023-09-01T00:00:00+09:00</updated><id>http://localhost:4000/blog/2023/09/01/ikigai</id><content type="html" xml:base="http://localhost:4000/blog/2023/09/01/ikigai.html"><![CDATA[<p>Ikigai is a Japanese concept that roughly translates to “a reason for being”. You might have seen it floating around the internet as a Venn diagram with 4 circles: what you love, what you’re good at, what you can be paid for, and what the world needs.</p>
+<p>The main challenge right now is getting the elements to look right on both desktop and mobile. The idea is be able to specify where I’d want the element to be on the desktop and where I want it on mobile, if at all. Something like visual breakpoints for each element. By default, it would be a fixed element that, as the screen size shrinks, it goes off the page if outside the bounds.</p>]]></content><author><name></name></author><category term="projects" /><summary type="html"><![CDATA[I’m traveling soon. World travels. Maybe for a year or two. And, as one does, I’m going to make a blog.]]></summary></entry><entry><title type="html">The Liking Gap</title><link href="http://localhost:4000/blog/2023/10/27/the-liking-gap.html" rel="alternate" type="text/html" title="The Liking Gap" /><published>2023-10-27T00:00:00+09:00</published><updated>2023-10-27T00:00:00+09:00</updated><id>http://localhost:4000/blog/2023/10/27/the-liking-gap</id><content type="html" xml:base="http://localhost:4000/blog/2023/10/27/the-liking-gap.html"><![CDATA[<p>I’ve been reading a book lately called Platonic (shout out to the Boston Public Library’s discover section).</p>
 
-<p>It’s a concept I’ve been wrestling with – is this something that is sought out actively or one that occurs naturally? My answer has been slowly shaping towards 30% of the first and 70% of the second.</p>
+<p>There is this concept in it that I found rather insightful: the “liking gap”.</p>
 
-<p>As a bit of a tangent, there’s a famous psychiatrist Dr. Phil Stutz who popularized the idea of one’s “life force”, pictured as a pyramid. At the bottom of the pyramid you have body, in the middle you have relationships, and at the top you have self.</p>
+<p>The “liking gap” is the concept that how much we perceive someone likes us is usually an underestimate of how much they actually do.</p>
 
-<p>When lost or in search of meaning, focusing on one or more of these levels is a way to keep movement in your life.</p>
+<p>This can be translated into a number of scenarios.</p>
 
-<p>Focus on your body: start eating better, run, sleep, go outside and feel the sun warm your face – anything to get the body moving and feeling good.</p>
+<p>For me, I’ve used this when chatting to people at events – I assume they’d like to chat and are open to connection.</p>
 
-<p>Enrich and strengthen your relationships with others: seek out those who you want to feel connected to, show up for each other.</p>
+<p>I approach them, say hello and introduce myself, and ask a question.</p>
 
-<p>And finally, work on yourself: improve your skills, learn something new, tangential, unrelated to anything else. Focus on broadening values and experiences.</p>
+<p>Most recently I was at a Bahamas concert and noticed a few people next to me.</p>
 
-<p>I’ve really been in a rut lately and have had to remind myself that things have always happened for me when I focused on my “life force” first and that I need to trust in myself. Because it is only through doing that, that I feel I can find what my own ikigai is.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Ikigai is a Japanese concept that roughly translates to “a reason for being”. You might have seen it floating around the internet as a Venn diagram with 4 circles: what you love, what you’re good at, what you can be paid for, and what the world needs.]]></summary></entry><entry><title type="html">Resgen</title><link href="http://localhost:4000/projects/2023/08/14/resgen.html" rel="alternate" type="text/html" title="Resgen" /><published>2023-08-14T00:00:00+09:00</published><updated>2023-08-14T00:00:00+09:00</updated><id>http://localhost:4000/projects/2023/08/14/resgen</id><content type="html" xml:base="http://localhost:4000/projects/2023/08/14/resgen.html"><![CDATA[<p>Will do a more formal writeup at some point, but the project is here: <a href="https://resgen.app">Resgen</a></p>]]></content><author><name></name></author><category term="projects" /><summary type="html"><![CDATA[Will do a more formal writeup at some point, but the project is here: Resgen]]></summary></entry><entry><title type="html">Next steps for your application to tech.ai</title><link href="http://localhost:4000/blog/2023/08/14/your-application.html" rel="alternate" type="text/html" title="Next steps for your application to tech.ai" /><published>2023-08-14T00:00:00+09:00</published><updated>2023-08-14T00:00:00+09:00</updated><id>http://localhost:4000/blog/2023/08/14/your-application</id><content type="html" xml:base="http://localhost:4000/blog/2023/08/14/your-application.html"><![CDATA[<p>Hi there, {applicant}!</p>
+<p>They weren’t initiating, so I remembered what I read about the liking gap. So, I initiated and we connected over our love of the band and chatted about their new album – it was a great connection!</p>
 
-<p>We’re so happy that you expressed your interest in joining <strong>tech.ai</strong> — the leading AI company transforming the {industry} industry (and is <em>definitely not</em> just an API call to OpenAI)!</p>
+<p>Another recent connection is a friend I’ve been emailing back and forth with after finding their blog. I was interested in their story, and felt I could maybe offer some advice for their situation. It’s been fun so far to encourage them to start a project and to also reflect on how much I’ve grown with my technical knowledge from my own projects.</p>
 
-<p>We have received your application and are happy to move you on to the first round which is a take-home assignment which shouldn’t take you more than 2-3 weeks. We hope you have as much fun completing it as we have had designing it! It’s designed to test a variety of skills such as:</p>
-
-<ul>
-  <li>perseverance</li>
-  <li>obedience</li>
-  <li>how much shit you can take</li>
-  <li>your desperation for a job</li>
-  <li>coding!</li>
-</ul>
-
-<p>We’ve attached the prompt for the first round to this email, it’s a quick 22 page read to give you sufficient background into the problem. (Hint: don’t forget the quirk on page 17!).</p>
-
-<p>The expected output is a report document that is expected to contain UML diagrams, Figma wireframes, burndown charts of your progress, a picture of a pony, and a detailed document of your approach and reasoning for each line of code. Additionally, we expect the project to be completed in both python 2.7 and 3.11 - we advise creating a docker image of your project so we can run it on our end.</p>
-
-<p>To give you a peek at the rest of the process - we’ve optimized it for speed since we are <strong>urgently hiring</strong>. So, if you are deemed worthy enough to pass the first stage, the rest of the interview process will look like the following (subject to change):</p>
-
-<ol>
-  <li>Recruiter phone screen to go over your resume [30 min]</li>
-  <li>Live coding and behavioral interview [60 min]</li>
-  <li>Chat with Product Manager [45 min]</li>
-  <li>Second take-home assignment [2-3 weeks]</li>
-  <li>Review of first and second take-home assignments [10 min]</li>
-  <li>Behavioral interview with principal engineer [30 mins]</li>
-  <li>Third take-home assignment [2-3 weeks]</li>
-  <li>Presentation of third take-home to hiring panel [3 hours]</li>
-  <li>Meet and greet with other engineers [60 min]</li>
-  <li>2 month paid working trial [2 months]</li>
-  <li>Chat with CPO [60 mins]</li>
-  <li>Wait 2 weeks while we see if there is someone else [2 weeks]</li>
-  <li>Offer!</li>
-</ol>
-
-<p>We’ve carefully crafted all 13 steps above to help make the process easy and ensure that there is a good fit — the hiring process goes both ways, after all!</p>
-
-<p>Due to the high volume of applicants, we can’t guarantee that we’ll get back to you with detailed feedback of your take-home assignment, but we’ll make sure to maybe skim some of the first page.</p>
-
-<p>Thanks again for your interest in tech.ai! We can’t wait to have you on board.</p>
-
-<p>Sincerely,</p>
-
-<p>{recruiter}</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Hi there, {applicant}!]]></summary></entry></feed>
+<p>The best part of all this is that it is <em>repeatable</em> and <em>practicable</em>. I can do it whenever, wherever, make new connections, meet new people, learn about them and their world and maybe, just maybe, foster a new friendship.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[I’ve been reading a book lately called Platonic (shout out to the Boston Public Library’s discover section).]]></summary></entry></feed>
