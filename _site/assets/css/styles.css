@@ -17,7 +17,8 @@
   --font-headers: "VT323", monospace;
   --font-special: "Press Start 2P", cursive;
   /* Decorations */
-  --pattern-dots: url("data:image/svg+xml,%3Csvg width='20' height='20' viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23ffffff' fill-opacity='0.2' fill-rule='evenodd'%3E%3Ccircle cx='3' cy='3' r='1'/%3E%3Ccircle cx='13' cy='13' r='1'/%3E%3C/g%3E%3C/svg%3E");
+  /* Decorations */
+  --pattern-dots: url("data:image/svg+xml,%3Csvg%20width%3D'20'%20height%3D'20'%20viewBox%3D'0%200%2020%2020'%20xmlns%3D'http%3A//www.w3.org/2000/svg'%3E%3Cg%20fill%3D'%23ffffff'%20fill-opacity%3D'0.2'%20fill-rule%3D'evenodd'%3E%3Ccircle%20cx%3D'3'%20cy%3D'3'%20r%3D'1'/%3E%3Ccircle%20cx%3D'13'%20cy%3D'13'%20r%3D'1'/%3E%3C/g%3E%3C/svg%3E");
 }
 
 /* Reset */
