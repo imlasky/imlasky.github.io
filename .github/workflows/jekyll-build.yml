@@ -33,7 +33,7 @@ jobs:
       - name: 📂 Check _site directory contents
         run: |
           echo "Contents of _site:"
-          ls -la _site
+          ls -la _site/blog
 
       - name: 🚀 Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
