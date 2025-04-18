@@ -18,20 +18,15 @@ jobs:
           ruby-version: '3.1'
           bundler-cache: true
       
-      - name: List files in _posts directory
+      - name: Check Posts Directory
         run: |
-          echo "Contents of _posts directory:"
-          ls -la _posts/
+          echo "Contents of blog/_posts directory:"
+          ls -la blog/_posts/
       
       - name: 🔨 Build Site
         run: |
           bundle install
-          JEKYLL_ENV=production bundle exec jekyll build --verbose
-      
-      - name: List generated files
-        run: |
-          echo "Contents of _site directory:"
-          find _site -type f | grep -i "2025"
+          bundle exec jekyll build --verbose
       
       - name: 🚀 Deploy
         uses: peaceiris/actions-gh-pages@v3
