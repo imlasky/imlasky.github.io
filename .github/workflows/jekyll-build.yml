@@ -1,15 +1,16 @@
 name: Build and deploy Jekyll site
-
 on:
   push:
     branches:
-      - main  # or master, depending on your default branch
+      - main # or master, depending on your default branch
 
 jobs:
   github-pages:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # Important for getting all history for Jekyll last modified dates
       
       - name: 💎 Setup Ruby
         uses: ruby/setup-ruby@v1
@@ -27,4 +28,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
-          publish_branch: gh-pages  # The branch where the built site will be published
+          publish_branch: gh-pages # The branch where the built site will be published
+          force_orphan: true # This creates a clean history on the gh-pages branch
+          enable_jekyll: false # Jekyll is already built in the previous step
