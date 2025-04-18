@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-17T18:38:00+09:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">“AI-powered” has become a red flag</title><link href="http://localhost:4000/blog/2024/06/27/ai-powered-has-become-a-red-flag.html" rel="alternate" type="text/html" title="“AI-powered” has become a red flag" /><published>2024-06-27T00:00:00+09:00</published><updated>2024-06-27T00:00:00+09:00</updated><id>http://localhost:4000/blog/2024/06/27/ai-powered-has-become-a-red-flag</id><content type="html" xml:base="http://localhost:4000/blog/2024/06/27/ai-powered-has-become-a-red-flag.html"><![CDATA[<p>Since the launch of ChatGPT back in 2022 AI has explod — just kidding. Those lead-ins are getting tiring, right?</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-19T07:11:56+09:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Back at it</title><link href="http://localhost:4000/blog/2025/04/19/back.html" rel="alternate" type="text/html" title="Back at it" /><published>2025-04-19T00:00:00+09:00</published><updated>2025-04-19T00:00:00+09:00</updated><id>http://localhost:4000/blog/2025/04/19/back</id><content type="html" xml:base="http://localhost:4000/blog/2025/04/19/back.html"><![CDATA[<p>One thing I wish I do more is write. But for some reason there’s always some blocker, some reason or little bump that I look at and go “Neeehhh”.</p>
+
+<p>I got this blog back up and running. I was previously on Bear blog, which I like the ethos of, but for some reason made me want to write less. Not sure why, maybe because I knew I wasn’t just writing into the aether, but to a platform.</p>
+
+<p>Here I write for myself, no need for upvotes or <a href="/blog/_posts/2023-01-09-vanity-metrics.md">vanity metrics</a>.</p>
+
+<p>So, I plan on writing more. Also, the 100 day challenge I gave for myself previously felt like pressure and if I missed a day, I then felt less inclined to write again.</p>
+
+<p>Here I’m going to just write into the void, when I want and what I want.</p>
+
+<p>Feels good.</p>]]></content><author><name></name></author><category term="blog" /><category term="blogging" /><summary type="html"><![CDATA[One thing I wish I do more is write. But for some reason there’s always some blocker, some reason or little bump that I look at and go “Neeehhh”.]]></summary></entry><entry><title type="html">“AI-powered” has become a red flag</title><link href="http://localhost:4000/blog/2024/06/27/ai-powered-has-become-a-red-flag.html" rel="alternate" type="text/html" title="“AI-powered” has become a red flag" /><published>2024-06-27T00:00:00+09:00</published><updated>2024-06-27T00:00:00+09:00</updated><id>http://localhost:4000/blog/2024/06/27/ai-powered-has-become-a-red-flag</id><content type="html" xml:base="http://localhost:4000/blog/2024/06/27/ai-powered-has-become-a-red-flag.html"><![CDATA[<p>Since the launch of ChatGPT back in 2022 AI has explod — just kidding. Those lead-ins are getting tiring, right?</p>
 
 <p>But what has become even more irritating is how everything is “AI-powered” all of a sudden.</p>
 
@@ -338,33 +348,4 @@ I’m only doing that which makes me feel alive</p>
 
 <p>I felt good about getting it out of the house and would rather toss it out than put it in my body anymore.</p>
 
-<p>It was a good step forward for me and felt like a stake in the ground that I have had enough of how I’m eating.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Last Friday we hosted a Halloween party. As expected, all of our friends brought food, in addition to the food that we bought for the party: cupcakes, Oreos, chips, pretzels, candy, candy corn, and a ton of booze.]]></summary></entry><entry><title type="html">Guava</title><link href="http://localhost:4000/projects/2023/10/27/guava.html" rel="alternate" type="text/html" title="Guava" /><published>2023-10-27T00:00:00+09:00</published><updated>2023-10-27T00:00:00+09:00</updated><id>http://localhost:4000/projects/2023/10/27/guava</id><content type="html" xml:base="http://localhost:4000/projects/2023/10/27/guava.html"><![CDATA[<p>I’m traveling soon. World travels. Maybe for a year or two. And, as one does, I’m going to make a blog.</p>
-
-<p>While Jekyll has been good to me for this blog, what I want is something that is more flexible, and something I don’t have to write in markdown in VSCode and push changes.</p>
-
-<p>No, I want dead-easy, drag-and-drop, flexible, mobile-friendly, and <em>fast</em>.</p>
-
-<p>I want to be able to move images where I want them, add sounds of city streets as someone reads a post, be able to draw arrows right on the page to point to something interesting.</p>
-
-<p>I want to be able to keep my family and friends up to date when a new post is there and know where I am in the world, give them the ability to add suggestions – make posts <em>multiplayer</em>.</p>
-
-<p>There are a few platforms out there that embody similar ideals, and I’m trying to create a mashup of them.</p>
-
-<p>My inspiration is coming from sites like:</p>
-
-<ul>
-  <li><a href="https://mmm.page">mmm.page</a></li>
-  <li><a href="https://bearblog.dev">Bear Blog</a></li>
-  <li><a href="https://ghost.org">Ghost</a></li>
-</ul>
-
-<p>So, let’s get cracking!</p>
-
-<hr />
-<h3 id="october-27-2023">October 27, 2023</h3>
-
-<p>I’ve already laid the groundwork for text and images. Namely, I’ve been able to integrate the TipTap editor into a new element, and select images.</p>
-
-<p>Things like copy/paste, delete, resize, and drag to position are also in.</p>
-
-<p>The main challenge right now is getting the elements to look right on both desktop and mobile. The idea is be able to specify where I’d want the element to be on the desktop and where I want it on mobile, if at all. Something like visual breakpoints for each element. By default, it would be a fixed element that, as the screen size shrinks, it goes off the page if outside the bounds.</p>]]></content><author><name></name></author><category term="projects" /><summary type="html"><![CDATA[I’m traveling soon. World travels. Maybe for a year or two. And, as one does, I’m going to make a blog.]]></summary></entry></feed>
+<p>It was a good step forward for me and felt like a stake in the ground that I have had enough of how I’m eating.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Last Friday we hosted a Halloween party. As expected, all of our friends brought food, in addition to the food that we bought for the party: cupcakes, Oreos, chips, pretzels, candy, candy corn, and a ton of booze.]]></summary></entry></feed>
