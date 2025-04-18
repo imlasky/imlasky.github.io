@@ -3,7 +3,7 @@ name: Build and deploy Jekyll site
 on:
   push:
     branches:
-      - main # or master
+      - main 
 
 jobs:
   github-pages:
@@ -20,20 +20,10 @@ jobs:
           ruby-version: '3.1'
           bundler-cache: true
 
-      - name: 🧐 Check _posts directory
-        run: |
-          echo "Contents of blog/_posts:"
-          ls -la blog/_posts/
-
       - name: 🛠️ Build the Jekyll site
         run: |
           bundle install
-          bundle exec jekyll build --destination _site
-
-      - name: 📂 Check _site directory contents
-        run: |
-          echo "Contents of _site:"
-          ls -la _site/blog
+          bundle exec jekyll build
 
       - name: 🚀 Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
