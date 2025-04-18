@@ -28,18 +28,11 @@ jobs:
           bundle install
           bundle exec jekyll build --verbose
       
-      - name: Check Built Site
-        run: |
-          echo "Looking for your 2025 posts in built site:"
-          find _site -type f | grep -i "2025"
-          echo "All HTML files in _site directory:"
-          find _site -name "*.html" | sort
-      
       - name: 🚀 Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
+          publish_dir: _site
           publish_branch: gh-pages
           force_orphan: true
           enable_jekyll: false
