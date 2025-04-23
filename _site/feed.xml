@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-22T19:50:51+09:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Blog Post From My Email</title><link href="http://localhost:4000/blog/2025/04/22/blog-post-from-my-email.html" rel="alternate" type="text/html" title="Blog Post From My Email" /><published>2025-04-22T00:00:00+09:00</published><updated>2025-04-22T00:00:00+09:00</updated><id>http://localhost:4000/blog/2025/04/22/blog-post-from-my-email</id><content type="html" xml:base="http://localhost:4000/blog/2025/04/22/blog-post-from-my-email.html"><![CDATA[<p>If you’re reading this then I have successfully hooked up my email to my blog, so now I can just write an email and a new blog post will appear on my blog!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-23T21:12:39+09:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Daily Tokki</title><link href="http://localhost:4000/projects/2025/04/23/daily-tokki.html" rel="alternate" type="text/html" title="Daily Tokki" /><published>2025-04-23T00:00:00+09:00</published><updated>2025-04-23T00:00:00+09:00</updated><id>http://localhost:4000/projects/2025/04/23/daily-tokki</id><content type="html" xml:base="http://localhost:4000/projects/2025/04/23/daily-tokki.html"><![CDATA[<h3 id="background">Background</h3>
+<p>My partner and I have been working on<a href="https://dailytokki.com?ref=tempproject">Daily Tokki</a> for the better part of 6 months now and are quite happy with it so far.</p>
+
+<p>For some background, she’s Korean and I am learning Korean to better communicate with her family as well as because I’ve fallen in love with the language – it’s so well thought-out, despite its quirks (thanks, King Sejong).</p>
+
+<p>So, I wanted a good way to practice my Korean daily. She always was looking for a way to improve her English, despite already being fluent. So, we figured out that we both wanted something along those lines.</p>
+
+<p>I’ve never been much of an app kind of person and the gamification of them seem to ruin the idea of studying. I wanted a serious study tool, the likes of<a href="https://apps.ankiweb.net">Anki</a>, which knew where I was weak and pushed them repeatedly.</p>
+
+<p>I didn’t need a slick UI or an app, but I needed it to be sent to me each day.</p>
+
+<h3 id="building-it">Building it</h3>
+
+<p>So, we decided on a daily email sent to us with that day’s lesson. We would respond to the email which would then respond back with corrections and suggestions that we can implement next time. It also sends a Anki-compatible list of words and examples that can be imported quickly.</p>
+
+<h4 id="a-slight-tangent-about-email">A slight tangent about email</h4>
+
+<p>I think email is probably the most underrated user interface at the moment in the new “age of AI”. It’s a natural language interface. The AI-models are natural language models. There’s the ability to command entire programs with the quick send of an email.</p>
+
+<p>And here’s the best part: everyone has already downloaded the app to “run” your program. It’s their email client.</p>
+
+<h3 id="email">Email</h3>
+<p>We use Postmark and</p>]]></content><author><name></name></author><category term="projects" /><summary type="html"><![CDATA[Background My partner and I have been working onDaily Tokki for the better part of 6 months now and are quite happy with it so far.]]></summary></entry><entry><title type="html">Blog Post From My Email</title><link href="http://localhost:4000/blog/2025/04/22/blog-post-from-my-email.html" rel="alternate" type="text/html" title="Blog Post From My Email" /><published>2025-04-22T00:00:00+09:00</published><updated>2025-04-22T00:00:00+09:00</updated><id>http://localhost:4000/blog/2025/04/22/blog-post-from-my-email</id><content type="html" xml:base="http://localhost:4000/blog/2025/04/22/blog-post-from-my-email.html"><![CDATA[<p>If you’re reading this then I have successfully hooked up my email to my blog, so now I can just write an email and a new blog post will appear on my blog!</p>
 
 <p>I’m going to use it for a while before doing a proper write up, but the long and short of it is that I used<a href="https://val.town">val.town’s</a> email val functionality to get an email address I can send something to and run code when it comes in. Then the code executes to turn my email (subject is the title, body is the content, in markdown) into a post and then pushes to my GitHub repo with an update. Overall, was able to do in a couple hours!</p>
 
@@ -300,42 +322,4 @@
 I’m only doing that which makes me feel alive</p>
 </blockquote>
 
-<p>Bahamas</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Forget just tryna survive I’m only doing that which makes me feel alive]]></summary></entry><entry><title type="html">Detail and Beauty</title><link href="http://localhost:4000/blog/2023/11/06/detail-and-beauty.html" rel="alternate" type="text/html" title="Detail and Beauty" /><published>2023-11-06T00:00:00+09:00</published><updated>2023-11-06T00:00:00+09:00</updated><id>http://localhost:4000/blog/2023/11/06/detail-and-beauty</id><content type="html" xml:base="http://localhost:4000/blog/2023/11/06/detail-and-beauty.html"><![CDATA[<p>Violin has been a part of my life for a little over 3 years now.</p>
-
-<p>I’ve gone through 4 of the Suzuki books and I’m currently working on <a href="https://www.youtube.com/watch?v=MkmxC8UXPMM">J.S. Bach: Sonata for Violin Solo No. 3 in C Major, BWV 1005 - III. Largo</a>.</p>
-
-<p>The piece is classic Bach: clear, beautiful, melodic lines, with intervals that are unforgiving. Needless to say, this is a tough piece for me.</p>
-
-<p>Making progress has been rough up until my last lesson where my teacher imparted some wisdom that extends beyond just violin and is something I’ve been thinking about all day.</p>
-
-<p>In it’s simplest form, she said this:</p>
-
-<blockquote>
-  <p>Focus on the detail to enjoy the beauty during the process</p>
-</blockquote>
-
-<p>I wanted to hear the gorgeous lines that Bach has crafted in its entirety, and so I was practicing like that. But to properly learn to play it, I need to work from the details up. I can’t expect to play what I have listen to right out of the gate, no matter how much I want to — I have to dig into it and be specific with what I’m doing.</p>
-
-<p>“How should this interval sound?”</p>
-
-<p>“How does my finger feel when I play this double stop?”</p>
-
-<p>“Can I move my wrist to make this transition more comfortable?”</p>
-
-<p>“What if I put my second finger down first?”</p>
-
-<p>“How much hair should my bow have here?”</p>
-
-<p>“Where do I want to be in the bow?”</p>
-
-<p>“Why do I hear a rogue note?”</p>
-
-<p>“Why isn’t this note resonating right now?”</p>
-
-<p>I should take enjoyment in the minutiae of crafting the piece from the ground up, almost as if I’m walking in Bach’s footsteps as he wrote the piece. Feel how the notes fit together – how the phrase is built and rises from simple notes.</p>
-
-<p>Today was the first day I really put this new perspective into my practice – I was fired up. And by the time I finished practicing, the level of progress was dramatic: intervals were singing, my bow and left hand relaxed, a sense of comfort in how to navigate the notes and the phrasing.</p>
-
-<p>It was a breakthrough.</p>
-
-<p>The task now is how to translate this learning into other aspects of my life like eating better, building products, and writing. I suppose the first step is to first identify what what small units I can break things down into: meals, lines of code, and words, for example, and work up from there to enjoy the details while not forgetting about the bigger picture as the goal.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Violin has been a part of my life for a little over 3 years now.]]></summary></entry></feed>
+<p>Bahamas</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Forget just tryna survive I’m only doing that which makes me feel alive]]></summary></entry></feed>
